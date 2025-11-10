@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_30
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 033a5650fee060e489fa320f09138308, type: 2}
+  - {fileID: 11400000, guid: d8ecfae4ba0457d4e8e76da3c61e7bb2, type: 2}
+  - {fileID: 11400000, guid: 36d7019eb88d59848b4375d9c6266129, type: 2}
+  - {fileID: 11400000, guid: f3b5926edbcbea5408540e007c11d338, type: 2}
+  - {fileID: 11400000, guid: ffb0be085c3f0b84b8e9910bf105a628, type: 2}
+  - {fileID: 11400000, guid: e14cf915fcf58c54a93efb847f9c7aff, type: 2}
+  SetName: Official Tournament Pack Vol. 10
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: d8ecfae4ba0457d4e8e76da3c61e7bb2, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 033a5650fee060e489fa320f09138308, type: 2}
+  - {fileID: 11400000, guid: d8ecfae4ba0457d4e8e76da3c61e7bb2, type: 2}
+  - {fileID: 11400000, guid: 36d7019eb88d59848b4375d9c6266129, type: 2}
+  - {fileID: 11400000, guid: f3b5926edbcbea5408540e007c11d338, type: 2}
+  - {fileID: 11400000, guid: ffb0be085c3f0b84b8e9910bf105a628, type: 2}

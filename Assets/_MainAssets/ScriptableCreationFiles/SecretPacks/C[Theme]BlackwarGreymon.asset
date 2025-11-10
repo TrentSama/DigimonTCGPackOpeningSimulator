@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]BlackwarGreymon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: fe94c79859d7d1b4b935bc20c50fbb10, type: 2}
+  - {fileID: 11400000, guid: 3e03e6946080d7c4ab77b1a7dfd21f17, type: 2}
+  - {fileID: 11400000, guid: 9e12d0b7f47287644a79b77fda6ce8af, type: 2}
+  - {fileID: 11400000, guid: ffaabb6a091b3ee499fbd09f747b0b23, type: 2}
+  - {fileID: 11400000, guid: 8aed0470408261c4e94c991a82b6610f, type: 2}
+  - {fileID: 11400000, guid: 5edee2ed889cc694e97edcecc9b1346c, type: 2}
+  - {fileID: 11400000, guid: de6a507e84d72d84db0e8aa859f0aba4, type: 2}
+  - {fileID: 11400000, guid: 3e70b29c7b962cd48926a35fc6ddc87e, type: 2}
+  - {fileID: 11400000, guid: 66947ce1a1dfd9747a5e06eea4b77d1d, type: 2}
+  - {fileID: 11400000, guid: 4374b534fcc39e54ea36a425864fcd30, type: 2}
+  - {fileID: 11400000, guid: 0c36760d19f1da749aacf817978af976, type: 2}
+  - {fileID: 11400000, guid: a767608da7b7d8145a61c15401543db1, type: 2}
+  - {fileID: 11400000, guid: cc53d0ee583bcf14790c8d7dab32cf8e, type: 2}
+  - {fileID: 11400000, guid: 1e61e7a553f66804bba17bc6a68c7402, type: 2}
+  - {fileID: 11400000, guid: a6cbae81bc3cc864e9d9250c66cbffb3, type: 2}
+  - {fileID: 11400000, guid: fccf19357bf0e334d84b14307d8a35df, type: 2}
+  - {fileID: 11400000, guid: eae8e89328f047a4c859a2e1546f3ea3, type: 2}
+  - {fileID: 11400000, guid: 5f5c5d67700daac47bf99bb622ce11a4, type: 2}
+  - {fileID: 11400000, guid: c1af7b47ad4185d4199e2c839ebe1a7b, type: 2}
+  - {fileID: 11400000, guid: cabf8c487f7ebbd46947e937bd5f9946, type: 2}
+  - {fileID: 11400000, guid: 8bceb8aada0d56d4cb00415232fc7b4b, type: 2}
+  - {fileID: 11400000, guid: 271070709b4d406438b76ab2eec1caa1, type: 2}
+  - {fileID: 11400000, guid: 80854cb1b0bfd8441be2b640185674a9, type: 2}
+  - {fileID: 11400000, guid: 86d9405bad31b484b9a69c3c113b4604, type: 2}
+  - {fileID: 11400000, guid: 1f7594cb43cd8da45b5527464d9812ff, type: 2}
+  - {fileID: 11400000, guid: 29729709ade884f41ab9a46409dab606, type: 2}
+  - {fileID: 11400000, guid: cd6ecabdccdf2c24c840758a59c35d9d, type: 2}
+  - {fileID: 11400000, guid: 411769bda63190e4eb85b12d3440aebd, type: 2}
+  - {fileID: 11400000, guid: 0068394274f72d4488c83046d815182e, type: 2}
+  - {fileID: 11400000, guid: 4260477ce0c53c347935f084af5a4688, type: 2}
+  - {fileID: 11400000, guid: fbc52d34492f2d743b4b372e195f82cc, type: 2}
+  - {fileID: 11400000, guid: ef7e3073d2ce57b47882900d918d2e3b, type: 2}
+  SetName: Looking for an Answer
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 3e03e6946080d7c4ab77b1a7dfd21f17, type: 2}
+  - {fileID: 11400000, guid: 9e12d0b7f47287644a79b77fda6ce8af, type: 2}
+  - {fileID: 11400000, guid: fe94c79859d7d1b4b935bc20c50fbb10, type: 2}
+  - {fileID: 11400000, guid: 8bceb8aada0d56d4cb00415232fc7b4b, type: 2}
+  - {fileID: 11400000, guid: 5f5c5d67700daac47bf99bb622ce11a4, type: 2}

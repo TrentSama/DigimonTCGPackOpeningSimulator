@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Legend-Arms
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 249ae43fa6dffa4409105576145048f0, type: 2}
+  - {fileID: 11400000, guid: 8cbad7577b3d6b840a30fde70efb1cf2, type: 2}
+  - {fileID: 11400000, guid: 2414a887c6775c045a27ff3a77a06fcd, type: 2}
+  - {fileID: 11400000, guid: d79d0a48ac58c4f4a9e7b6599ec55fff, type: 2}
+  - {fileID: 11400000, guid: 320b1956a32b5374bae8124da84b024f, type: 2}
+  - {fileID: 11400000, guid: 8640ddb1f48137c4bbe7bd44880cedb5, type: 2}
+  - {fileID: 11400000, guid: 1c724b71e0dbdbf43b5afdca60a59fcc, type: 2}
+  - {fileID: 11400000, guid: e122d15d8cfe79c47bed0486762622bb, type: 2}
+  - {fileID: 11400000, guid: fe042793f02216341844a6eb659d5885, type: 2}
+  - {fileID: 11400000, guid: f038d071fca783a4fb1622ccd15e034c, type: 2}
+  - {fileID: 11400000, guid: f97d069f6d5efba4da1a3ab10e31c9af, type: 2}
+  - {fileID: 11400000, guid: 32be237412f6c7446aa97bd498dd12c9, type: 2}
+  - {fileID: 11400000, guid: 2f0f58cff80dab74097fcdd81bd79ec5, type: 2}
+  - {fileID: 11400000, guid: 4c3c471142fbb624b926229e210668c0, type: 2}
+  - {fileID: 11400000, guid: 8487af675b2dbe04b9f5d9351024ae27, type: 2}
+  - {fileID: 11400000, guid: 2e0087da1a8debb41b41cf52f32a85db, type: 2}
+  - {fileID: 11400000, guid: b36383b9cb3f28a4d8c4f41ae54dfdec, type: 2}
+  - {fileID: 11400000, guid: b7a4115642bb7c140a474018a40092ba, type: 2}
+  - {fileID: 11400000, guid: 90b6bc4e3721b9b44a489fa8de148197, type: 2}
+  - {fileID: 11400000, guid: 51e346682f30525439ce147ece211b2d, type: 2}
+  - {fileID: 11400000, guid: bf8d73540b3eae7419d4721579d9e2fd, type: 2}
+  - {fileID: 11400000, guid: ce0fcfa639dc1064baabac94b5ae48f0, type: 2}
+  - {fileID: 11400000, guid: 06e0aab1eaa9e7d40851dd551f50cdfb, type: 2}
+  - {fileID: 11400000, guid: 7eb72167b8d8c454097bc5fdcd579be1, type: 2}
+  - {fileID: 11400000, guid: 2510d2d0010624346a1d9f581854ec81, type: 2}
+  - {fileID: 11400000, guid: 2f53178fa955ce044b1186c90cd4993b, type: 2}
+  - {fileID: 11400000, guid: 08d8b71da7d66d342b483cd824798ff3, type: 2}
+  - {fileID: 11400000, guid: 545b9949d3d9ef94c960afcbe21958cf, type: 2}
+  - {fileID: 11400000, guid: 0f75c764d41c30744a197b526461e81d, type: 2}
+  - {fileID: 11400000, guid: 397a5fbed6a3b6c408de401305bd1a78, type: 2}
+  SetName: God's Armory
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 8cbad7577b3d6b840a30fde70efb1cf2, type: 2}
+  - {fileID: 11400000, guid: 249ae43fa6dffa4409105576145048f0, type: 2}
+  - {fileID: 11400000, guid: 2414a887c6775c045a27ff3a77a06fcd, type: 2}
+  - {fileID: 11400000, guid: 8640ddb1f48137c4bbe7bd44880cedb5, type: 2}
+  - {fileID: 11400000, guid: d79d0a48ac58c4f4a9e7b6599ec55fff, type: 2}

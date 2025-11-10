@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_1
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 33f43ea131082674c871c4cfb7e4ca35, type: 2}
+  - {fileID: 11400000, guid: 1a23235bd5ca5e0428c7082acb46c17b, type: 2}
+  - {fileID: 11400000, guid: 4a799907a8bca2a41a72ff2a7417974d, type: 2}
+  - {fileID: 11400000, guid: bc7a70293ec9a57499ba7245e380a654, type: 2}
+  - {fileID: 11400000, guid: 13cbc8d1c43d8e84484874d07e752240, type: 2}
+  - {fileID: 11400000, guid: 7088cf40c0b8449428c8be6224f52191, type: 2}
+  SetName: Promotional Pack Ver. 0.0
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 33f43ea131082674c871c4cfb7e4ca35, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  isRebootBooster: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 33f43ea131082674c871c4cfb7e4ca35, type: 2}
+  - {fileID: 11400000, guid: 1a23235bd5ca5e0428c7082acb46c17b, type: 2}
+  - {fileID: 11400000, guid: 4a799907a8bca2a41a72ff2a7417974d, type: 2}
+  - {fileID: 11400000, guid: bc7a70293ec9a57499ba7245e380a654, type: 2}
+  - {fileID: 11400000, guid: 13cbc8d1c43d8e84484874d07e752240, type: 2}

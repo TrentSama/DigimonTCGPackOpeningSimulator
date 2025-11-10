@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_16
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: c41699d5ae5f6114b8eee792435bc0a5, type: 2}
+  - {fileID: 11400000, guid: c2b6c1c7c414df145a0e6dd55b9d254e, type: 2}
+  - {fileID: 11400000, guid: e5a91ea51189f3c418f1d43e05ba548f, type: 2}
+  - {fileID: 11400000, guid: 66afac32b096cb2499a6deb38d1bb195, type: 2}
+  - {fileID: 11400000, guid: b62fd21b9f9a4d441b13852a0ee32d1e, type: 2}
+  - {fileID: 11400000, guid: b1664b61c8a370444b869d55d3515f6c, type: 2}
+  SetName: Official Tournament Pack Vol. 5
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: c41699d5ae5f6114b8eee792435bc0a5, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: c41699d5ae5f6114b8eee792435bc0a5, type: 2}
+  - {fileID: 11400000, guid: c2b6c1c7c414df145a0e6dd55b9d254e, type: 2}
+  - {fileID: 11400000, guid: e5a91ea51189f3c418f1d43e05ba548f, type: 2}
+  - {fileID: 11400000, guid: 66afac32b096cb2499a6deb38d1bb195, type: 2}
+  - {fileID: 11400000, guid: b62fd21b9f9a4d441b13852a0ee32d1e, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_12
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 31fdd00a6a2dd654abd68a1d930d5cae, type: 2}
+  - {fileID: 11400000, guid: 177f2fa745721bc43a146d294a8ffc2a, type: 2}
+  - {fileID: 11400000, guid: fcd2feeeb174ddb46a8bbe546ee2b7ac, type: 2}
+  - {fileID: 11400000, guid: 0bef318ee0bf9fa41af912dcd909c79c, type: 2}
+  - {fileID: 11400000, guid: 5c7ca29003aec644998ff61c27ece97a, type: 2}
+  - {fileID: 11400000, guid: 2ab06c2e96b330b4da9bb6a40b120c07, type: 2}
+  SetName: Double Diamond Dash Pack
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 31fdd00a6a2dd654abd68a1d930d5cae, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 31fdd00a6a2dd654abd68a1d930d5cae, type: 2}
+  - {fileID: 11400000, guid: 177f2fa745721bc43a146d294a8ffc2a, type: 2}
+  - {fileID: 11400000, guid: fcd2feeeb174ddb46a8bbe546ee2b7ac, type: 2}
+  - {fileID: 11400000, guid: 0bef318ee0bf9fa41af912dcd909c79c, type: 2}
+  - {fileID: 11400000, guid: 5c7ca29003aec644998ff61c27ece97a, type: 2}

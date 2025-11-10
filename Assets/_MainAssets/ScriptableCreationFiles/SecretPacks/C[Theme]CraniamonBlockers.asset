@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]CraniamonBlockers
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 5e273fccc5e3f574bab31674ba3f07bb, type: 2}
+  - {fileID: 11400000, guid: de24af0afb50e524bb686302fb3f7b07, type: 2}
+  - {fileID: 11400000, guid: 671431ead1bcaaa449f7356e2d7776bb, type: 2}
+  - {fileID: 11400000, guid: 5406de2e8faa33d43b607bb4eea686fb, type: 2}
+  - {fileID: 11400000, guid: 602698538602f0f4eb5ae466feac526d, type: 2}
+  - {fileID: 11400000, guid: 4630125ca59c68645a632a0202ab0160, type: 2}
+  - {fileID: 11400000, guid: 01b3f041cd2ee454aaf32e192dcb3ded, type: 2}
+  - {fileID: 11400000, guid: 80a42d46e9dbdbd4d96e3b6bdeab37a4, type: 2}
+  - {fileID: 11400000, guid: d0eb30ebd7db2d94fa0af5ff08c930c3, type: 2}
+  - {fileID: 11400000, guid: 8100a7c5592e41245bac988dd03491e9, type: 2}
+  - {fileID: 11400000, guid: 35372cb7e986c1e43a09192f28ebd957, type: 2}
+  - {fileID: 11400000, guid: c23966887c98678438346acbab7a511d, type: 2}
+  - {fileID: 11400000, guid: e86faf24951de5d4487d278e5973a523, type: 2}
+  - {fileID: 11400000, guid: c0265b7e2dace2544943c6ac4fd19860, type: 2}
+  - {fileID: 11400000, guid: 783f98b92a3a5054ebdb4d541deeabfa, type: 2}
+  - {fileID: 11400000, guid: b4bd95cfec952fb46b8429936f9740d3, type: 2}
+  - {fileID: 11400000, guid: 1e61e7a553f66804bba17bc6a68c7402, type: 2}
+  - {fileID: 11400000, guid: a6cbae81bc3cc864e9d9250c66cbffb3, type: 2}
+  - {fileID: 11400000, guid: ef58c67eb9e3935438b058e2cfa3df23, type: 2}
+  - {fileID: 11400000, guid: da7910eff74d0d648a7b84ba907317b7, type: 2}
+  - {fileID: 11400000, guid: 6c20625066184d646bfca4fd5cfcd939, type: 2}
+  - {fileID: 11400000, guid: eae8e89328f047a4c859a2e1546f3ea3, type: 2}
+  - {fileID: 11400000, guid: 41412ba8353fc6c40878c6c881911e3d, type: 2}
+  - {fileID: 11400000, guid: 86d9405bad31b484b9a69c3c113b4604, type: 2}
+  - {fileID: 11400000, guid: 1f7594cb43cd8da45b5527464d9812ff, type: 2}
+  - {fileID: 11400000, guid: 235d1cf13a76cb54b875192d5c025a55, type: 2}
+  - {fileID: 11400000, guid: 2e7c65f4eb166e74ba9923f927fda328, type: 2}
+  - {fileID: 11400000, guid: a78d2c31dabf783478f03925aa04442a, type: 2}
+  - {fileID: 11400000, guid: 0165b51142a20634b9487cf2388f1e91, type: 2}
+  - {fileID: 11400000, guid: 45b6e82c78f11604f8430ce071963479, type: 2}
+  - {fileID: 11400000, guid: 3db773a9c83c48849ab5c6093ddf0dfd, type: 2}
+  - {fileID: 11400000, guid: 6d3dafbd621aa6c46a82b39d14ebe21f, type: 2}
+  - {fileID: 11400000, guid: 57a12a05e94000d4b998b54e7282f414, type: 2}
+  - {fileID: 11400000, guid: c8c3b8aecb68aaf4890647e33b23d7ce, type: 2}
+  - {fileID: 11400000, guid: 88e07a54e8c6bce4990fcb694c36bb28, type: 2}
+  - {fileID: 11400000, guid: 04c2748b2aaf0174ba2ce981f4e32ff3, type: 2}
+  - {fileID: 11400000, guid: c405ef59b210c5b498c310c9e6d56045, type: 2}
+  SetName: Defend the Castle!
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: de24af0afb50e524bb686302fb3f7b07, type: 2}
+  - {fileID: 11400000, guid: 5e273fccc5e3f574bab31674ba3f07bb, type: 2}
+  - {fileID: 11400000, guid: 01b3f041cd2ee454aaf32e192dcb3ded, type: 2}
+  - {fileID: 11400000, guid: d0eb30ebd7db2d94fa0af5ff08c930c3, type: 2}
+  - {fileID: 11400000, guid: 5406de2e8faa33d43b607bb4eea686fb, type: 2}

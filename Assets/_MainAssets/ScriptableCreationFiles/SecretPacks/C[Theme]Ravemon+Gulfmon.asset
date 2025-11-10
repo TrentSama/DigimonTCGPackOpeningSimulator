@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Ravemon+Gulfmon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: cf66da10e962412498559d721e084f57, type: 2}
+  - {fileID: 11400000, guid: 821dda3344458c349bd397361e0fcaed, type: 2}
+  - {fileID: 11400000, guid: c58061b8400f2ed408234d32ee557ba4, type: 2}
+  - {fileID: 11400000, guid: e9fc1de966722be41847d3bc2c34079b, type: 2}
+  - {fileID: 11400000, guid: 57541ccaf7d8c904b9a33a96926a0c7e, type: 2}
+  - {fileID: 11400000, guid: 3a3975c6a7efbac4eb0f76f607518bdf, type: 2}
+  - {fileID: 11400000, guid: 453fab3461c9aa34aafaa478b1cbb226, type: 2}
+  - {fileID: 11400000, guid: 9e8b11b3394fe2445814e92217b5ed2b, type: 2}
+  - {fileID: 11400000, guid: af8d8c2512b759a4c98d7283b5e5b2c3, type: 2}
+  - {fileID: 11400000, guid: ff4abe22be412c74b97106604c28c707, type: 2}
+  - {fileID: 11400000, guid: 78b7c24a714816a4bb010d53da7b0c21, type: 2}
+  - {fileID: 11400000, guid: 6634719a40f01644ab26f67698289da0, type: 2}
+  - {fileID: 11400000, guid: 8dd2f4bbb6075474497014f606910d7e, type: 2}
+  - {fileID: 11400000, guid: 9885f17d4b968664885f67791a338800, type: 2}
+  - {fileID: 11400000, guid: b32fe7efabef68548b338ecf4881432a, type: 2}
+  - {fileID: 11400000, guid: 34414e38efda63243ad37db9c5fa7f22, type: 2}
+  - {fileID: 11400000, guid: 0841073b7df3e1b438e7ba71f62a92af, type: 2}
+  - {fileID: 11400000, guid: cf6f2c874a26253448a5385c520a55c5, type: 2}
+  - {fileID: 11400000, guid: a0e97e89714247f47953e1ff58952c0b, type: 2}
+  - {fileID: 11400000, guid: dcffe8240195b0f47ad34703f0f3b3ba, type: 2}
+  - {fileID: 11400000, guid: 9a0476a7b5375a04b9b35f940fab889d, type: 2}
+  - {fileID: 11400000, guid: 82b2a038579a32546a99672e6ee22bfc, type: 2}
+  - {fileID: 11400000, guid: bba519f8e9513b8409fa7157862336ae, type: 2}
+  - {fileID: 11400000, guid: 7f1f2005d7c44654592d76e3a53f090b, type: 2}
+  - {fileID: 11400000, guid: 6e97207dfd09d09459e94ac678018fa3, type: 2}
+  - {fileID: 11400000, guid: a99de52f3b998b5438f4b4b7778c079a, type: 2}
+  - {fileID: 11400000, guid: b316a13bdc407634180f3bb6acba8490, type: 2}
+  - {fileID: 11400000, guid: e8b0b61e9ce6a64479e2b6e7b1a8ff5a, type: 2}
+  - {fileID: 11400000, guid: a0f16b359192ffd4182f50fa67db6fce, type: 2}
+  - {fileID: 11400000, guid: 3b8d545154adf5149a5e1be31e5b5a80, type: 2}
+  SetName: Shadow's Strike
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: cf66da10e962412498559d721e084f57, type: 2}
+  - {fileID: 11400000, guid: c58061b8400f2ed408234d32ee557ba4, type: 2}
+  - {fileID: 11400000, guid: 821dda3344458c349bd397361e0fcaed, type: 2}
+  - {fileID: 11400000, guid: 3a3975c6a7efbac4eb0f76f607518bdf, type: 2}
+  - {fileID: 11400000, guid: 57541ccaf7d8c904b9a33a96926a0c7e, type: 2}

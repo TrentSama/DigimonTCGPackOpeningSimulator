@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]DigimonWorld
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 34041cc4598ef754186956c28ccf6e67, type: 2}
+  - {fileID: 11400000, guid: b287bbbbc8c95734da759d7160cae3fc, type: 2}
+  - {fileID: 11400000, guid: 1d9818bab84612740ac327542ae44ef9, type: 2}
+  - {fileID: 11400000, guid: e8299847cd6649649b17208f9b0744bd, type: 2}
+  - {fileID: 11400000, guid: ccd0e19478397a14e925dc6ff5865998, type: 2}
+  - {fileID: 11400000, guid: 08a7d06ddb9d4144c9529212b3265602, type: 2}
+  - {fileID: 11400000, guid: 4b8d1d8b839eb7245a12897c17e67ad7, type: 2}
+  - {fileID: 11400000, guid: 19a5a2aff4712ba4b94570a2149c4865, type: 2}
+  - {fileID: 11400000, guid: 64545f3617707d741b310eb4165c15fa, type: 2}
+  - {fileID: 11400000, guid: ec13693b7493fef4b93023bd61db02ff, type: 2}
+  - {fileID: 11400000, guid: dd91a6b2e3f35944f856fb2a78b84ec7, type: 2}
+  - {fileID: 11400000, guid: ab7379c459858b1488a392293a23a40b, type: 2}
+  - {fileID: 11400000, guid: 1d5395d69a85e7449818f9f7025a774b, type: 2}
+  - {fileID: 11400000, guid: 177f2fa745721bc43a146d294a8ffc2a, type: 2}
+  - {fileID: 11400000, guid: d1ff9fdd53cad914eb89caaa8e45db69, type: 2}
+  - {fileID: 11400000, guid: c27ba2df25fb9f04986d604cb7906717, type: 2}
+  - {fileID: 11400000, guid: fdea6385613229a4c98834d868261de4, type: 2}
+  - {fileID: 11400000, guid: 45bd77e1165258841909a7ae9590b95a, type: 2}
+  - {fileID: 11400000, guid: 72404ea5e2d1ffe498d4761da19326a6, type: 2}
+  - {fileID: 11400000, guid: fa658d2a2dd59ef408d5d24e11ccd6aa, type: 2}
+  - {fileID: 11400000, guid: ea56335d2622a644282f65adfbd1bfc2, type: 2}
+  - {fileID: 11400000, guid: 991a612fba262ec469db6c6825d74cc8, type: 2}
+  - {fileID: 11400000, guid: 5aa317f42511aa247af407f28ab22886, type: 2}
+  - {fileID: 11400000, guid: 1a23235bd5ca5e0428c7082acb46c17b, type: 2}
+  - {fileID: 11400000, guid: eac243dfc8f9a06438ae78d7c2b58ca5, type: 2}
+  - {fileID: 11400000, guid: 4fd5cf08a9f73c042b0c33b1b20f4570, type: 2}
+  - {fileID: 11400000, guid: 004193f8a082d63498defaae4a5dbb68, type: 2}
+  - {fileID: 11400000, guid: c361ecbab7b33ab41a69db936ff00ec8, type: 2}
+  - {fileID: 11400000, guid: b3fc44e5090bbfb428586b0a85a5b1d3, type: 2}
+  - {fileID: 11400000, guid: c36b0692bb26c1f40913543b4896546a, type: 2}
+  - {fileID: 11400000, guid: 0778ccdddd5b415458e8c8ee1ebff4ad, type: 2}
+  - {fileID: 11400000, guid: 36cc1053bfdbb39419307b9066ccbc93, type: 2}
+  - {fileID: 11400000, guid: 371918fc421563545923f6f96eb53759, type: 2}
+  - {fileID: 11400000, guid: 270f7ea652ca33949a6c28ec8d4ac74e, type: 2}
+  - {fileID: 11400000, guid: 42b04c5e04815374b8466ba39aaf523d, type: 2}
+  - {fileID: 11400000, guid: 300d5e9468071dc449c650425ed2ef90, type: 2}
+  - {fileID: 11400000, guid: 4dec4e0786eeeab4680738e260d1020b, type: 2}
+  - {fileID: 11400000, guid: 15c41c5101f006e43ba1072a25a504e1, type: 2}
+  - {fileID: 11400000, guid: 909aa2ba4c9da1042affe52bcc2ff924, type: 2}
+  - {fileID: 11400000, guid: a6382ce8721816040befa3928078394e, type: 2}
+  SetName: Digimon World
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: e8299847cd6649649b17208f9b0744bd, type: 2}
+  - {fileID: 11400000, guid: b287bbbbc8c95734da759d7160cae3fc, type: 2}
+  - {fileID: 11400000, guid: 1d9818bab84612740ac327542ae44ef9, type: 2}
+  - {fileID: 11400000, guid: 08a7d06ddb9d4144c9529212b3265602, type: 2}
+  - {fileID: 11400000, guid: 371918fc421563545923f6f96eb53759, type: 2}

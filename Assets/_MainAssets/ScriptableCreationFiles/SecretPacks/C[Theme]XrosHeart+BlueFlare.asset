@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]XrosHeart+BlueFlare
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: cbcbab8b5b42eb244881c2d9c10ca03a, type: 2}
+  - {fileID: 11400000, guid: 7b48e27d160880b469b8af336d410930, type: 2}
+  - {fileID: 11400000, guid: 1fbdbf425798fd340b8e6a1c09cee144, type: 2}
+  - {fileID: 11400000, guid: b8ac5011bf754d346b5e4173130e0ef7, type: 2}
+  - {fileID: 11400000, guid: 643f1a235090c4a4f9a674e9e0336e0e, type: 2}
+  - {fileID: 11400000, guid: d3340d35a5a720c4e869c65f336cc94e, type: 2}
+  - {fileID: 11400000, guid: 653e38128c83df24192132c82ceb7cc3, type: 2}
+  - {fileID: 11400000, guid: 26bdf2a0a4b926f4690d89015508d8ca, type: 2}
+  - {fileID: 11400000, guid: 68f9e2b45c7bf0c4d8de3c7443c4179c, type: 2}
+  - {fileID: 11400000, guid: 55b3f42262f875c40bca35badc3e9ba6, type: 2}
+  - {fileID: 11400000, guid: 452c05e9e4e863c48916addf9ecaade2, type: 2}
+  - {fileID: 11400000, guid: 6d535a8dcbdfb344a97f4be4f81b968c, type: 2}
+  - {fileID: 11400000, guid: b3c01c2cd3b0e1e47b59e039d25da87b, type: 2}
+  - {fileID: 11400000, guid: e6903cf78597b6c458e3df1938dc6913, type: 2}
+  - {fileID: 11400000, guid: 8628d7aeee32198429a4875fbd61007f, type: 2}
+  - {fileID: 11400000, guid: 28f964669b12ba64488605d8c30fec30, type: 2}
+  - {fileID: 11400000, guid: 29fb7fe1a4cb1164fa8cdfc19fb26ab8, type: 2}
+  - {fileID: 11400000, guid: 321a5087441fdac48bb0ce19d5fba665, type: 2}
+  - {fileID: 11400000, guid: 01c8d502f0cab204fb1e46875e530990, type: 2}
+  - {fileID: 11400000, guid: 4f93952ade4de034c8e538f3e19d98f3, type: 2}
+  - {fileID: 11400000, guid: 8cd7651260a1b6942a11eebbe43f61f1, type: 2}
+  - {fileID: 11400000, guid: c303322d93500b944aaa81fb963bc616, type: 2}
+  - {fileID: 11400000, guid: 449951fb6eae4bb4a9234e6e498d3a89, type: 2}
+  - {fileID: 11400000, guid: 694b0d9e2eb928b448a995400cd9f0e0, type: 2}
+  - {fileID: 11400000, guid: 5e30a83ecc8c7b94584a33f672f41368, type: 2}
+  - {fileID: 11400000, guid: 48700deb798ba2b4d861db653a2f3728, type: 2}
+  - {fileID: 11400000, guid: bcfc28fec5a129346a0348ec72a28c1e, type: 2}
+  - {fileID: 11400000, guid: c8e374019e372b34abcd97370d26e9bf, type: 2}
+  - {fileID: 11400000, guid: 8c2527248b25c7e4f90c3c4ffc3f23cb, type: 2}
+  - {fileID: 11400000, guid: 31c8c9575632eb94197f5a251b9fb99c, type: 2}
+  - {fileID: 11400000, guid: bea039f2c964bcb4d98a80b597c87107, type: 2}
+  - {fileID: 11400000, guid: 5d7c0cfca0a0a844aabd2b00d44bbff8, type: 2}
+  - {fileID: 11400000, guid: d4736de88c4ac184b9c468436b79a7ab, type: 2}
+  - {fileID: 11400000, guid: 9fa6b9bf3af996840867447a4c5fcd15, type: 2}
+  - {fileID: 11400000, guid: 9cadbddcf103ebd46af7be6fc454302b, type: 2}
+  - {fileID: 11400000, guid: d1cb3a669d1097d4c83c4701af609f0b, type: 2}
+  - {fileID: 11400000, guid: cf86214b2796be04b95b1c50820ae809, type: 2}
+  - {fileID: 11400000, guid: d7fc4d986669b3b4483ebf45cd1134b3, type: 2}
+  - {fileID: 11400000, guid: 72ec4c9c9ad6aba489a6c6341bf619f2, type: 2}
+  SetName: Azure Xros'ed Hearts
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 1fbdbf425798fd340b8e6a1c09cee144, type: 2}
+  - {fileID: 11400000, guid: 7b48e27d160880b469b8af336d410930, type: 2}
+  - {fileID: 11400000, guid: d3340d35a5a720c4e869c65f336cc94e, type: 2}
+  - {fileID: 11400000, guid: 55b3f42262f875c40bca35badc3e9ba6, type: 2}
+  - {fileID: 11400000, guid: 694b0d9e2eb928b448a995400cd9f0e0, type: 2}

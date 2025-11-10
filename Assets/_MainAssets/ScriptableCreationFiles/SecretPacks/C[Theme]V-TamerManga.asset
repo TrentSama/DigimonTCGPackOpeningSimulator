@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]V-TamerManga
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: b95440713ca4abe4690d8d86628a41bc, type: 2}
+  - {fileID: 11400000, guid: 20254724b2312ad4cab03b8847d9d7c9, type: 2}
+  - {fileID: 11400000, guid: 340e5608e4e9b6c459444f01cc24e364, type: 2}
+  - {fileID: 11400000, guid: fe57668f61edf4e45ab71bded593bf69, type: 2}
+  - {fileID: 11400000, guid: 32e905e80815fc345b2e90e9f026b0c0, type: 2}
+  - {fileID: 11400000, guid: aa64720afbb7c6e4b943b408805c288e, type: 2}
+  - {fileID: 11400000, guid: f9a264db42070ec46997d5d2160db87f, type: 2}
+  - {fileID: 11400000, guid: 214f7f885d395b34a8cda4971f7a346a, type: 2}
+  - {fileID: 11400000, guid: 3b4bf7af543ddbe4b819c3a2d6bfea11, type: 2}
+  - {fileID: 11400000, guid: a137a8ca986cfbb48a3843e6f8475522, type: 2}
+  - {fileID: 11400000, guid: f038d071fca783a4fb1622ccd15e034c, type: 2}
+  - {fileID: 11400000, guid: 9db879b407214f344aea58829134e878, type: 2}
+  - {fileID: 11400000, guid: 29ca8c15ec10bd643bd89a76f9fed543, type: 2}
+  - {fileID: 11400000, guid: dc9854de145d5e843baf97aec1805feb, type: 2}
+  - {fileID: 11400000, guid: d1ff9fdd53cad914eb89caaa8e45db69, type: 2}
+  - {fileID: 11400000, guid: c27ba2df25fb9f04986d604cb7906717, type: 2}
+  - {fileID: 11400000, guid: 1abc3b45c2b72d64583daf98e0c435ab, type: 2}
+  - {fileID: 11400000, guid: 7b2e03cf55d919540af4a54611e2bdee, type: 2}
+  - {fileID: 11400000, guid: fdea6385613229a4c98834d868261de4, type: 2}
+  - {fileID: 11400000, guid: 08bf6f57c06367d41ab53aeff2d8b2b6, type: 2}
+  - {fileID: 11400000, guid: f55388e338c5f0348a36b5acf87ec05a, type: 2}
+  - {fileID: 11400000, guid: c2982076d4f3c3d489de162bdb7f6447, type: 2}
+  - {fileID: 11400000, guid: 83ac436bd35841441826eb9616becf60, type: 2}
+  - {fileID: 11400000, guid: d0641a7d1e4a2464b9dcdd7f0308f538, type: 2}
+  - {fileID: 11400000, guid: bc7a70293ec9a57499ba7245e380a654, type: 2}
+  - {fileID: 11400000, guid: 5516f1a4c4720d1438539ce7d10998f5, type: 2}
+  - {fileID: 11400000, guid: ccdd67dbf1be2f0489c9d041ea8c4d98, type: 2}
+  - {fileID: 11400000, guid: 68177bb11770db34aadffe10a566dd8c, type: 2}
+  - {fileID: 11400000, guid: aa09bbc93a6dd0a49b612c4f11693023, type: 2}
+  - {fileID: 11400000, guid: 64811fd69c89ebe4fbfba074a8708cb9, type: 2}
+  - {fileID: 11400000, guid: 0778ccdddd5b415458e8c8ee1ebff4ad, type: 2}
+  - {fileID: 11400000, guid: aa4a0b4a563538b4a8615af06fae3d9d, type: 2}
+  - {fileID: 11400000, guid: 2471f600bc157c147a1bda71d13c9881, type: 2}
+  - {fileID: 11400000, guid: 10b230ad230376a4f95e27a5091c9b21, type: 2}
+  - {fileID: 11400000, guid: 01bd73f5bdaa07e46ae9f0f586daeda3, type: 2}
+  - {fileID: 11400000, guid: 08d8b71da7d66d342b483cd824798ff3, type: 2}
+  - {fileID: 11400000, guid: eebfe9061c633714a9a67ff986e6f423, type: 2}
+  - {fileID: 11400000, guid: b8ea6fc5c3428a64f86c63dc13f28a50, type: 2}
+  - {fileID: 11400000, guid: 7f1f2005d7c44654592d76e3a53f090b, type: 2}
+  SetName: Memories of the First
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 214f7f885d395b34a8cda4971f7a346a, type: 2}
+  - {fileID: 11400000, guid: 08bf6f57c06367d41ab53aeff2d8b2b6, type: 2}
+  - {fileID: 11400000, guid: aa09bbc93a6dd0a49b612c4f11693023, type: 2}
+  - {fileID: 11400000, guid: 20254724b2312ad4cab03b8847d9d7c9, type: 2}
+  - {fileID: 11400000, guid: b95440713ca4abe4690d8d86628a41bc, type: 2}

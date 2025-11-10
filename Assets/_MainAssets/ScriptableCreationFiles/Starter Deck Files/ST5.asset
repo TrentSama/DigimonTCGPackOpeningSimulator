@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST5
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 5c439bca21e4dd94d9950a696e771e68, type: 2}
+  - {fileID: 11400000, guid: 5c439bca21e4dd94d9950a696e771e68, type: 2}
+  - {fileID: 11400000, guid: 5c439bca21e4dd94d9950a696e771e68, type: 2}
+  - {fileID: 11400000, guid: 5c439bca21e4dd94d9950a696e771e68, type: 2}
+  - {fileID: 11400000, guid: ae9ab926d4f6fe94db12bed6de6c0670, type: 2}
+  - {fileID: 11400000, guid: ae9ab926d4f6fe94db12bed6de6c0670, type: 2}
+  - {fileID: 11400000, guid: ae9ab926d4f6fe94db12bed6de6c0670, type: 2}
+  - {fileID: 11400000, guid: ae9ab926d4f6fe94db12bed6de6c0670, type: 2}
+  - {fileID: 11400000, guid: 86d9405bad31b484b9a69c3c113b4604, type: 2}
+  - {fileID: 11400000, guid: 86d9405bad31b484b9a69c3c113b4604, type: 2}
+  - {fileID: 11400000, guid: 86d9405bad31b484b9a69c3c113b4604, type: 2}
+  - {fileID: 11400000, guid: 86d9405bad31b484b9a69c3c113b4604, type: 2}
+  - {fileID: 11400000, guid: 80854cb1b0bfd8441be2b640185674a9, type: 2}
+  - {fileID: 11400000, guid: 80854cb1b0bfd8441be2b640185674a9, type: 2}
+  - {fileID: 11400000, guid: 80854cb1b0bfd8441be2b640185674a9, type: 2}
+  - {fileID: 11400000, guid: 80854cb1b0bfd8441be2b640185674a9, type: 2}
+  - {fileID: 11400000, guid: 9f51c01985567bc428b50a01bd3ca4a5, type: 2}
+  - {fileID: 11400000, guid: 9f51c01985567bc428b50a01bd3ca4a5, type: 2}
+  - {fileID: 11400000, guid: 9f51c01985567bc428b50a01bd3ca4a5, type: 2}
+  - {fileID: 11400000, guid: 9f51c01985567bc428b50a01bd3ca4a5, type: 2}
+  - {fileID: 11400000, guid: 411769bda63190e4eb85b12d3440aebd, type: 2}
+  - {fileID: 11400000, guid: 411769bda63190e4eb85b12d3440aebd, type: 2}
+  - {fileID: 11400000, guid: 411769bda63190e4eb85b12d3440aebd, type: 2}
+  - {fileID: 11400000, guid: 411769bda63190e4eb85b12d3440aebd, type: 2}
+  - {fileID: 11400000, guid: adbca838ed6a46e4bb89f18bba3d4a08, type: 2}
+  - {fileID: 11400000, guid: adbca838ed6a46e4bb89f18bba3d4a08, type: 2}
+  - {fileID: 11400000, guid: adbca838ed6a46e4bb89f18bba3d4a08, type: 2}
+  - {fileID: 11400000, guid: adbca838ed6a46e4bb89f18bba3d4a08, type: 2}
+  - {fileID: 11400000, guid: 8961c379f8b0cab4c8291a92fecd9ab4, type: 2}
+  - {fileID: 11400000, guid: 8961c379f8b0cab4c8291a92fecd9ab4, type: 2}
+  - {fileID: 11400000, guid: fbc52d34492f2d743b4b372e195f82cc, type: 2}
+  - {fileID: 11400000, guid: fbc52d34492f2d743b4b372e195f82cc, type: 2}
+  - {fileID: 11400000, guid: fbc52d34492f2d743b4b372e195f82cc, type: 2}
+  - {fileID: 11400000, guid: fbc52d34492f2d743b4b372e195f82cc, type: 2}
+  - {fileID: 11400000, guid: 057e9d8a50f03fb44b9c005750ace0c9, type: 2}
+  - {fileID: 11400000, guid: 057e9d8a50f03fb44b9c005750ace0c9, type: 2}
+  - {fileID: 11400000, guid: 057e9d8a50f03fb44b9c005750ace0c9, type: 2}
+  - {fileID: 11400000, guid: 057e9d8a50f03fb44b9c005750ace0c9, type: 2}
+  - {fileID: 11400000, guid: 5b03e890e64f1de4b9677c5c730da562, type: 2}
+  - {fileID: 11400000, guid: 5b03e890e64f1de4b9677c5c730da562, type: 2}
+  - {fileID: 11400000, guid: 0cca47746b3e39a43b0a2465806a9790, type: 2}
+  - {fileID: 11400000, guid: 0cca47746b3e39a43b0a2465806a9790, type: 2}
+  - {fileID: 11400000, guid: dfa5c282211bce5478998a8ca4de8cff, type: 2}
+  - {fileID: 11400000, guid: dfa5c282211bce5478998a8ca4de8cff, type: 2}
+  - {fileID: 11400000, guid: 80a42d46e9dbdbd4d96e3b6bdeab37a4, type: 2}
+  - {fileID: 11400000, guid: 80a42d46e9dbdbd4d96e3b6bdeab37a4, type: 2}
+  - {fileID: 11400000, guid: 80a42d46e9dbdbd4d96e3b6bdeab37a4, type: 2}
+  - {fileID: 11400000, guid: 80a42d46e9dbdbd4d96e3b6bdeab37a4, type: 2}
+  - {fileID: 11400000, guid: 5fb1603d0af3d8345841e5495f6d4796, type: 2}
+  - {fileID: 11400000, guid: 5fb1603d0af3d8345841e5495f6d4796, type: 2}
+  - {fileID: 11400000, guid: 5fb1603d0af3d8345841e5495f6d4796, type: 2}
+  - {fileID: 11400000, guid: 5fb1603d0af3d8345841e5495f6d4796, type: 2}
+  - {fileID: 11400000, guid: dadca3dfbfce0ea4e94f74642404c1e7, type: 2}
+  - {fileID: 11400000, guid: dadca3dfbfce0ea4e94f74642404c1e7, type: 2}
+  SetName: '[ST5] Machine Black'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: dfa5c282211bce5478998a8ca4de8cff, type: 2}
+  SecretPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards: []

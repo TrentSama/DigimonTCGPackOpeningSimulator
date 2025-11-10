@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Patamon+GreatAngels
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 34041cc4598ef754186956c28ccf6e67, type: 2}
+  - {fileID: 11400000, guid: 1bdfcceb58495824c9c66e177de297db, type: 2}
+  - {fileID: 11400000, guid: b95440713ca4abe4690d8d86628a41bc, type: 2}
+  - {fileID: 11400000, guid: 69d3f704cd984844bb5e6a3a889a9e74, type: 2}
+  - {fileID: 11400000, guid: 0b092528f4c42cf4d9584abfb51ff452, type: 2}
+  - {fileID: 11400000, guid: a7249ff5fffaa7444b6fd93d48f54dc1, type: 2}
+  - {fileID: 11400000, guid: da715665120bff54285221332c4ddb35, type: 2}
+  - {fileID: 11400000, guid: 23cf9f337b62115459f57aa4b293a5e8, type: 2}
+  - {fileID: 11400000, guid: 5fd37e9a34828674da317b85b02b1a61, type: 2}
+  - {fileID: 11400000, guid: b5f871ffca2210d45be792f468f52cdb, type: 2}
+  - {fileID: 11400000, guid: e33d329dbf131ea4992df8de08d30c6c, type: 2}
+  - {fileID: 11400000, guid: 3b4bf7af543ddbe4b819c3a2d6bfea11, type: 2}
+  - {fileID: 11400000, guid: 5556139a9d0b4174ab1a604846c147ad, type: 2}
+  - {fileID: 11400000, guid: 3a67eec7d59e0f9499dfee84750dbe6d, type: 2}
+  - {fileID: 11400000, guid: 13cbc8d1c43d8e84484874d07e752240, type: 2}
+  - {fileID: 11400000, guid: 380044dfb17bd1b4b810d4331d60fde1, type: 2}
+  - {fileID: 11400000, guid: e8711f6556f843d409de5e28292b9eda, type: 2}
+  - {fileID: 11400000, guid: 65c583c3e1d0f5b4087420408aece24d, type: 2}
+  - {fileID: 11400000, guid: 7ba03e867794e3540a6e2a931e94f40f, type: 2}
+  - {fileID: 11400000, guid: 05fb348d786bdf247bb8f7b7cf44b8dd, type: 2}
+  - {fileID: 11400000, guid: 4b574e6d8c914314db825e1ba92e89b0, type: 2}
+  - {fileID: 11400000, guid: 9a840b4c44d051d44a26fd19fb0a9e80, type: 2}
+  - {fileID: 11400000, guid: 1e98cb32e98a456418cfa97176bcce87, type: 2}
+  - {fileID: 11400000, guid: a467f425866fc2e44b3680731b1cbc77, type: 2}
+  - {fileID: 11400000, guid: fa26f2a7c9195264f96da47786c06930, type: 2}
+  - {fileID: 11400000, guid: 41cdc1b401ae75144b1b194106e5e73c, type: 2}
+  - {fileID: 11400000, guid: 72e012713bd9490408651d31de51c3d4, type: 2}
+  - {fileID: 11400000, guid: f0b4290ac1ea4e949bba8e84323c094a, type: 2}
+  - {fileID: 11400000, guid: bb6df9077fd01874e8c016283ca0b38f, type: 2}
+  - {fileID: 11400000, guid: 63d2290f03c98c9419d0f0639a8000f3, type: 2}
+  - {fileID: 11400000, guid: c361ecbab7b33ab41a69db936ff00ec8, type: 2}
+  - {fileID: 11400000, guid: d9848e987212b0c478cac6fd9b7638c8, type: 2}
+  - {fileID: 11400000, guid: 3765680ca1b765741bb92036a939e41a, type: 2}
+  - {fileID: 11400000, guid: a734c2b953600574c87f1abb79827dd8, type: 2}
+  - {fileID: 11400000, guid: c81d921bf4443ff4fb1875aaeea47b7d, type: 2}
+  - {fileID: 11400000, guid: 64014f899b26fa4458cb2e043f06b454, type: 2}
+  - {fileID: 11400000, guid: 9b324ce6ecfa518439a6d50bb4643cec, type: 2}
+  - {fileID: 11400000, guid: 3e56359700de6744798eacac6cffd5e3, type: 2}
+  - {fileID: 11400000, guid: 1463668b7c9bd7a4c98610fef5ce9b3d, type: 2}
+  SetName: Angel's Arrival
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 34041cc4598ef754186956c28ccf6e67, type: 2}
+  - {fileID: 11400000, guid: 5fd37e9a34828674da317b85b02b1a61, type: 2}
+  - {fileID: 11400000, guid: 1bdfcceb58495824c9c66e177de297db, type: 2}
+  - {fileID: 11400000, guid: e33d329dbf131ea4992df8de08d30c6c, type: 2}
+  - {fileID: 11400000, guid: 3b4bf7af543ddbe4b819c3a2d6bfea11, type: 2}

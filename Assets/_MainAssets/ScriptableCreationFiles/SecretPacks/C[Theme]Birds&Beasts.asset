@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Birds&Beasts
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 4954647976e057243b10bc0c6850e134, type: 2}
+  - {fileID: 11400000, guid: b12c52f65ef7f2e4393035b84e6f37e7, type: 2}
+  - {fileID: 11400000, guid: 7cf633e5eb2151a4f8c53c9cabc14e70, type: 2}
+  - {fileID: 11400000, guid: e9fc1de966722be41847d3bc2c34079b, type: 2}
+  - {fileID: 11400000, guid: ec0f9cc74cd54b94190330173e58c73f, type: 2}
+  - {fileID: 11400000, guid: 32aa129339813eb4aba8738e006553de, type: 2}
+  - {fileID: 11400000, guid: 4fe00ff5da571e24cad90c6142d7a74a, type: 2}
+  - {fileID: 11400000, guid: 24af76a599d036a45a2a1cef2285b279, type: 2}
+  - {fileID: 11400000, guid: e345e71da4cca4a469fe2f77e24651a6, type: 2}
+  - {fileID: 11400000, guid: 03dd06b0cd75350439e95962657eb4a7, type: 2}
+  - {fileID: 11400000, guid: 7b92f20af4c40e9428af7480deac192f, type: 2}
+  - {fileID: 11400000, guid: 52fc866ddf8c0ba4a814945d16a04c73, type: 2}
+  - {fileID: 11400000, guid: 9c13c1c108b31c5448d6db6de04a0ab9, type: 2}
+  - {fileID: 11400000, guid: af187427aac2f53419b0e96e6a9aa75b, type: 2}
+  - {fileID: 11400000, guid: ab7379c459858b1488a392293a23a40b, type: 2}
+  - {fileID: 11400000, guid: c670c11ff33294c4dab373e48ed848f3, type: 2}
+  - {fileID: 11400000, guid: 190db531b93b9b8408b55e68a74ae5e4, type: 2}
+  - {fileID: 11400000, guid: eeb1b9139a1c4374d908cc8f8b4aaa0a, type: 2}
+  - {fileID: 11400000, guid: 4fe47be375648b041b922d3f5e6d782a, type: 2}
+  - {fileID: 11400000, guid: ad8f26e7490638349b32e532b2437339, type: 2}
+  - {fileID: 11400000, guid: 1ee8e7ef25cff3d4b9f7900198eb181c, type: 2}
+  - {fileID: 11400000, guid: bc18d4ae1427fab4999e985dedc08959, type: 2}
+  - {fileID: 11400000, guid: 895fde4503f7bac4ab02a3c888341225, type: 2}
+  - {fileID: 11400000, guid: 9e1402ea3b7a6364aae1181a70b4ee5e, type: 2}
+  - {fileID: 11400000, guid: 3b43594f115416e45b34f780ac89972b, type: 2}
+  - {fileID: 11400000, guid: 767faf2b3689b2c4a97d2d52feaa768a, type: 2}
+  - {fileID: 11400000, guid: 3da242461f40d5345aece0cf19bf698e, type: 2}
+  - {fileID: 11400000, guid: e0e5930e403a3de44836c995bf99a7d8, type: 2}
+  - {fileID: 11400000, guid: a3eca3d6ee4d3184e9bda49e244ddcc4, type: 2}
+  - {fileID: 11400000, guid: e6f43a93c114e3848a81a6b5e66098cf, type: 2}
+  - {fileID: 11400000, guid: f7e0c79e4a7a4e944815e09ff39b5e20, type: 2}
+  SetName: The Birds and the Beasts
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 7cf633e5eb2151a4f8c53c9cabc14e70, type: 2}
+  - {fileID: 11400000, guid: 32aa129339813eb4aba8738e006553de, type: 2}
+  - {fileID: 11400000, guid: b12c52f65ef7f2e4393035b84e6f37e7, type: 2}
+  - {fileID: 11400000, guid: 4954647976e057243b10bc0c6850e134, type: 2}
+  - {fileID: 11400000, guid: 24af76a599d036a45a2a1cef2285b279, type: 2}

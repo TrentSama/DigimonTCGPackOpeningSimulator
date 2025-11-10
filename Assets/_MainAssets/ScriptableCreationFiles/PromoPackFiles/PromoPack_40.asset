@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_40
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 6a802650735161d4ba4ae84dca0ff2a3, type: 2}
+  - {fileID: 11400000, guid: b87b9776e1cc0ee4b8c1c877466ee124, type: 2}
+  - {fileID: 11400000, guid: d1f05adcdd7751f45ab67e0f6846cf27, type: 2}
+  - {fileID: 11400000, guid: 48f5de06fb2949040a1cb6dbe71b3570, type: 2}
+  - {fileID: 11400000, guid: 4f7fd86fec24aae419063f6f2fc38760, type: 2}
+  - {fileID: 11400000, guid: 63eafd6ec66274f47a1f83e8da79deb4, type: 2}
+  - {fileID: 11400000, guid: 28695e4ddd4cacd44adb3e57ac3ef7fb, type: 2}
+  - {fileID: 11400000, guid: f7734af07918338449457d60d375305d, type: 2}
+  SetName: Illustration Competition Promotional Pack 2023
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 6a802650735161d4ba4ae84dca0ff2a3, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 6a802650735161d4ba4ae84dca0ff2a3, type: 2}
+  - {fileID: 11400000, guid: b87b9776e1cc0ee4b8c1c877466ee124, type: 2}
+  - {fileID: 11400000, guid: d1f05adcdd7751f45ab67e0f6846cf27, type: 2}
+  - {fileID: 11400000, guid: 48f5de06fb2949040a1cb6dbe71b3570, type: 2}
+  - {fileID: 11400000, guid: 4f7fd86fec24aae419063f6f2fc38760, type: 2}

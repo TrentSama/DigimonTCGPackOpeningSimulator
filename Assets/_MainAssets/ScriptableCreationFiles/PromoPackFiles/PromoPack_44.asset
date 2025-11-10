@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_44
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: af187427aac2f53419b0e96e6a9aa75b, type: 2}
+  - {fileID: 11400000, guid: 4f7fd86fec24aae419063f6f2fc38760, type: 2}
+  - {fileID: 11400000, guid: 42aedc7c796aeb047b8b8af25a60194a, type: 2}
+  - {fileID: 11400000, guid: 5d06571d9f6666a4fadf0e7aeed44c38, type: 2}
+  - {fileID: 11400000, guid: 440e674aca85d5b4db1f3811b29c7663, type: 2}
+  - {fileID: 11400000, guid: 181681fe60f06d746bbe7634ff4b945f, type: 2}
+  - {fileID: 11400000, guid: 86098fea0d344494b9001a72e3f8b787, type: 2}
+  - {fileID: 11400000, guid: 5c29bdee8222b83479c6ef222a98c34d, type: 2}
+  SetName: BT7 Special Promotion Cards
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: af187427aac2f53419b0e96e6a9aa75b, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  isRebootBooster: 0
+  KeyCards:
+  - {fileID: 11400000, guid: af187427aac2f53419b0e96e6a9aa75b, type: 2}
+  - {fileID: 11400000, guid: 4f7fd86fec24aae419063f6f2fc38760, type: 2}
+  - {fileID: 11400000, guid: 42aedc7c796aeb047b8b8af25a60194a, type: 2}
+  - {fileID: 11400000, guid: 5d06571d9f6666a4fadf0e7aeed44c38, type: 2}
+  - {fileID: 11400000, guid: 440e674aca85d5b4db1f3811b29c7663, type: 2}

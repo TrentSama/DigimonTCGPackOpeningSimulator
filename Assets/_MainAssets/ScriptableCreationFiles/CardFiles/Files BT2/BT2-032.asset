@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e146e65c551e2a4ca06e83ebab3f59f, type: 3}
+  m_Name: BT2-032
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 0}
+  setNumber: 0
+  CardName: UlforceVeedramon
+  hasAnAltArt: 1
+  rarity: 3
+  secretPackRarity: 2
+  color1: 1
+  color2: 0
+  cardCatagory: 0
+  playCost: 13
+  DPOfCard: 11000
+  cardLevel: 6
+  secretPackToUnlock:
+  - {fileID: 11400000, guid: 33f89d3134aa59b41b698ddf7831b4b9, type: 2}
+  - {fileID: 11400000, guid: 41565aaac1e523445895ef4a4fa6d716, type: 2}
+  - {fileID: 11400000, guid: b9fcbfeee8227484aaa600ec24a122f1, type: 2}
+  - {fileID: 11400000, guid: e9a3131605fe08d4b9431604bf90a4d2, type: 2}
+  amountOwned: 0
+  amountInCurrentDeck: 0

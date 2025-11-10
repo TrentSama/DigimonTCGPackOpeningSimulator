@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]DigizoidArmors
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 15901a5c261edff4595ffbf8ed2b3b1c, type: 2}
+  - {fileID: 11400000, guid: 00dae2f232c89d143ad6967945dd0092, type: 2}
+  - {fileID: 11400000, guid: 719900ac4fa0fdd4691c03b945ff27c5, type: 2}
+  - {fileID: 11400000, guid: 751afa8ffd6a8b042970a285191d3734, type: 2}
+  - {fileID: 11400000, guid: de24af0afb50e524bb686302fb3f7b07, type: 2}
+  - {fileID: 11400000, guid: f70999812caaa714a9dd5235d5b9f901, type: 2}
+  - {fileID: 11400000, guid: ea5479e47df3b474c993dfad102cd595, type: 2}
+  - {fileID: 11400000, guid: 6b03654534e94b04388196f5397bd883, type: 2}
+  - {fileID: 11400000, guid: aa7c794d8a52fb741991312d619e8265, type: 2}
+  - {fileID: 11400000, guid: c17aec8dc8be02c468a471190d0b7942, type: 2}
+  - {fileID: 11400000, guid: 1c8718b12357b884baaaef3a79778faa, type: 2}
+  - {fileID: 11400000, guid: 7e59444e7c7da3744969303d0c00add0, type: 2}
+  - {fileID: 11400000, guid: fe62c8edb278d7a46a7209fd44a8ebeb, type: 2}
+  - {fileID: 11400000, guid: 6c2dc31420e124748ac0d7334f4d2a62, type: 2}
+  - {fileID: 11400000, guid: 040c7faa50ba4804da7b710d4bc542f9, type: 2}
+  - {fileID: 11400000, guid: 7fa7a93bfe0952542a4285e9749cf8dd, type: 2}
+  - {fileID: 11400000, guid: 2739b2aa5f6e6e34f83c41c6d8dac1eb, type: 2}
+  - {fileID: 11400000, guid: 5430d5d00c10a614d84ec449f605b1d2, type: 2}
+  - {fileID: 11400000, guid: 28da59433e0d9d446ac48d6b36965ad2, type: 2}
+  - {fileID: 11400000, guid: da7910eff74d0d648a7b84ba907317b7, type: 2}
+  - {fileID: 11400000, guid: 69e4bbd344361fc47b81f7c5105193cc, type: 2}
+  - {fileID: 11400000, guid: 6c20625066184d646bfca4fd5cfcd939, type: 2}
+  - {fileID: 11400000, guid: 77cc8f1bff11aac4faf4113497ed5639, type: 2}
+  - {fileID: 11400000, guid: 5989d9206dcabdb4c9e6e564ba5b34bc, type: 2}
+  - {fileID: 11400000, guid: ee9fa53e56fcb1d4cac88a7d9a7e8cd7, type: 2}
+  - {fileID: 11400000, guid: 0b28ae6661ac5ce40bd8356a6c5ddaef, type: 2}
+  - {fileID: 11400000, guid: 165167f00b70ce14bb17eae36c260a9e, type: 2}
+  - {fileID: 11400000, guid: dfe00890f8d9980409aa389f2439ecb8, type: 2}
+  - {fileID: 11400000, guid: 2d344e0203f15c247af145bc05e05e60, type: 2}
+  - {fileID: 11400000, guid: 381cd1a40e0a1cc40945dcf4df73c43f, type: 2}
+  - {fileID: 11400000, guid: e915c2d262fe80a4fa300cfdfac54d8a, type: 2}
+  SetName: Bearers of DigiZoid
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: ea5479e47df3b474c993dfad102cd595, type: 2}
+  - {fileID: 11400000, guid: 15901a5c261edff4595ffbf8ed2b3b1c, type: 2}
+  - {fileID: 11400000, guid: c17aec8dc8be02c468a471190d0b7942, type: 2}
+  - {fileID: 11400000, guid: 1c8718b12357b884baaaef3a79778faa, type: 2}
+  - {fileID: 11400000, guid: de24af0afb50e524bb686302fb3f7b07, type: 2}

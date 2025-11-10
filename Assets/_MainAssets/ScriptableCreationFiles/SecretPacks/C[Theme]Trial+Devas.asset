@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Trial+Devas
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 4f7ff29223d735141bde20a627ea1143, type: 2}
+  - {fileID: 11400000, guid: f70999812caaa714a9dd5235d5b9f901, type: 2}
+  - {fileID: 11400000, guid: f0f087e5d6f5bb644961a2b0abfb4570, type: 2}
+  - {fileID: 11400000, guid: b9bc1ac7038174d46bb9750142556dbb, type: 2}
+  - {fileID: 11400000, guid: d28f0058425283447885e3f94178539c, type: 2}
+  - {fileID: 11400000, guid: f1d618da0a44f8f4db954543fe3d8467, type: 2}
+  - {fileID: 11400000, guid: 9a3d5faf8a03ab04f8a4c80f4b83689e, type: 2}
+  - {fileID: 11400000, guid: 1ebabc8787700274f8ee5d87be48c4e6, type: 2}
+  - {fileID: 11400000, guid: 477d56c06781e834d803f87eb7ca1ded, type: 2}
+  - {fileID: 11400000, guid: dd9a5d564857a184cb4f4f923444d6f3, type: 2}
+  - {fileID: 11400000, guid: 3a6c7727d29bf4e48951c49565b80e9b, type: 2}
+  - {fileID: 11400000, guid: 5730a3a4461749b4a9280d63cf85c26b, type: 2}
+  - {fileID: 11400000, guid: 729634358c60da0429e8398753318253, type: 2}
+  - {fileID: 11400000, guid: c19b4b1a77d2b744a9ea6634fd553215, type: 2}
+  - {fileID: 11400000, guid: 7396aed2554318c4786eebb79051474f, type: 2}
+  - {fileID: 11400000, guid: 82bfb7b5d6a7b4e46ae36e38757a67e9, type: 2}
+  - {fileID: 11400000, guid: 228dc543da582e147b794bc3145b20c4, type: 2}
+  - {fileID: 11400000, guid: 23a6ba4c1af9a204699724e37d1f277c, type: 2}
+  - {fileID: 11400000, guid: cec3bd2bb4c3dd74aa006bf19ef934c5, type: 2}
+  - {fileID: 11400000, guid: 3de3435aa72c01546aae0de2b3df2371, type: 2}
+  - {fileID: 11400000, guid: b8d70a5057dd50044ba8a44724b9cf17, type: 2}
+  - {fileID: 11400000, guid: 8fbf8df4c7f865d4790bbb1fdb431bec, type: 2}
+  - {fileID: 11400000, guid: 69893351c1a1b484ba12889e9ff97fa9, type: 2}
+  - {fileID: 11400000, guid: ea120d89c99d10e4b888dfdba676175e, type: 2}
+  - {fileID: 11400000, guid: 9a57ee1474747294ab3cddb24df5084f, type: 2}
+  - {fileID: 11400000, guid: 02cf0e1d134135a4689e6a9a2e59cec9, type: 2}
+  - {fileID: 11400000, guid: 03db1e7d6d0df0241b538c3258a69be3, type: 2}
+  - {fileID: 11400000, guid: 89d8ea67b7c92f440878bf4936fc3f17, type: 2}
+  - {fileID: 11400000, guid: a2a76f2e8edbfb54fae071b99742ca0e, type: 2}
+  - {fileID: 11400000, guid: 5ae2891b3885b1b49a0c133ca2fadb71, type: 2}
+  - {fileID: 11400000, guid: f6d246c33f52bba4ea478a3301dc3580, type: 2}
+  - {fileID: 11400000, guid: dc761cc19e1d9104da6cf8d67829d80f, type: 2}
+  SetName: Trials of the Four Sovereigns
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: f70999812caaa714a9dd5235d5b9f901, type: 2}
+  - {fileID: 11400000, guid: ea120d89c99d10e4b888dfdba676175e, type: 2}
+  - {fileID: 11400000, guid: a2a76f2e8edbfb54fae071b99742ca0e, type: 2}
+  - {fileID: 11400000, guid: 9a3d5faf8a03ab04f8a4c80f4b83689e, type: 2}
+  - {fileID: 11400000, guid: 98fd054345bbfd94788047177ffcafd7, type: 2}

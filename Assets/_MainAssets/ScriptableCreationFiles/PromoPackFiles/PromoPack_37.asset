@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_37
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: cf3d353602b58b34abee5820f530ee4a, type: 2}
+  - {fileID: 11400000, guid: a7445e709e4669c43b3f8a8c05b17c5c, type: 2}
+  - {fileID: 11400000, guid: 8b183729eff0d72458d079f61108f007, type: 2}
+  - {fileID: 11400000, guid: b48ec6385e0a07c4da5c4be1dcb14d4e, type: 2}
+  - {fileID: 11400000, guid: 6f403b06ed82fdd4cbeaf48ecbc0447d, type: 2}
+  - {fileID: 11400000, guid: 547a01b6930b38144b1315160d508ebc, type: 2}
+  - {fileID: 11400000, guid: 33551d10bf1d50744b528263ec16572f, type: 2}
+  - {fileID: 11400000, guid: b0f69b8882cb6ab4c9be9fc80406b79b, type: 2}
+  - {fileID: 11400000, guid: 4be59f96b307f244e870ca6146d4f1c4, type: 2}
+  - {fileID: 11400000, guid: 7ba03e867794e3540a6e2a931e94f40f, type: 2}
+  - {fileID: 11400000, guid: 6a2f676f948fa68478ed28d18142c69d, type: 2}
+  - {fileID: 11400000, guid: 66019549b9553c049b540827cbc0e4d1, type: 2}
+  - {fileID: 11400000, guid: 3736636f60819a240930e83bcdd41adb, type: 2}
+  SetName: 'Tamer Party Pack: -The Beginning- Ver. 2.0'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: cf3d353602b58b34abee5820f530ee4a, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: cf3d353602b58b34abee5820f530ee4a, type: 2}
+  - {fileID: 11400000, guid: a7445e709e4669c43b3f8a8c05b17c5c, type: 2}
+  - {fileID: 11400000, guid: 8b183729eff0d72458d079f61108f007, type: 2}
+  - {fileID: 11400000, guid: b48ec6385e0a07c4da5c4be1dcb14d4e, type: 2}
+  - {fileID: 11400000, guid: 6f403b06ed82fdd4cbeaf48ecbc0447d, type: 2}

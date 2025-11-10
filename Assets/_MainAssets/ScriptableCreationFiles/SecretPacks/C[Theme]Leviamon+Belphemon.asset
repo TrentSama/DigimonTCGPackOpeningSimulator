@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Leviamon+Belphemon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 0f52491e13b205d48b27595fcd09787c, type: 2}
+  - {fileID: 11400000, guid: 07c1cf0d02f527248af936d1d9c0c1c5, type: 2}
+  - {fileID: 11400000, guid: eba7f07764e2e854a87b5b096e2710e0, type: 2}
+  - {fileID: 11400000, guid: 998cc15759d62d641af7a03aed592bab, type: 2}
+  - {fileID: 11400000, guid: 94a101d1f2fd4f345a754cd77b7bcc3d, type: 2}
+  - {fileID: 11400000, guid: febb18cb0f5da2949b88a90e28ead77f, type: 2}
+  - {fileID: 11400000, guid: 49f51899b0a83454bb4163ab15c01d51, type: 2}
+  - {fileID: 11400000, guid: 64aba6f0436363849aa1864fb4e685e4, type: 2}
+  - {fileID: 11400000, guid: ed4ef8855af65eb44842f630bc301b6d, type: 2}
+  - {fileID: 11400000, guid: a8781fc66a780904dac00b64aa9b6021, type: 2}
+  - {fileID: 11400000, guid: e59fe574413b17941a218d8b2a243598, type: 2}
+  - {fileID: 11400000, guid: 2b0ad42d04dea35449af83e1399fcab1, type: 2}
+  - {fileID: 11400000, guid: cecc37aec019b8b45ac3aa269767dd1a, type: 2}
+  - {fileID: 11400000, guid: 5184c67a189fd3347a0d54184b79d374, type: 2}
+  - {fileID: 11400000, guid: 9849df57f458dc24eb70d0db44fbc12e, type: 2}
+  - {fileID: 11400000, guid: 57c15b475f5001841af247f7b5066174, type: 2}
+  - {fileID: 11400000, guid: 3bb71c36d9269144ea2b9c60fb9ffe4a, type: 2}
+  - {fileID: 11400000, guid: 44ae37358c0bff94bb0888adeb0c2442, type: 2}
+  - {fileID: 11400000, guid: ab3632366eb540141916b810c3d34016, type: 2}
+  - {fileID: 11400000, guid: 8c1aecb73116b844390c96f1399582fd, type: 2}
+  - {fileID: 11400000, guid: 241c55a49fd6d114883d1ba77e82c89e, type: 2}
+  - {fileID: 11400000, guid: 47f55e0dffe8fe546b828c121b03e8b2, type: 2}
+  - {fileID: 11400000, guid: e7031c1e1c43c7f43a350897a1c77045, type: 2}
+  - {fileID: 11400000, guid: e73268980a0841c4fb16764f7f8e0c49, type: 2}
+  - {fileID: 11400000, guid: ff6aa58a50d36b843ba646aa7b963e20, type: 2}
+  - {fileID: 11400000, guid: 8676fb6bd1a07024d978212e404f80bb, type: 2}
+  - {fileID: 11400000, guid: 6adc9549bff3bb24c8e0e2f258a3a851, type: 2}
+  - {fileID: 11400000, guid: 1bc04f6fa48571544b590f0d027eb34f, type: 2}
+  - {fileID: 11400000, guid: f7efd52e9f8c2cf40a920804b72c4cae, type: 2}
+  - {fileID: 11400000, guid: 8475631447bde7d4f980636e2c3b756d, type: 2}
+  SetName: Brutality Incarnate
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: eba7f07764e2e854a87b5b096e2710e0, type: 2}
+  - {fileID: 11400000, guid: 0f52491e13b205d48b27595fcd09787c, type: 2}
+  - {fileID: 11400000, guid: 49f51899b0a83454bb4163ab15c01d51, type: 2}
+  - {fileID: 11400000, guid: 998cc15759d62d641af7a03aed592bab, type: 2}
+  - {fileID: 11400000, guid: 07c1cf0d02f527248af936d1d9c0c1c5, type: 2}

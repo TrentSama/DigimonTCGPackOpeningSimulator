@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: SetLMCards
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: d4e0a0e54051d854f9a49ceeaeb158b2, type: 2}
+  - {fileID: 11400000, guid: 9a739a1e943506f4d814c8c5599c172e, type: 2}
+  - {fileID: 11400000, guid: dbb2952046a68634d95654f69df0eb3d, type: 2}
+  - {fileID: 11400000, guid: a7202e824b70bfb4885ffca4a9797f4f, type: 2}
+  - {fileID: 11400000, guid: b65eb540577dcd44bb20c55ef35972fe, type: 2}
+  - {fileID: 11400000, guid: b6a52c5fe1e0fc94f98ab1a8c2721e14, type: 2}
+  - {fileID: 11400000, guid: 36af0150d0d7e204986681d0d6c86fc2, type: 2}
+  - {fileID: 11400000, guid: 24757909cc6df28448d020e67b3d45dc, type: 2}
+  - {fileID: 11400000, guid: 1c058ae76f8cd874d8ea64c6a2c480b6, type: 2}
+  - {fileID: 11400000, guid: d135dd924a488074284855e7bce1cc55, type: 2}
+  - {fileID: 11400000, guid: 285de5d66fa44154d8b428beaac8ac78, type: 2}
+  - {fileID: 11400000, guid: 2fc163c083a5772458a872587c8f225c, type: 2}
+  - {fileID: 11400000, guid: a9b20e6413b7f234b898209bdb1c03ed, type: 2}
+  - {fileID: 11400000, guid: 8100a7c5592e41245bac988dd03491e9, type: 2}
+  - {fileID: 11400000, guid: be7a466bc4b31ea4d8f51580c76d6d3c, type: 2}
+  - {fileID: 11400000, guid: 74f815ac6e9bd4f4e9c105d0e462fee2, type: 2}
+  - {fileID: 11400000, guid: b01661d8fe260eb439fa525472d63b4c, type: 2}
+  - {fileID: 11400000, guid: 574f82301180a504485ad5ee1c1a5231, type: 2}
+  - {fileID: 11400000, guid: 696879a392454074e850ade165ee3a0d, type: 2}
+  - {fileID: 11400000, guid: 5397ffb5ea1fa7044aad06ef34f79746, type: 2}
+  SetName: '[LM-01]'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 5397ffb5ea1fa7044aad06ef34f79746, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: d4e0a0e54051d854f9a49ceeaeb158b2, type: 2}
+  - {fileID: 11400000, guid: b65eb540577dcd44bb20c55ef35972fe, type: 2}
+  - {fileID: 11400000, guid: a9b20e6413b7f234b898209bdb1c03ed, type: 2}
+  - {fileID: 11400000, guid: b01661d8fe260eb439fa525472d63b4c, type: 2}
+  - {fileID: 11400000, guid: 5397ffb5ea1fa7044aad06ef34f79746, type: 2}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_24
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 13cbc8d1c43d8e84484874d07e752240, type: 2}
+  - {fileID: 11400000, guid: 3ff3cca920225e84a84f5ef301b1fbba, type: 2}
+  - {fileID: 11400000, guid: 1eeba851f293b604eba5b9a81076cc84, type: 2}
+  - {fileID: 11400000, guid: 18ddfd9aaddf6f4449bb0b7b21dd01d3, type: 2}
+  - {fileID: 11400000, guid: ba1e2a74e43cd304b895ab492f947760, type: 2}
+  - {fileID: 11400000, guid: 1eb38b35b7c24fa4e91b75d6ebe2b81a, type: 2}
+  - {fileID: 11400000, guid: 0cca47746b3e39a43b0a2465806a9790, type: 2}
+  - {fileID: 11400000, guid: bb086024dafcaff4ab7000f32d7d8890, type: 2}
+  SetName: Digimon Illustration Competition Promotion Pack 2022
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 13cbc8d1c43d8e84484874d07e752240, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 13cbc8d1c43d8e84484874d07e752240, type: 2}
+  - {fileID: 11400000, guid: 3ff3cca920225e84a84f5ef301b1fbba, type: 2}
+  - {fileID: 11400000, guid: 1eeba851f293b604eba5b9a81076cc84, type: 2}
+  - {fileID: 11400000, guid: 18ddfd9aaddf6f4449bb0b7b21dd01d3, type: 2}
+  - {fileID: 11400000, guid: ba1e2a74e43cd304b895ab492f947760, type: 2}

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]OffensiveInsects
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: bca4c50b5752e1647b3cd26143254781, type: 2}
+  - {fileID: 11400000, guid: 2eb718800ace9ff47bc829b8a93e96bd, type: 2}
+  - {fileID: 11400000, guid: 6a965ef5122a9c147841e149560f0e8d, type: 2}
+  - {fileID: 11400000, guid: 4de0ecef5f187eb4c99cc9f5967ad5a5, type: 2}
+  - {fileID: 11400000, guid: c8580ef3c1ac98641b583025748882bc, type: 2}
+  - {fileID: 11400000, guid: 19a5a2aff4712ba4b94570a2149c4865, type: 2}
+  - {fileID: 11400000, guid: 507015d78041de949b1ee07879365c6c, type: 2}
+  - {fileID: 11400000, guid: c51ae5e13579c63409c5b36f7add32cd, type: 2}
+  - {fileID: 11400000, guid: 2a009de826e85a54e8ba9e89e2cd4bb5, type: 2}
+  - {fileID: 11400000, guid: 19905fdb42b6483488c13b02a0a6fe0e, type: 2}
+  - {fileID: 11400000, guid: 71ddf6b54b19c9c4aac186e6029d33db, type: 2}
+  - {fileID: 11400000, guid: ad565b155267fb3488360786df890733, type: 2}
+  - {fileID: 11400000, guid: 8ebc7c3725abcc64e80522eb4b586dbf, type: 2}
+  - {fileID: 11400000, guid: c1b12da72fbea73478110c3bfbba51a8, type: 2}
+  - {fileID: 11400000, guid: af54a03be8785654ebaa34d1f1c84c0b, type: 2}
+  - {fileID: 11400000, guid: 26b2446eab4343b48909d4dad24f7f5c, type: 2}
+  - {fileID: 11400000, guid: b750c4419048818468d19b3e64aa51f7, type: 2}
+  - {fileID: 11400000, guid: 9de94c7e4c1b51e488d8682782c028af, type: 2}
+  - {fileID: 11400000, guid: 34a419179c6c09846b17e03909c070a8, type: 2}
+  - {fileID: 11400000, guid: fb588a52ce13c264fa1e014d5282de16, type: 2}
+  - {fileID: 11400000, guid: c88ee6130195e3f408a18918141de080, type: 2}
+  - {fileID: 11400000, guid: 2a530bc5b4f0bd5449570927dc765de5, type: 2}
+  - {fileID: 11400000, guid: ad7b4c574f89eee428d81aff86ca0882, type: 2}
+  - {fileID: 11400000, guid: 2c088f682153d2c4c9cf3be3fe85f952, type: 2}
+  - {fileID: 11400000, guid: c2639ad6aa17a7446886e874e5b3611a, type: 2}
+  - {fileID: 11400000, guid: cd06c96a62a7a154198bcad7691999a1, type: 2}
+  - {fileID: 11400000, guid: 49870a4bac6c72c4cb0f6e32de38a2b8, type: 2}
+  SetName: 'Eternal Rivals: Battle for the Insect Kingdom'
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: bca4c50b5752e1647b3cd26143254781, type: 2}
+  - {fileID: 11400000, guid: 4de0ecef5f187eb4c99cc9f5967ad5a5, type: 2}
+  - {fileID: 11400000, guid: 19a5a2aff4712ba4b94570a2149c4865, type: 2}
+  - {fileID: 11400000, guid: 6a965ef5122a9c147841e149560f0e8d, type: 2}
+  - {fileID: 11400000, guid: 507015d78041de949b1ee07879365c6c, type: 2}

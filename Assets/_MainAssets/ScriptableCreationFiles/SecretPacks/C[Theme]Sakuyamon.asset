@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Sakuyamon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 574813a1fb2479144ac9f53486319c59, type: 2}
+  - {fileID: 11400000, guid: a3f682bfa08fd4141b32c23798d11d80, type: 2}
+  - {fileID: 11400000, guid: 816fcf5de5bce6c42bacd4909b70f83d, type: 2}
+  - {fileID: 11400000, guid: c9e1acecd4107cc44b5a160b5240d69f, type: 2}
+  - {fileID: 11400000, guid: a86099325831e654b9f75b0b49e4eea9, type: 2}
+  - {fileID: 11400000, guid: f185331ee15e3e348aa9b2ccb5a0f4bc, type: 2}
+  - {fileID: 11400000, guid: c08eaeb8aa1274840b3ec56549ead1c2, type: 2}
+  - {fileID: 11400000, guid: 6103c3fa56f0c58459545165d34f78e9, type: 2}
+  - {fileID: 11400000, guid: 3a51b835bc6a06a42b1026ca1db77289, type: 2}
+  - {fileID: 11400000, guid: 487dfc30bf5219e4bbb1c7389bdcd1bc, type: 2}
+  - {fileID: 11400000, guid: dc463f85319d36e46a3ae3468275e9a3, type: 2}
+  - {fileID: 11400000, guid: 69aa893c889657648a6332a2b63dfc33, type: 2}
+  - {fileID: 11400000, guid: 8bf30ff729a9fa941bc3ecf60a0a6053, type: 2}
+  - {fileID: 11400000, guid: 4a5ba01f6eb995e4a9221fc7f9a4cb5f, type: 2}
+  - {fileID: 11400000, guid: c10d78d48ac18384aa5a297e654c966f, type: 2}
+  - {fileID: 11400000, guid: 40e8073528472554fb9842de299b15a0, type: 2}
+  - {fileID: 11400000, guid: e9d70ecd057c6f54fb009d0716d544bd, type: 2}
+  - {fileID: 11400000, guid: 4343454fbcc1e714991799384ce438f2, type: 2}
+  - {fileID: 11400000, guid: 50bfbf26da5efd24187664eb9f8be0b7, type: 2}
+  - {fileID: 11400000, guid: 198e1dc49af71254fa10135ceed5ea61, type: 2}
+  - {fileID: 11400000, guid: 51ba376352dee474282ae5f210fb5a09, type: 2}
+  - {fileID: 11400000, guid: d79466ce7ceb72040a708b1d8c0b186c, type: 2}
+  - {fileID: 11400000, guid: 93eeaddd3261c6a468b2f15d79780d3d, type: 2}
+  - {fileID: 11400000, guid: 5f1adc44a2806484782121974730efee, type: 2}
+  - {fileID: 11400000, guid: bbaf0e6406193e84d9175dafd3318701, type: 2}
+  - {fileID: 11400000, guid: 37a82c18795bcbd44befbae60a1898a9, type: 2}
+  - {fileID: 11400000, guid: 1946906e22a590948b36de79a45aefe4, type: 2}
+  - {fileID: 11400000, guid: 2d43c304a9af65849bbc58da31b4e638, type: 2}
+  SetName: Taoism Mastery
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 574813a1fb2479144ac9f53486319c59, type: 2}
+  - {fileID: 11400000, guid: 816fcf5de5bce6c42bacd4909b70f83d, type: 2}
+  - {fileID: 11400000, guid: c9e1acecd4107cc44b5a160b5240d69f, type: 2}
+  - {fileID: 11400000, guid: c10d78d48ac18384aa5a297e654c966f, type: 2}
+  - {fileID: 11400000, guid: 6103c3fa56f0c58459545165d34f78e9, type: 2}

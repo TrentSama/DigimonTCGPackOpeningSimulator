@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]FishSources
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 5e273fccc5e3f574bab31674ba3f07bb, type: 2}
+  - {fileID: 11400000, guid: fe62c8edb278d7a46a7209fd44a8ebeb, type: 2}
+  - {fileID: 11400000, guid: 29082112a320292429f450d6247767ec, type: 2}
+  - {fileID: 11400000, guid: 94a101d1f2fd4f345a754cd77b7bcc3d, type: 2}
+  - {fileID: 11400000, guid: 417e6fd8cf6fc35409f588a60da2e48c, type: 2}
+  - {fileID: 11400000, guid: de7b30958154d9c459ebb88e87cb1a06, type: 2}
+  - {fileID: 11400000, guid: 29ca8c15ec10bd643bd89a76f9fed543, type: 2}
+  - {fileID: 11400000, guid: 5fdcd622d854b644292ebeddffd4d9bc, type: 2}
+  - {fileID: 11400000, guid: 86582dfc315edc44d8dfa5c0e3554e9b, type: 2}
+  - {fileID: 11400000, guid: 8ace13d19fce2574090073af1222b969, type: 2}
+  - {fileID: 11400000, guid: d1ff9fdd53cad914eb89caaa8e45db69, type: 2}
+  - {fileID: 11400000, guid: 5c446ab7689e80140b47f309063efbed, type: 2}
+  - {fileID: 11400000, guid: 2cd87a39acc0d6d42944d2ffc49bae40, type: 2}
+  - {fileID: 11400000, guid: c27ba2df25fb9f04986d604cb7906717, type: 2}
+  - {fileID: 11400000, guid: ef348dde4b532014389489fbc7ad2f3c, type: 2}
+  - {fileID: 11400000, guid: 00c63807d54189546b0447b4ce971b4d, type: 2}
+  - {fileID: 11400000, guid: 7fa7a93bfe0952542a4285e9749cf8dd, type: 2}
+  - {fileID: 11400000, guid: 2739b2aa5f6e6e34f83c41c6d8dac1eb, type: 2}
+  - {fileID: 11400000, guid: e938b466088f07242b3121a6a348a859, type: 2}
+  - {fileID: 11400000, guid: 269912dde53238d49b842d6640f93dee, type: 2}
+  - {fileID: 11400000, guid: 7b2e03cf55d919540af4a54611e2bdee, type: 2}
+  - {fileID: 11400000, guid: f81e4bc74f1a9d644ab1c54c1d0e74c9, type: 2}
+  - {fileID: 11400000, guid: 6c339673090333f4c90ac18cb5e77eb6, type: 2}
+  - {fileID: 11400000, guid: 004193f8a082d63498defaae4a5dbb68, type: 2}
+  - {fileID: 11400000, guid: 3b5fb1360a6edf84c84c6d1ff9ffc2e0, type: 2}
+  - {fileID: 11400000, guid: e197f5ee6eda25f469776f87debe178c, type: 2}
+  - {fileID: 11400000, guid: c8d5d23f765ef6c448bac6d26d282134, type: 2}
+  - {fileID: 11400000, guid: 4365264f6fb0fdb4d8c3aee08d530de8, type: 2}
+  - {fileID: 11400000, guid: c1374ad768440db4b8db0c1ae0ff8a3b, type: 2}
+  - {fileID: 11400000, guid: 3d2120a42bec5df4195dde186258cc75, type: 2}
+  - {fileID: 11400000, guid: 6d32ac1edf1de76459aa42fa1ff22d8e, type: 2}
+  - {fileID: 11400000, guid: c0f653fd70ede484bb7cec47d6b8d893, type: 2}
+  SetName: Fishing for Victory
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: fe62c8edb278d7a46a7209fd44a8ebeb, type: 2}
+  - {fileID: 11400000, guid: e938b466088f07242b3121a6a348a859, type: 2}
+  - {fileID: 11400000, guid: 00c63807d54189546b0447b4ce971b4d, type: 2}
+  - {fileID: 11400000, guid: 7b2e03cf55d919540af4a54611e2bdee, type: 2}
+  - {fileID: 11400000, guid: 29ca8c15ec10bd643bd89a76f9fed543, type: 2}

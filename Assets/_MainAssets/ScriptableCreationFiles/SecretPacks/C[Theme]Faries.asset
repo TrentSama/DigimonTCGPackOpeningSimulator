@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Faries
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 9e5bcdb7ac745464cb243d68a131a0b0, type: 2}
+  - {fileID: 11400000, guid: a137a8ca986cfbb48a3843e6f8475522, type: 2}
+  - {fileID: 11400000, guid: 15d9ad8f57d44d6428b369884b2710fd, type: 2}
+  - {fileID: 11400000, guid: f8754c2105fa6a94f8e8c9b0b6be5d13, type: 2}
+  - {fileID: 11400000, guid: cc6f74b8bd25c954aa09deec6f562340, type: 2}
+  - {fileID: 11400000, guid: a0e860be23932ba47aff0aa0fff85c6d, type: 2}
+  - {fileID: 11400000, guid: b3efbca67daec134ea06ebedcc0ebe4e, type: 2}
+  - {fileID: 11400000, guid: 97dea4cd5c83a514fbf6425834da7bcc, type: 2}
+  - {fileID: 11400000, guid: 90fdd816e8b1a5045a5c49d637b24ca0, type: 2}
+  - {fileID: 11400000, guid: 72303522dd75e1f45811ff33d7d2aa56, type: 2}
+  - {fileID: 11400000, guid: 10d391ab8613dad468283e4ed4ac4a57, type: 2}
+  - {fileID: 11400000, guid: f115b55a2a6f0874491be7d50d448499, type: 2}
+  - {fileID: 11400000, guid: 65e15a7d9bbfe61448ca5511b35f65b3, type: 2}
+  - {fileID: 11400000, guid: 4ba54e95b59b0fc458b568aee7f4890a, type: 2}
+  - {fileID: 11400000, guid: 21962d3b419df844c8f56df180144d77, type: 2}
+  - {fileID: 11400000, guid: 826aee02909c5424983d36cd40fed629, type: 2}
+  - {fileID: 11400000, guid: 3e239892c147f6745a6264383b49a83c, type: 2}
+  - {fileID: 11400000, guid: 991a612fba262ec469db6c6825d74cc8, type: 2}
+  - {fileID: 11400000, guid: b27d025dd78455b4697d2775499d60ec, type: 2}
+  - {fileID: 11400000, guid: 0e78e16dee8f0be42a77c5ba1d85b122, type: 2}
+  - {fileID: 11400000, guid: 4e73684c377268248aa3cef3fc808487, type: 2}
+  - {fileID: 11400000, guid: acca392ae569ef24bbf9578f4d08a67f, type: 2}
+  - {fileID: 11400000, guid: 42b04c5e04815374b8466ba39aaf523d, type: 2}
+  - {fileID: 11400000, guid: fda3e84e1aa7b7b459b3569a318b3332, type: 2}
+  - {fileID: 11400000, guid: a3127259bf2cd3843990156a0a769a60, type: 2}
+  - {fileID: 11400000, guid: 477189f894f589e4d9b83520082acd40, type: 2}
+  - {fileID: 11400000, guid: 1eb38b35b7c24fa4e91b75d6ebe2b81a, type: 2}
+  - {fileID: 11400000, guid: 15c41c5101f006e43ba1072a25a504e1, type: 2}
+  - {fileID: 11400000, guid: 5c29bdee8222b83479c6ef222a98c34d, type: 2}
+  - {fileID: 11400000, guid: 2f92742b5c3a30946bf4357e7e2782f5, type: 2}
+  - {fileID: 11400000, guid: 11c7643ff217e954ca2368ee5381876d, type: 2}
+  - {fileID: 11400000, guid: 5024ec0c109ed82459c92f637858bf74, type: 2}
+  - {fileID: 11400000, guid: 1591dfc45ed05774f811c7863e07510d, type: 2}
+  - {fileID: 11400000, guid: 4cc5ac10bd04b7242a1f1841b5b5d435, type: 2}
+  SetName: Unity of Plants and Fairies
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 15d9ad8f57d44d6428b369884b2710fd, type: 2}
+  - {fileID: 11400000, guid: a137a8ca986cfbb48a3843e6f8475522, type: 2}
+  - {fileID: 11400000, guid: b3efbca67daec134ea06ebedcc0ebe4e, type: 2}
+  - {fileID: 11400000, guid: 21962d3b419df844c8f56df180144d77, type: 2}
+  - {fileID: 11400000, guid: 65e15a7d9bbfe61448ca5511b35f65b3, type: 2}

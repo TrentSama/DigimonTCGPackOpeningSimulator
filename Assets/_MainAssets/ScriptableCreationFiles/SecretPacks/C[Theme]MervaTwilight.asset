@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]MervaTwilight
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 6ce4a00ff1d900f4cb930888aa5f0e6e, type: 2}
+  - {fileID: 11400000, guid: ad3b74b775fd77f40a4631c620f4298f, type: 2}
+  - {fileID: 11400000, guid: f61b095db41c93b49bc10ec218394585, type: 2}
+  - {fileID: 11400000, guid: 3959e0f4edbf87040a55d71cb825161e, type: 2}
+  - {fileID: 11400000, guid: b4e80c1c4a3c3524dbd046df547661e0, type: 2}
+  - {fileID: 11400000, guid: 1fb31b63f3319154a89f535f056e9050, type: 2}
+  - {fileID: 11400000, guid: febb18cb0f5da2949b88a90e28ead77f, type: 2}
+  - {fileID: 11400000, guid: cb9d08c353233d749b3cdde43bae304d, type: 2}
+  - {fileID: 11400000, guid: 82686e83cf9f90f42bacbe106063d757, type: 2}
+  - {fileID: 11400000, guid: b3c01c2cd3b0e1e47b59e039d25da87b, type: 2}
+  - {fileID: 11400000, guid: 2f69ffe576307de4b8d2804688fc6d95, type: 2}
+  - {fileID: 11400000, guid: 0f8f06aff1a781b4d94d887901cc0aac, type: 2}
+  - {fileID: 11400000, guid: ec01327a9ea0c134ca3a7bac45681933, type: 2}
+  - {fileID: 11400000, guid: 820c2fd121eaa7348ac6a4fcfb85a052, type: 2}
+  - {fileID: 11400000, guid: 07f35ceb50e5ffe449130e4a89780520, type: 2}
+  - {fileID: 11400000, guid: 790fc3903bad96547bcb1b34545d02d6, type: 2}
+  - {fileID: 11400000, guid: 11f9b5d343611f14fbd377923a7563bd, type: 2}
+  - {fileID: 11400000, guid: d88b24d94cea3ce4e8194370ccfa745c, type: 2}
+  - {fileID: 11400000, guid: 8dd2f4bbb6075474497014f606910d7e, type: 2}
+  - {fileID: 11400000, guid: 724553fc1f232a34b9f89d166e3a2728, type: 2}
+  - {fileID: 11400000, guid: 313f2ff7c49852f419c6f974a999ab11, type: 2}
+  - {fileID: 11400000, guid: a82da0707751a8f47b2292ce52bbf804, type: 2}
+  - {fileID: 11400000, guid: 241c55a49fd6d114883d1ba77e82c89e, type: 2}
+  - {fileID: 11400000, guid: b32fe7efabef68548b338ecf4881432a, type: 2}
+  - {fileID: 11400000, guid: c70591bc4e26c374abd2d76398a04007, type: 2}
+  - {fileID: 11400000, guid: a2fb432f6ead48a46971a7a5c6f6fef9, type: 2}
+  - {fileID: 11400000, guid: d55b0c4fb26d2b4439f84c4401bf132b, type: 2}
+  - {fileID: 11400000, guid: ed0e8a0d0a0f1b146af59df9a6aeee67, type: 2}
+  - {fileID: 11400000, guid: a14a3fbbde76c7a47a84bd95ef5c7cf7, type: 2}
+  - {fileID: 11400000, guid: 899842725d1411c49a783395532fed73, type: 2}
+  - {fileID: 11400000, guid: b746efd37a42ad945bbf4d5eec79b320, type: 2}
+  - {fileID: 11400000, guid: 57e55b5f6f69f3043aa0bb8a2ef310da, type: 2}
+  - {fileID: 11400000, guid: f01048a9fb5990349bfa86b4c689ef0a, type: 2}
+  - {fileID: 11400000, guid: c087b0c668b31dd4d96e92be1a68bb3b, type: 2}
+  SetName: Rataliate at Twilight
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: f61b095db41c93b49bc10ec218394585, type: 2}
+  - {fileID: 11400000, guid: ad3b74b775fd77f40a4631c620f4298f, type: 2}
+  - {fileID: 11400000, guid: 724553fc1f232a34b9f89d166e3a2728, type: 2}
+  - {fileID: 11400000, guid: 3959e0f4edbf87040a55d71cb825161e, type: 2}
+  - {fileID: 11400000, guid: 6ce4a00ff1d900f4cb930888aa5f0e6e, type: 2}

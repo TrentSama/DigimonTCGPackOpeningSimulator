@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e146e65c551e2a4ca06e83ebab3f59f, type: 3}
+  m_Name: ST6-16
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 0}
+  setNumber: 0
+  CardName: Nail Bone
+  hasAnAltArt: 0
+  rarity: 1
+  secretPackRarity: 2
+  color1: 5
+  color2: 0
+  cardCatagory: 3
+  playCost: 7
+  DPOfCard: 0
+  cardLevel: 0
+  secretPackToUnlock:
+  - {fileID: 11400000, guid: b03ab4eed8566d74290f97f2f37c80c2, type: 2}
+  - {fileID: 11400000, guid: b16c7a9d8c384cc40948d5d493e9b018, type: 2}
+  amountOwned: 0
+  amountInCurrentDeck: 0

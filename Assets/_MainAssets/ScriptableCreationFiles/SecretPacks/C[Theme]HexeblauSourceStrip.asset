@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]HexeblauSourceStrip
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: d213ba6e2abaf654d98426a4c9f5d0bf, type: 2}
+  - {fileID: 11400000, guid: 760d35bcc0f0d5e43bb16de0c9605f60, type: 2}
+  - {fileID: 11400000, guid: 9f00ff21ed61e964ba0d0ba291d5bdb6, type: 2}
+  - {fileID: 11400000, guid: d027fb7c553506446864651be1398738, type: 2}
+  - {fileID: 11400000, guid: 04efc2fe186bd7343ba3a58f72d8a53e, type: 2}
+  - {fileID: 11400000, guid: 1533d715351aae64db273bf71c3d7f32, type: 2}
+  - {fileID: 11400000, guid: 9180b34fb0f6a404dbf202cc0df2d963, type: 2}
+  - {fileID: 11400000, guid: 0aae9603351df8c4eae63459d38a18a6, type: 2}
+  - {fileID: 11400000, guid: 4467f73ebb65eb4418b4900e1719b1f9, type: 2}
+  - {fileID: 11400000, guid: 11227cdc4317a2e4bbb14ffd543db89d, type: 2}
+  - {fileID: 11400000, guid: b54cc256cf03f7147953742f6287558e, type: 2}
+  - {fileID: 11400000, guid: 17ba0fdf1e4550b459fe7d3f17239dfc, type: 2}
+  - {fileID: 11400000, guid: 1abc3b45c2b72d64583daf98e0c435ab, type: 2}
+  - {fileID: 11400000, guid: 269912dde53238d49b842d6640f93dee, type: 2}
+  - {fileID: 11400000, guid: c4bce8e205fcaf342825d70dd6a3ef50, type: 2}
+  - {fileID: 11400000, guid: 70e2d7a2fdbe62f4097dc58400dbdfdc, type: 2}
+  - {fileID: 11400000, guid: 98aa12b5e344504448b0ab2947130094, type: 2}
+  - {fileID: 11400000, guid: 3bbfa22ea32bb21489510604dd4701ad, type: 2}
+  - {fileID: 11400000, guid: b8f5bdc861e65134ebb9d0499b38e8a7, type: 2}
+  - {fileID: 11400000, guid: 165167f00b70ce14bb17eae36c260a9e, type: 2}
+  - {fileID: 11400000, guid: ff7d1a3fa4f56054ea2184ba70c5322c, type: 2}
+  - {fileID: 11400000, guid: 9271eb5145a64db4e9784930873285c5, type: 2}
+  - {fileID: 11400000, guid: 599a02301a2b22c48b9188a393487574, type: 2}
+  - {fileID: 11400000, guid: 368e3ef29193e4143aae92e8acd6b97b, type: 2}
+  - {fileID: 11400000, guid: a82d38b91d9bc72409bb88355d7d468d, type: 2}
+  - {fileID: 11400000, guid: 680d3cdb522ed74439fb27204e6f2e0a, type: 2}
+  - {fileID: 11400000, guid: 99fb11ee78e37244085eaa98ba9a7702, type: 2}
+  - {fileID: 11400000, guid: 6e3564e9d6bdbd84aa8ea0e1985a5328, type: 2}
+  - {fileID: 11400000, guid: a3c4bf6cf4a06064b8c70e5e2eb686e7, type: 2}
+  - {fileID: 11400000, guid: 409e3848c440fd04b9a60af87826bfe3, type: 2}
+  - {fileID: 11400000, guid: f1d64f6aa5d023145bd50a4c047ff3e1, type: 2}
+  - {fileID: 11400000, guid: 332d89a4510152c41af6114f11751274, type: 2}
+  - {fileID: 11400000, guid: fbe5ea4e1761a0546a7bbe1d83b41a3b, type: 2}
+  - {fileID: 11400000, guid: c3fe9a7864b33dd40a4a14158bdc8847, type: 2}
+  - {fileID: 11400000, guid: fff095f4ba6624e4586b3a4d229875de, type: 2}
+  SetName: Frozen to their Core
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 760d35bcc0f0d5e43bb16de0c9605f60, type: 2}
+  - {fileID: 11400000, guid: 1533d715351aae64db273bf71c3d7f32, type: 2}
+  - {fileID: 11400000, guid: 04efc2fe186bd7343ba3a58f72d8a53e, type: 2}
+  - {fileID: 11400000, guid: 9180b34fb0f6a404dbf202cc0df2d963, type: 2}
+  - {fileID: 11400000, guid: d027fb7c553506446864651be1398738, type: 2}

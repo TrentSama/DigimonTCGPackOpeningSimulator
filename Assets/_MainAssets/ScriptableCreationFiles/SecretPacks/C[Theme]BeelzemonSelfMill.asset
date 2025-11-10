@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]BeelzemonSelfMill
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: e2e48916a2477514ab0702ae9a77ce29, type: 2}
+  - {fileID: 11400000, guid: f5ce720c4d3e43f4b82699074a2e1e91, type: 2}
+  - {fileID: 11400000, guid: b7a623ab2e1f0ef43b7827d1e0526381, type: 2}
+  - {fileID: 11400000, guid: ac7856793ff905643a3aaf691dec3d36, type: 2}
+  - {fileID: 11400000, guid: e02bcda605bd789408838fd62438930a, type: 2}
+  - {fileID: 11400000, guid: 6e1b2446dba949540a8b3f7938185a44, type: 2}
+  - {fileID: 11400000, guid: e688a202ddec6294caad3874e0da0c5b, type: 2}
+  - {fileID: 11400000, guid: 2ecff719743c8aa40a427e4871fdbf34, type: 2}
+  - {fileID: 11400000, guid: 621f6913685263a4dbe819fe5917cee6, type: 2}
+  - {fileID: 11400000, guid: aca8c4cdaf31e074c9945feceaf953a9, type: 2}
+  - {fileID: 11400000, guid: 7b8c74c4a6e8afb4dabfc5c8e70cdf56, type: 2}
+  - {fileID: 11400000, guid: 301e9462a99867e4f86fc7ca78b057ee, type: 2}
+  - {fileID: 11400000, guid: 693be4066432a9f4dbfb637c864c701b, type: 2}
+  - {fileID: 11400000, guid: 920275c9c905c0741807143d88b6432e, type: 2}
+  - {fileID: 11400000, guid: de82f48df08861a468ba7f7f4ff0b7d5, type: 2}
+  - {fileID: 11400000, guid: 83863e585923497499a1c2d2cdb777be, type: 2}
+  - {fileID: 11400000, guid: 501c80e1b87a8bd4c8e8a474c202c934, type: 2}
+  - {fileID: 11400000, guid: e14cf915fcf58c54a93efb847f9c7aff, type: 2}
+  - {fileID: 11400000, guid: d0ebca63069a35d4097c488aa702828c, type: 2}
+  - {fileID: 11400000, guid: 036291b500e7181469528e5f6e203193, type: 2}
+  - {fileID: 11400000, guid: 1df1da44b1e7a964a85e6b5065df6c87, type: 2}
+  - {fileID: 11400000, guid: 65b65f595272fdb429d12d45e2d7ae90, type: 2}
+  - {fileID: 11400000, guid: b7d5894e03b88af4292f4ef8bb652c06, type: 2}
+  - {fileID: 11400000, guid: 2629102e9a7936149855f8dae062ba5d, type: 2}
+  - {fileID: 11400000, guid: fe1462fab874cc844907da24d29c8b6a, type: 2}
+  - {fileID: 11400000, guid: cfa724fa4aa248041bba69409964f6c4, type: 2}
+  - {fileID: 11400000, guid: 08b7a9b442ca708499f7d23b7ef72388, type: 2}
+  - {fileID: 11400000, guid: 1709860c30f2e7a48b9bbe507c616a05, type: 2}
+  - {fileID: 11400000, guid: c4acbc366f0f2054a979c43c8d613b08, type: 2}
+  - {fileID: 11400000, guid: 080c72a995772c843bb1d374047b4de0, type: 2}
+  - {fileID: 11400000, guid: 47f55e0dffe8fe546b828c121b03e8b2, type: 2}
+  - {fileID: 11400000, guid: 67866dd645bbd9e4ca1cfe28deb43639, type: 2}
+  - {fileID: 11400000, guid: ff6aa58a50d36b843ba646aa7b963e20, type: 2}
+  - {fileID: 11400000, guid: bc23366ccc0b3ad468796c0e7e2500af, type: 2}
+  - {fileID: 11400000, guid: 248bada928351d84f8974c9157f8d052, type: 2}
+  - {fileID: 11400000, guid: 9208d86f033ff354eb25a9868dd350cb, type: 2}
+  - {fileID: 11400000, guid: f7734af07918338449457d60d375305d, type: 2}
+  - {fileID: 11400000, guid: 2bf6770d5da676440a23dc8388575221, type: 2}
+  SetName: 'Self Sacrifice '
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 2ecff719743c8aa40a427e4871fdbf34, type: 2}
+  - {fileID: 11400000, guid: 6e1b2446dba949540a8b3f7938185a44, type: 2}
+  - {fileID: 11400000, guid: e2e48916a2477514ab0702ae9a77ce29, type: 2}
+  - {fileID: 11400000, guid: 7b8c74c4a6e8afb4dabfc5c8e70cdf56, type: 2}
+  - {fileID: 11400000, guid: 621f6913685263a4dbe819fe5917cee6, type: 2}

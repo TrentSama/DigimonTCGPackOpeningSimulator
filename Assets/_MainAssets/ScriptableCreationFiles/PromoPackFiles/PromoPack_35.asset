@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_35
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 4489a1b22721a4c4eab70210a5923ea2, type: 2}
+  - {fileID: 11400000, guid: e4e26cccef3b73d4ebbb3af0cf5b5293, type: 2}
+  - {fileID: 11400000, guid: 0253515f244dd7743905c71dfec2b697, type: 2}
+  - {fileID: 11400000, guid: ad80aa03b49942842a980d7f0c9f8053, type: 2}
+  - {fileID: 11400000, guid: 8a9c1282cd0ee86418b5736f94efbfb3, type: 2}
+  - {fileID: 11400000, guid: e12ca1de00a1b3d468e692562532eefe, type: 2}
+  SetName: BT14 Box Topper Limited Card Set
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 4489a1b22721a4c4eab70210a5923ea2, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 4489a1b22721a4c4eab70210a5923ea2, type: 2}
+  - {fileID: 11400000, guid: e4e26cccef3b73d4ebbb3af0cf5b5293, type: 2}
+  - {fileID: 11400000, guid: 0253515f244dd7743905c71dfec2b697, type: 2}
+  - {fileID: 11400000, guid: ad80aa03b49942842a980d7f0c9f8053, type: 2}
+  - {fileID: 11400000, guid: 8a9c1282cd0ee86418b5736f94efbfb3, type: 2}

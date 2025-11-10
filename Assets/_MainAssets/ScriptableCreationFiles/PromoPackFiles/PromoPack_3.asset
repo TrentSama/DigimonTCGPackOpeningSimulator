@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_3
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: cd06c96a62a7a154198bcad7691999a1, type: 2}
+  - {fileID: 11400000, guid: c323ce328135f5f4dbe5799660b398d2, type: 2}
+  - {fileID: 11400000, guid: d7b326e17d88de34eb2437c98f56facc, type: 2}
+  - {fileID: 11400000, guid: 7682687d8e6fd7045b29e9221d5392dc, type: 2}
+  SetName: Tamer Battle Pack 1
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: cd06c96a62a7a154198bcad7691999a1, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: cd06c96a62a7a154198bcad7691999a1, type: 2}
+  - {fileID: 11400000, guid: c323ce328135f5f4dbe5799660b398d2, type: 2}
+  - {fileID: 11400000, guid: d7b326e17d88de34eb2437c98f56facc, type: 2}
+  - {fileID: 11400000, guid: 7682687d8e6fd7045b29e9221d5392dc, type: 2}

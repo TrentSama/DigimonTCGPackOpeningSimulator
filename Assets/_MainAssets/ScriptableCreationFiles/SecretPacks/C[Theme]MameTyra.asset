@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]MameTyra
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: c4a0126bf448b5c49b6120c676ca09d9, type: 2}
+  - {fileID: 11400000, guid: c297be690ca4521469daf621d2a36d4c, type: 2}
+  - {fileID: 11400000, guid: 5f914e07b59a0ec4380db2ab60982fcf, type: 2}
+  - {fileID: 11400000, guid: 205637ecc9d88d444a6e30be985df983, type: 2}
+  - {fileID: 11400000, guid: 267f425f6598e9e4b9821e9a1d257f6d, type: 2}
+  - {fileID: 11400000, guid: 911e8ae7d029a2f429fba617dab1e889, type: 2}
+  - {fileID: 11400000, guid: b8940989f05c59948b53d9685f9829a1, type: 2}
+  - {fileID: 11400000, guid: b27d025dd78455b4697d2775499d60ec, type: 2}
+  - {fileID: 11400000, guid: 2a49d8fc8a1c66143b17cab24fe8576b, type: 2}
+  - {fileID: 11400000, guid: ea56335d2622a644282f65adfbd1bfc2, type: 2}
+  - {fileID: 11400000, guid: f283ca8d096adf941a506b24237120e1, type: 2}
+  - {fileID: 11400000, guid: 3ac321250938f1e44b391aa9701b9851, type: 2}
+  - {fileID: 11400000, guid: 7d1c250a495e10849bf866f718a9c948, type: 2}
+  - {fileID: 11400000, guid: 5817c91dddc151d4f830c21d4d4af7e9, type: 2}
+  - {fileID: 11400000, guid: f0fc28a96b4ecfd408333dd1086bab36, type: 2}
+  - {fileID: 11400000, guid: 24249abe947f9dd40bc08d9ca92d34c6, type: 2}
+  - {fileID: 11400000, guid: b46baa5a98a1e25499544804dc63b5dc, type: 2}
+  - {fileID: 11400000, guid: 69035cbebabc70b4581516a82bb6bb94, type: 2}
+  - {fileID: 11400000, guid: 4e933df332a6c364aba900334cf62d31, type: 2}
+  - {fileID: 11400000, guid: 782e65b66d954f64fa51cbadec0295ae, type: 2}
+  - {fileID: 11400000, guid: 612ac26a3a3936a4580dae1098a522d9, type: 2}
+  - {fileID: 11400000, guid: d3be93c355408da45bd28b62b9ce0e99, type: 2}
+  - {fileID: 11400000, guid: e65e9912ba0e3b440a495a7d108f442a, type: 2}
+  - {fileID: 11400000, guid: aa4a0b4a563538b4a8615af06fae3d9d, type: 2}
+  - {fileID: 11400000, guid: 270f7ea652ca33949a6c28ec8d4ac74e, type: 2}
+  - {fileID: 11400000, guid: 82cb0bf8be5cab542933f25ebca633bc, type: 2}
+  - {fileID: 11400000, guid: 8aa8638970432c64aae8cb99436fd2bf, type: 2}
+  - {fileID: 11400000, guid: 0cfd0ed3d1a04a54fb4e3a0dfccc150d, type: 2}
+  - {fileID: 11400000, guid: ea295bd22a8e26948990a45542b63201, type: 2}
+  - {fileID: 11400000, guid: a14da1fda927f214781718c5fa001598, type: 2}
+  - {fileID: 11400000, guid: c83685fe9e2f3df4e8d6f721fb66d806, type: 2}
+  - {fileID: 11400000, guid: 8961c379f8b0cab4c8291a92fecd9ab4, type: 2}
+  - {fileID: 11400000, guid: 9a3f9489cb19e6b45a7b7e26870fbaf3, type: 2}
+  - {fileID: 11400000, guid: 057e9d8a50f03fb44b9c005750ace0c9, type: 2}
+  - {fileID: 11400000, guid: be7fbf1905ecd484ebb736a6d0bfd5f2, type: 2}
+  - {fileID: 11400000, guid: 78952db829532ec44adf2e463dd0b5ad, type: 2}
+  SetName: Part Mame, Part Tyra
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: c4a0126bf448b5c49b6120c676ca09d9, type: 2}
+  - {fileID: 11400000, guid: b8940989f05c59948b53d9685f9829a1, type: 2}
+  - {fileID: 11400000, guid: 5f914e07b59a0ec4380db2ab60982fcf, type: 2}
+  - {fileID: 11400000, guid: c297be690ca4521469daf621d2a36d4c, type: 2}
+  - {fileID: 11400000, guid: 267f425f6598e9e4b9821e9a1d257f6d, type: 2}

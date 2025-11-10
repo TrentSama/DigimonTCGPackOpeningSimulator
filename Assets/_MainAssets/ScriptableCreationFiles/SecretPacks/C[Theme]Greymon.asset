@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Greymon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: b72784e2144384a41992622dee31ae6a, type: 2}
+  - {fileID: 11400000, guid: 46b39a2a0cb74e24696797352b1c9cfa, type: 2}
+  - {fileID: 11400000, guid: a8d7b85b5e00d754bbaee4851af87e42, type: 2}
+  - {fileID: 11400000, guid: 340e5608e4e9b6c459444f01cc24e364, type: 2}
+  - {fileID: 11400000, guid: 6ae8321c1035b34458f3480819621198, type: 2}
+  - {fileID: 11400000, guid: ccd0e19478397a14e925dc6ff5865998, type: 2}
+  - {fileID: 11400000, guid: 3a1daa7bf5967724d8e99469451b865b, type: 2}
+  - {fileID: 11400000, guid: 68d7b9ce44efb9d4d8a39eb02c2060e3, type: 2}
+  - {fileID: 11400000, guid: 08a7d06ddb9d4144c9529212b3265602, type: 2}
+  - {fileID: 11400000, guid: de6a507e84d72d84db0e8aa859f0aba4, type: 2}
+  - {fileID: 11400000, guid: fe57668f61edf4e45ab71bded593bf69, type: 2}
+  - {fileID: 11400000, guid: 78c8051b49ec37e4da91c8893f8309f7, type: 2}
+  - {fileID: 11400000, guid: 1ed0dfb2d44ee214ea68069c7253764c, type: 2}
+  - {fileID: 11400000, guid: 779ad35b036583d479b8449456a2834c, type: 2}
+  - {fileID: 11400000, guid: 16e6c4118de9ec542ac61592c7ebcedf, type: 2}
+  - {fileID: 11400000, guid: 87ec7e46c13366e4692d0157a9ea4c88, type: 2}
+  - {fileID: 11400000, guid: c08c1b04ec3cf1f4d88423ee3a0628b3, type: 2}
+  - {fileID: 11400000, guid: dac1a70c3a9f9c14b97ed6f665699c27, type: 2}
+  - {fileID: 11400000, guid: 98962c18bafe467449e7e7065def2da4, type: 2}
+  - {fileID: 11400000, guid: 5c18f1a9e75570240877b685b5c43e2c, type: 2}
+  - {fileID: 11400000, guid: 6c05cc0a6cd6bd940aa164b7ffa66796, type: 2}
+  - {fileID: 11400000, guid: cc53d0ee583bcf14790c8d7dab32cf8e, type: 2}
+  - {fileID: 11400000, guid: 0aae3e6cf306ddc428e1e788cc18647c, type: 2}
+  - {fileID: 11400000, guid: a971ecc68f0727a43ae9e8765c99ed28, type: 2}
+  - {fileID: 11400000, guid: 09da941ba1339ed4aa61e354ae7c0eb2, type: 2}
+  - {fileID: 11400000, guid: 040c7faa50ba4804da7b710d4bc542f9, type: 2}
+  - {fileID: 11400000, guid: 20fc95d5d01025643918947d4257aa66, type: 2}
+  - {fileID: 11400000, guid: 1d5395d69a85e7449818f9f7025a774b, type: 2}
+  - {fileID: 11400000, guid: 55eec73cd0bb2b04593f3048eaa44fc9, type: 2}
+  - {fileID: 11400000, guid: a0db1387a4a3e3340903066594eeb246, type: 2}
+  - {fileID: 11400000, guid: ba1e2a74e43cd304b895ab492f947760, type: 2}
+  - {fileID: 11400000, guid: 4a2ab1bcedfe17841a677e20e3794682, type: 2}
+  - {fileID: 11400000, guid: 92e89bb75e112a84bb2b3239f507e159, type: 2}
+  - {fileID: 11400000, guid: c323ce328135f5f4dbe5799660b398d2, type: 2}
+  - {fileID: 11400000, guid: 573037d3dc2b8944595a8e30332a8bb4, type: 2}
+  - {fileID: 11400000, guid: 629dfc9ab04f5bd48bfd2356d27dc5d8, type: 2}
+  - {fileID: 11400000, guid: dfad2644ac621cb4cb546fa145f71529, type: 2}
+  - {fileID: 11400000, guid: d1c2287a53133644bb67c45c350899ea, type: 2}
+  - {fileID: 11400000, guid: 276e1da1d8e2fc24081b566b3f4fb220, type: 2}
+  - {fileID: 11400000, guid: 2f762f323a5996244ac18cdd40ac701c, type: 2}
+  SetName: Dragon of Courage
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 1ed0dfb2d44ee214ea68069c7253764c, type: 2}
+  - {fileID: 11400000, guid: 6ae8321c1035b34458f3480819621198, type: 2}
+  - {fileID: 11400000, guid: cc53d0ee583bcf14790c8d7dab32cf8e, type: 2}
+  - {fileID: 11400000, guid: 46b39a2a0cb74e24696797352b1c9cfa, type: 2}
+  - {fileID: 11400000, guid: 08a7d06ddb9d4144c9529212b3265602, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e146e65c551e2a4ca06e83ebab3f59f, type: 3}
+  m_Name: BT3-006
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 0}
+  setNumber: 0
+  CardName: DemiMeramon
+  hasAnAltArt: 0
+  rarity: 1
+  secretPackRarity: 2
+  color1: 5
+  color2: 0
+  cardCatagory: 1
+  playCost: 0
+  DPOfCard: 0
+  cardLevel: 2
+  secretPackToUnlock:
+  - {fileID: 11400000, guid: 55adb1cff07d5ec4080658da48a5d6e0, type: 2}
+  - {fileID: 11400000, guid: 5ec96095ba9890c4b91af4c567833795, type: 2}
+  - {fileID: 11400000, guid: 5ec96095ba9890c4b91af4c567833795, type: 2}
+  - {fileID: 11400000, guid: 674d6aae2c07f024dac159a6ed31031e, type: 2}
+  - {fileID: 11400000, guid: dadbca2ee909b884f82f1d9b0f7e0b7c, type: 2}
+  amountOwned: 0
+  amountInCurrentDeck: 0

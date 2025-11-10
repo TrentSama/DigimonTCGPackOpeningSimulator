@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Bagramon+DarkKnight
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 6ce4a00ff1d900f4cb930888aa5f0e6e, type: 2}
+  - {fileID: 11400000, guid: ad3b74b775fd77f40a4631c620f4298f, type: 2}
+  - {fileID: 11400000, guid: fdeaab5ea33ca164bbba1f81ad366b38, type: 2}
+  - {fileID: 11400000, guid: b4e80c1c4a3c3524dbd046df547661e0, type: 2}
+  - {fileID: 11400000, guid: 1fb31b63f3319154a89f535f056e9050, type: 2}
+  - {fileID: 11400000, guid: 26bdf2a0a4b926f4690d89015508d8ca, type: 2}
+  - {fileID: 11400000, guid: 132d9c35fa28ea34289cdd7a12feac8f, type: 2}
+  - {fileID: 11400000, guid: 270d54355c1fc3e45b19b4e86464a28f, type: 2}
+  - {fileID: 11400000, guid: e444b570f6b76b745ac43bbd3d47cd4b, type: 2}
+  - {fileID: 11400000, guid: ab30f9bfb65628b43a28256e0bf0ce63, type: 2}
+  - {fileID: 11400000, guid: 2f69ffe576307de4b8d2804688fc6d95, type: 2}
+  - {fileID: 11400000, guid: 0f8f06aff1a781b4d94d887901cc0aac, type: 2}
+  - {fileID: 11400000, guid: ec01327a9ea0c134ca3a7bac45681933, type: 2}
+  - {fileID: 11400000, guid: 24645388c514a8c41a7134e74ef5bdf2, type: 2}
+  - {fileID: 11400000, guid: 80d4a9154ca09b440b382c4c3da5ab47, type: 2}
+  - {fileID: 11400000, guid: 9664213d19f38f54fa1867de2dec8b22, type: 2}
+  - {fileID: 11400000, guid: 34156702f9c9dff43b9fd4afc281c0ae, type: 2}
+  - {fileID: 11400000, guid: 31050d5a0e12d2c409617133489056c0, type: 2}
+  - {fileID: 11400000, guid: 790fc3903bad96547bcb1b34545d02d6, type: 2}
+  - {fileID: 11400000, guid: bc7c3cf23fa09a146b01f98ff8d552fe, type: 2}
+  - {fileID: 11400000, guid: f797fc8781850fc45b81453bc859d756, type: 2}
+  - {fileID: 11400000, guid: 449951fb6eae4bb4a9234e6e498d3a89, type: 2}
+  - {fileID: 11400000, guid: 724553fc1f232a34b9f89d166e3a2728, type: 2}
+  - {fileID: 11400000, guid: 313f2ff7c49852f419c6f974a999ab11, type: 2}
+  - {fileID: 11400000, guid: 6cdb3e29bb58ff947959d77839fbcabb, type: 2}
+  - {fileID: 11400000, guid: 5ed07df06546f1042b491a7ee96773ed, type: 2}
+  - {fileID: 11400000, guid: 8a05f75ca240bdd4489aa2b672ab1b01, type: 2}
+  - {fileID: 11400000, guid: c70591bc4e26c374abd2d76398a04007, type: 2}
+  - {fileID: 11400000, guid: a2fb432f6ead48a46971a7a5c6f6fef9, type: 2}
+  - {fileID: 11400000, guid: b82b4ba4d6e38f44e88fd3e7308a5e1b, type: 2}
+  - {fileID: 11400000, guid: 6b74db62bf2891f4c9382ca88bb1e1e4, type: 2}
+  - {fileID: 11400000, guid: cd43528e1527da14f9c0757410f306e6, type: 2}
+  - {fileID: 11400000, guid: d55b0c4fb26d2b4439f84c4401bf132b, type: 2}
+  - {fileID: 11400000, guid: ed0e8a0d0a0f1b146af59df9a6aeee67, type: 2}
+  - {fileID: 11400000, guid: a14a3fbbde76c7a47a84bd95ef5c7cf7, type: 2}
+  - {fileID: 11400000, guid: 899842725d1411c49a783395532fed73, type: 2}
+  - {fileID: 11400000, guid: 09b183c24166d9e4fb45456ba91437cd, type: 2}
+  - {fileID: 11400000, guid: 22e7c870592040f4eb5123a53c5b9a41, type: 2}
+  - {fileID: 11400000, guid: b7afb5a9998a7524d931990bfd34eda2, type: 2}
+  - {fileID: 11400000, guid: b940b7bf589c68f48b17d83c540e5bc0, type: 2}
+  SetName: Darkness Realm
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: ad3b74b775fd77f40a4631c620f4298f, type: 2}
+  - {fileID: 11400000, guid: b4e80c1c4a3c3524dbd046df547661e0, type: 2}
+  - {fileID: 11400000, guid: fdeaab5ea33ca164bbba1f81ad366b38, type: 2}
+  - {fileID: 11400000, guid: e444b570f6b76b745ac43bbd3d47cd4b, type: 2}
+  - {fileID: 11400000, guid: 724553fc1f232a34b9f89d166e3a2728, type: 2}

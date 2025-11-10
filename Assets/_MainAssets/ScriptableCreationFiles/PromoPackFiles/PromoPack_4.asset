@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_4
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 0446458aa0193a7428d9595049f739ac, type: 2}
+  - {fileID: 11400000, guid: c08c1b04ec3cf1f4d88423ee3a0628b3, type: 2}
+  - {fileID: 11400000, guid: 09679931efc9c1c41a2d68dc3d99d142, type: 2}
+  - {fileID: 11400000, guid: a84e2eea3373b1d4c8645c3324eb5bfe, type: 2}
+  - {fileID: 11400000, guid: 08bf6f57c06367d41ab53aeff2d8b2b6, type: 2}
+  - {fileID: 11400000, guid: ccdd67dbf1be2f0489c9d041ea8c4d98, type: 2}
+  SetName: Special Box Promotion Pack
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 0446458aa0193a7428d9595049f739ac, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 0446458aa0193a7428d9595049f739ac, type: 2}
+  - {fileID: 11400000, guid: c08c1b04ec3cf1f4d88423ee3a0628b3, type: 2}
+  - {fileID: 11400000, guid: 09679931efc9c1c41a2d68dc3d99d142, type: 2}
+  - {fileID: 11400000, guid: a84e2eea3373b1d4c8645c3324eb5bfe, type: 2}
+  - {fileID: 11400000, guid: 08bf6f57c06367d41ab53aeff2d8b2b6, type: 2}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]SecurityAtkMinus
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: cd76889da880e9942931da143481837b, type: 2}
+  - {fileID: 11400000, guid: 6b538215b52d5d245b52b6e5b295580b, type: 2}
+  - {fileID: 11400000, guid: aa2f4c0a51a25ed48a3c2c76c225caf3, type: 2}
+  - {fileID: 11400000, guid: a86099325831e654b9f75b0b49e4eea9, type: 2}
+  - {fileID: 11400000, guid: 719900ac4fa0fdd4691c03b945ff27c5, type: 2}
+  - {fileID: 11400000, guid: a76b27f47bc349640a7ff2e3bf12ae39, type: 2}
+  - {fileID: 11400000, guid: 13cbc8d1c43d8e84484874d07e752240, type: 2}
+  - {fileID: 11400000, guid: fcd2feeeb174ddb46a8bbe546ee2b7ac, type: 2}
+  - {fileID: 11400000, guid: fa51b4c5cdc494748abdc1e8f9da1d78, type: 2}
+  - {fileID: 11400000, guid: ddb35d2ec5a6faf419f10a2b8dfb9219, type: 2}
+  - {fileID: 11400000, guid: 4ba9f106370e4f144b89493405b937fc, type: 2}
+  - {fileID: 11400000, guid: 9a840b4c44d051d44a26fd19fb0a9e80, type: 2}
+  - {fileID: 11400000, guid: 28da59433e0d9d446ac48d6b36965ad2, type: 2}
+  - {fileID: 11400000, guid: b9bc1ac7038174d46bb9750142556dbb, type: 2}
+  - {fileID: 11400000, guid: eae17c9177d44074d9845ef275ffb6ac, type: 2}
+  - {fileID: 11400000, guid: eb056f4cad2a73e4395eb148608aa551, type: 2}
+  - {fileID: 11400000, guid: 6ed5c08cb82fdfd42917f5dde99f05cc, type: 2}
+  - {fileID: 11400000, guid: 72e012713bd9490408651d31de51c3d4, type: 2}
+  - {fileID: 11400000, guid: 597d08cba90b70c4289fd3333ced1580, type: 2}
+  - {fileID: 11400000, guid: 76d5f115f5adf6444aba0188d2ab0b4c, type: 2}
+  - {fileID: 11400000, guid: 4343454fbcc1e714991799384ce438f2, type: 2}
+  - {fileID: 11400000, guid: b968930f3d31bda4aa9b14c6a34ee915, type: 2}
+  - {fileID: 11400000, guid: c36b0692bb26c1f40913543b4896546a, type: 2}
+  - {fileID: 11400000, guid: 3d2511663fc92664c984a8fd7f0debc4, type: 2}
+  - {fileID: 11400000, guid: 0f5add4d1eb83054290a93cf2db63c45, type: 2}
+  - {fileID: 11400000, guid: ebd68ff3ace8e4c4ea83df9d01dbb493, type: 2}
+  - {fileID: 11400000, guid: 50ac40d59d709194d9578d7b59d15b6b, type: 2}
+  - {fileID: 11400000, guid: 022a4f8989181154e8791ed88f5941d7, type: 2}
+  - {fileID: 11400000, guid: 6072d7529fcb2b14cba78b6d925652fd, type: 2}
+  - {fileID: 11400000, guid: 08cfbab3b5e6f514e9988f6621c589a9, type: 2}
+  - {fileID: 11400000, guid: 324298979293ea548961bcb10389a4bc, type: 2}
+  - {fileID: 11400000, guid: b9ce7b123190ac649ae4fe0875b22755, type: 2}
+  - {fileID: 11400000, guid: 96e52869e1b0d6e41b7418d80f18473c, type: 2}
+  - {fileID: 11400000, guid: 1f5ba664a3d32d24c927d77e51be1a94, type: 2}
+  - {fileID: 11400000, guid: d32de0f4b53c6b24e9e034faa03f2887, type: 2}
+  SetName: Losing the Will to Fight
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: cd76889da880e9942931da143481837b, type: 2}
+  - {fileID: 11400000, guid: 6b538215b52d5d245b52b6e5b295580b, type: 2}
+  - {fileID: 11400000, guid: 719900ac4fa0fdd4691c03b945ff27c5, type: 2}
+  - {fileID: 11400000, guid: b968930f3d31bda4aa9b14c6a34ee915, type: 2}
+  - {fileID: 11400000, guid: fa51b4c5cdc494748abdc1e8f9da1d78, type: 2}

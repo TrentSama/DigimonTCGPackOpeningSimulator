@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Purple Gabumon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 57e2cc8efaf41d64f8c4e2a9d2fdfd41, type: 2}
+  - {fileID: 11400000, guid: 651c69763e0fcd147b8729cfbc6bd6fd, type: 2}
+  - {fileID: 11400000, guid: ad708f230c7051a40a838da1fb7962da, type: 2}
+  - {fileID: 11400000, guid: ea553cd509d494b41a72214eb99f15fb, type: 2}
+  - {fileID: 11400000, guid: c1de48ce4f3261c468013012578c5084, type: 2}
+  - {fileID: 11400000, guid: 11b99b8dc96039f479219baacf97f750, type: 2}
+  - {fileID: 11400000, guid: a2b9275d477931a4187dff5a4535eefa, type: 2}
+  - {fileID: 11400000, guid: 8b465f322c2ce504c8286ee6443eca54, type: 2}
+  - {fileID: 11400000, guid: d8c54877e37b3dc45ac132d0325ecf55, type: 2}
+  - {fileID: 11400000, guid: 67f0977703bcc6f47b0ac25327592831, type: 2}
+  - {fileID: 11400000, guid: 30d14ae1ea92a3c41a585045e95f4367, type: 2}
+  - {fileID: 11400000, guid: 7cb3aff181d209c48a3ceb27db057e89, type: 2}
+  - {fileID: 11400000, guid: 9a492300d71d5044eba1ca84cd5c0fc9, type: 2}
+  - {fileID: 11400000, guid: 2b0ad42d04dea35449af83e1399fcab1, type: 2}
+  - {fileID: 11400000, guid: 56f5075bcdebca24e92456643f5b8d66, type: 2}
+  - {fileID: 11400000, guid: 982b6ec307f1b1549aec5576e62f7749, type: 2}
+  - {fileID: 11400000, guid: d384bc7107c96ee428cacfb3dc71c851, type: 2}
+  - {fileID: 11400000, guid: 5949699ac6ed8cc43aa1933b2b2bdf99, type: 2}
+  - {fileID: 11400000, guid: f55daa491d2abcc4685646324b1e4ece, type: 2}
+  - {fileID: 11400000, guid: f3132ec06fef0a04a919080493928e1f, type: 2}
+  - {fileID: 11400000, guid: 0a0b94f6aca003a4ab9271dd52b10679, type: 2}
+  - {fileID: 11400000, guid: faf688ef5ec34184492afb0efd11282e, type: 2}
+  - {fileID: 11400000, guid: d235687ab4e40e34382aad9170cf33fc, type: 2}
+  - {fileID: 11400000, guid: e73268980a0841c4fb16764f7f8e0c49, type: 2}
+  - {fileID: 11400000, guid: 3440c356c5249d546b909de7c9b640ed, type: 2}
+  - {fileID: 11400000, guid: 01259c69245589c4a802dc13e06b66a5, type: 2}
+  - {fileID: 11400000, guid: 1b5d9c68ac0bf004ab6c790d620cb4b5, type: 2}
+  - {fileID: 11400000, guid: 8b7920b0e8f820442acf14a7cd0a5c4e, type: 2}
+  - {fileID: 11400000, guid: 3b0c44cd61427884591498ae86c4030c, type: 2}
+  - {fileID: 11400000, guid: 2d5a445c574a590418f78e9b126e9079, type: 2}
+  - {fileID: 11400000, guid: 923ee3bb13b5fbc40b96e2c4535bbd96, type: 2}
+  SetName: Giving in to the Dark
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 30d14ae1ea92a3c41a585045e95f4367, type: 2}
+  - {fileID: 11400000, guid: 67f0977703bcc6f47b0ac25327592831, type: 2}
+  - {fileID: 11400000, guid: ad708f230c7051a40a838da1fb7962da, type: 2}
+  - {fileID: 11400000, guid: 57e2cc8efaf41d64f8c4e2a9d2fdfd41, type: 2}
+  - {fileID: 11400000, guid: a2b9275d477931a4187dff5a4535eefa, type: 2}

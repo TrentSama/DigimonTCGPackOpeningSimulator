@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]LeopardDiarrbit
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: c958da9cc50e8594f8137b41e7a55957, type: 2}
+  - {fileID: 11400000, guid: 751afa8ffd6a8b042970a285191d3734, type: 2}
+  - {fileID: 11400000, guid: c1ce2f8c4cd6d704d82b38936d30bbd7, type: 2}
+  - {fileID: 11400000, guid: 1f699248365fee94a865284cc6b5ee28, type: 2}
+  - {fileID: 11400000, guid: a3703563fc828174b962a30d80d517ed, type: 2}
+  - {fileID: 11400000, guid: a9b20e6413b7f234b898209bdb1c03ed, type: 2}
+  - {fileID: 11400000, guid: bcc8b9781c2e33f44ba6ea5468ec95ff, type: 2}
+  - {fileID: 11400000, guid: 5f0c472117a1cc9469e514345573f4d6, type: 2}
+  - {fileID: 11400000, guid: da3a466332a2bb34d9c50fc87f770538, type: 2}
+  - {fileID: 11400000, guid: c2b6c1c7c414df145a0e6dd55b9d254e, type: 2}
+  - {fileID: 11400000, guid: 24757909cc6df28448d020e67b3d45dc, type: 2}
+  - {fileID: 11400000, guid: b6ac30701028f314e94a0fb64c9a8bad, type: 2}
+  - {fileID: 11400000, guid: 466661e5b87b342428c79baca310eccc, type: 2}
+  - {fileID: 11400000, guid: 8f1d1a13254145d42b37c797a8219def, type: 2}
+  - {fileID: 11400000, guid: 7d688f8d2b8d9eb45a9faab2d505c656, type: 2}
+  - {fileID: 11400000, guid: 2fc163c083a5772458a872587c8f225c, type: 2}
+  - {fileID: 11400000, guid: 29b4bfea3d9385f4bb5421a6db867f3d, type: 2}
+  - {fileID: 11400000, guid: 5638944f81c643c48a9afe7d80ddd793, type: 2}
+  - {fileID: 11400000, guid: 8d661573579dcb641adfa888cc5dff6d, type: 2}
+  - {fileID: 11400000, guid: d640186cfdc50b04a89a73df77bbac76, type: 2}
+  - {fileID: 11400000, guid: 48407f9c08101374789a4f685879327f, type: 2}
+  - {fileID: 11400000, guid: bd49304363a70994dab6bf5b3d8e6524, type: 2}
+  - {fileID: 11400000, guid: 285de5d66fa44154d8b428beaac8ac78, type: 2}
+  - {fileID: 11400000, guid: 1c058ae76f8cd874d8ea64c6a2c480b6, type: 2}
+  - {fileID: 11400000, guid: 62431959452569941aaacc42b8013293, type: 2}
+  - {fileID: 11400000, guid: 1fa9efc6954bc2b41b2d3ff2dcc8988d, type: 2}
+  - {fileID: 11400000, guid: 28695e4ddd4cacd44adb3e57ac3ef7fb, type: 2}
+  - {fileID: 11400000, guid: 50fbb2cf5c7b6a44c8166c84505b0ede, type: 2}
+  - {fileID: 11400000, guid: e6269df75294d0f4fa3b9bc8b3ff7f6f, type: 2}
+  - {fileID: 11400000, guid: b62fd21b9f9a4d441b13852a0ee32d1e, type: 2}
+  - {fileID: 11400000, guid: d3e7c2ced2b235045b60009d92b1416e, type: 2}
+  - {fileID: 11400000, guid: 91a211b3a29bd4f4fab70d24d8f7fbb6, type: 2}
+  SetName: Jungle Beasts Unite
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: c958da9cc50e8594f8137b41e7a55957, type: 2}
+  - {fileID: 11400000, guid: bcc8b9781c2e33f44ba6ea5468ec95ff, type: 2}
+  - {fileID: 11400000, guid: c1ce2f8c4cd6d704d82b38936d30bbd7, type: 2}
+  - {fileID: 11400000, guid: 5f0c472117a1cc9469e514345573f4d6, type: 2}
+  - {fileID: 11400000, guid: 466661e5b87b342428c79baca310eccc, type: 2}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]JesmonGX
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 3c9b6f3ea678602499e9ac194ce023dc, type: 2}
+  - {fileID: 11400000, guid: d8b28eec235d1f44e87fa52305081291, type: 2}
+  - {fileID: 11400000, guid: 76e388bad70bb214f8e4c3f85d2daa3d, type: 2}
+  - {fileID: 11400000, guid: 85f67f26f0a328c42b2d47d2c0632843, type: 2}
+  - {fileID: 11400000, guid: 158b754bc6a4ee0498ec3575f779c066, type: 2}
+  - {fileID: 11400000, guid: c43453bc40e304c46b323d34372ca3a9, type: 2}
+  - {fileID: 11400000, guid: 494690de510a57b48ac63038344a3d90, type: 2}
+  - {fileID: 11400000, guid: d6f5443dedc1aaa49991614ea9f1b1ad, type: 2}
+  - {fileID: 11400000, guid: 6ed1a350a2945a74d9709f5a1dc25b95, type: 2}
+  - {fileID: 11400000, guid: 54c86ed379ea75a49bed1a04f3f44b31, type: 2}
+  - {fileID: 11400000, guid: a96e48a44143ec040b129c6d97bed812, type: 2}
+  - {fileID: 11400000, guid: 033a5650fee060e489fa320f09138308, type: 2}
+  - {fileID: 11400000, guid: b4ea026ff7ed7a24d9f7bd0ecc53f18e, type: 2}
+  - {fileID: 11400000, guid: 9747dc1ce40107d4da8c520f1796f08d, type: 2}
+  - {fileID: 11400000, guid: 4afd77c74834e894fa6c0e4bc72cafe3, type: 2}
+  - {fileID: 11400000, guid: 87eeaa809258eac498173434f698ce20, type: 2}
+  - {fileID: 11400000, guid: 4925c14a3b6124b4b97114da0542ee1c, type: 2}
+  - {fileID: 11400000, guid: 93b698a7665ea9d448ac2b129ee99f1e, type: 2}
+  - {fileID: 11400000, guid: faa874211b06194479a2f7d9a89f99d9, type: 2}
+  - {fileID: 11400000, guid: 9e51bab11bf66834bae4acc59e7f7e13, type: 2}
+  - {fileID: 11400000, guid: 74f5269269d4ac541ab8f471d02dd9a3, type: 2}
+  - {fileID: 11400000, guid: 5f625b02d61aff642af79935137b1cc7, type: 2}
+  - {fileID: 11400000, guid: fb57a4ad1226cea4cba6b01c81feff66, type: 2}
+  - {fileID: 11400000, guid: 70c0cbc3459f194449dde1d6b9a06d63, type: 2}
+  - {fileID: 11400000, guid: 87d797329248bd64a8929c934f37eeaa, type: 2}
+  - {fileID: 11400000, guid: 687203258ba96bf4e9adc1c8259788a0, type: 2}
+  - {fileID: 11400000, guid: 114d50d7362a55549abfbbcdc044955b, type: 2}
+  - {fileID: 11400000, guid: bd45a6e7a139c584bbde006036f92fe1, type: 2}
+  - {fileID: 11400000, guid: 148b28da0a6b15a449102e9475b5cb49, type: 2}
+  - {fileID: 11400000, guid: b07e4f3fb35cccb42896479c764179e4, type: 2}
+  - {fileID: 11400000, guid: e100cf14fc02c2e4d9bb999d16be76e3, type: 2}
+  - {fileID: 11400000, guid: 4606d26ae1472d94faa11d989c677cb3, type: 2}
+  - {fileID: 11400000, guid: cf7979da2b560a843b45054ff43dd382, type: 2}
+  - {fileID: 11400000, guid: f6e61f0e4de2e9647904fa832fcbbcd1, type: 2}
+  - {fileID: 11400000, guid: a7828a3d4a4a037438d56cf9b88b58e0, type: 2}
+  SetName: From Master to Disciple
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 76e388bad70bb214f8e4c3f85d2daa3d, type: 2}
+  - {fileID: 11400000, guid: d8b28eec235d1f44e87fa52305081291, type: 2}
+  - {fileID: 11400000, guid: 3c9b6f3ea678602499e9ac194ce023dc, type: 2}
+  - {fileID: 11400000, guid: 158b754bc6a4ee0498ec3575f779c066, type: 2}
+  - {fileID: 11400000, guid: c43453bc40e304c46b323d34372ca3a9, type: 2}

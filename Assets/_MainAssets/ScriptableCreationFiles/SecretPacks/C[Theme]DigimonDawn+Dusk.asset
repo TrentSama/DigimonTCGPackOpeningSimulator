@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]DigimonDawn+Dusk
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: eecc8a51d2c48cf4886ad036b8417563, type: 2}
+  - {fileID: 11400000, guid: d3091df2cd673d34c814a5326a54283d, type: 2}
+  - {fileID: 11400000, guid: 01794884255edeb4a96a14de8d959fbc, type: 2}
+  - {fileID: 11400000, guid: 84720955dda373f4aa24980c7663ba1b, type: 2}
+  - {fileID: 11400000, guid: 97eb502f9ed697349817f4e8f1f7c024, type: 2}
+  - {fileID: 11400000, guid: 88ddb2cbc79d18444a3d73eaf5d5325c, type: 2}
+  - {fileID: 11400000, guid: 2643b0a2bc8ca9b42917fa85b2591ad5, type: 2}
+  - {fileID: 11400000, guid: 0b092528f4c42cf4d9584abfb51ff452, type: 2}
+  - {fileID: 11400000, guid: a7249ff5fffaa7444b6fd93d48f54dc1, type: 2}
+  - {fileID: 11400000, guid: 267d7f0cfb90ec741bb137cdf3f60baf, type: 2}
+  - {fileID: 11400000, guid: 9dc2255c1aff9734e9c44c548116a927, type: 2}
+  - {fileID: 11400000, guid: 7ef2074aa85bd0747b4a90b052307a7d, type: 2}
+  - {fileID: 11400000, guid: 245275c4a6139cc48b85c00e6cecb723, type: 2}
+  - {fileID: 11400000, guid: a21bd830623cac940a0b1bd40d57d7d0, type: 2}
+  - {fileID: 11400000, guid: b4d8f8b72ef3fdf43a6d3b5b522ac6b8, type: 2}
+  - {fileID: 11400000, guid: 9664b11a00c53374daa2c3f89f4890da, type: 2}
+  - {fileID: 11400000, guid: 0e0060d4d99809f4cafcd669c82a0e6a, type: 2}
+  - {fileID: 11400000, guid: 4c47d113017442f4691a6dddd711270e, type: 2}
+  - {fileID: 11400000, guid: 25929bbfbd971b3458a7f5c0c13b74ac, type: 2}
+  - {fileID: 11400000, guid: 89a1fab91de572d4eb0ed53b09c894ef, type: 2}
+  - {fileID: 11400000, guid: e0e3f9e9754a8f642b492cba2d5a641f, type: 2}
+  - {fileID: 11400000, guid: 718d70296927f534fa95e0a811463798, type: 2}
+  - {fileID: 11400000, guid: 7fdfd1aaf8f6e9f4c83c11cbd26b11f8, type: 2}
+  - {fileID: 11400000, guid: 2b1b8be2b67c90b4a887f1b509cafbfb, type: 2}
+  - {fileID: 11400000, guid: dd1472d493b3611419a108b972ad46d2, type: 2}
+  - {fileID: 11400000, guid: 985d9f39541ff0d4a972477f2fee1b5d, type: 2}
+  - {fileID: 11400000, guid: 225adb9ff8c6d0e4b8f06335a59c483f, type: 2}
+  - {fileID: 11400000, guid: dd70eeb75e531f94cb2309540f515c0b, type: 2}
+  - {fileID: 11400000, guid: 910a3e755a501374eabd9dacfb3b7544, type: 2}
+  - {fileID: 11400000, guid: d811a5d3bb304fd48831a0523dbed9f5, type: 2}
+  - {fileID: 11400000, guid: 69f351ac7b9dfd742bbfebdbb2b9aab0, type: 2}
+  - {fileID: 11400000, guid: dd926709ffc64b746a394ac293bd0028, type: 2}
+  - {fileID: 11400000, guid: 804b840769ce84841ae26326bb74170d, type: 2}
+  - {fileID: 11400000, guid: f3a30bc470c0e724890cc915e058c9b5, type: 2}
+  - {fileID: 11400000, guid: ddf09d7e3d4881f47b67be479619d428, type: 2}
+  - {fileID: 11400000, guid: 6f2e08dcc2e297c49b6255422cba8fbb, type: 2}
+  - {fileID: 11400000, guid: b3a52b339a603bb408d3a4f00b103dac, type: 2}
+  - {fileID: 11400000, guid: 8dac4e55294feae43b20d88f69db73ab, type: 2}
+  - {fileID: 11400000, guid: 862a7e32f8238644e951dc062916d371, type: 2}
+  - {fileID: 11400000, guid: 94a101d1f2fd4f345a754cd77b7bcc3d, type: 2}
+  SetName: Sunburst & Moonlight
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: d3091df2cd673d34c814a5326a54283d, type: 2}
+  - {fileID: 11400000, guid: 2643b0a2bc8ca9b42917fa85b2591ad5, type: 2}
+  - {fileID: 11400000, guid: 88ddb2cbc79d18444a3d73eaf5d5325c, type: 2}
+  - {fileID: 11400000, guid: 718d70296927f534fa95e0a811463798, type: 2}
+  - {fileID: 11400000, guid: 9664b11a00c53374daa2c3f89f4890da, type: 2}

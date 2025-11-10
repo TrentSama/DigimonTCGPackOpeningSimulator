@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: Complete Pack White
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 340e5608e4e9b6c459444f01cc24e364, type: 2}
+  - {fileID: 11400000, guid: 8b5aa14c424730049926718b843b9c9d, type: 2}
+  - {fileID: 11400000, guid: 37b51e15b3cfcc24ba8a115a50583a1a, type: 2}
+  - {fileID: 11400000, guid: 463f01f3dee6a2a4aa4b07f2bb765b3c, type: 2}
+  - {fileID: 11400000, guid: bacb1609a79919e4fb77877ee3a0ac94, type: 2}
+  - {fileID: 11400000, guid: e47bbde12f50c7c4682aa91a9892f468, type: 2}
+  - {fileID: 11400000, guid: d0901ac2db2837241bcb6e0fac77ec2c, type: 2}
+  - {fileID: 11400000, guid: deb1ba454950f2247a240a6b36720481, type: 2}
+  - {fileID: 11400000, guid: a8d7b85b5e00d754bbaee4851af87e42, type: 2}
+  - {fileID: 11400000, guid: 1563dfe3b1e1d384f9c314b0f246b58e, type: 2}
+  - {fileID: 11400000, guid: e15caff46a00f3642bc0c4b292671bd5, type: 2}
+  - {fileID: 11400000, guid: ff80ba16fdc10654b99e6a4424061758, type: 2}
+  - {fileID: 11400000, guid: 5abd733598e375f409d7c7db66cef213, type: 2}
+  - {fileID: 11400000, guid: 43e1498cb2771d64390bdf3607ce84fa, type: 2}
+  - {fileID: 11400000, guid: 680ea1ee852b1ef4094044b0c3eec942, type: 2}
+  - {fileID: 11400000, guid: 4c06c370c3cebcb4e9a39a5191f3dbb3, type: 2}
+  - {fileID: 11400000, guid: b5c2eb0267db583488379956b24de3da, type: 2}
+  - {fileID: 11400000, guid: bd45a6e7a139c584bbde006036f92fe1, type: 2}
+  - {fileID: 11400000, guid: 10b15f31c0071e34087bac08cd0c4ef0, type: 2}
+  - {fileID: 11400000, guid: 4925c14a3b6124b4b97114da0542ee1c, type: 2}
+  - {fileID: 11400000, guid: 4cad6cf14df3d184f99513b4f27853a7, type: 2}
+  - {fileID: 11400000, guid: 248428da6fb82e547875ada12b8ee067, type: 2}
+  - {fileID: 11400000, guid: 2832f778f9e5e384ab7ef9d6a2b7de75, type: 2}
+  - {fileID: 11400000, guid: f585f09b3f6195940a69e45c8b925669, type: 2}
+  - {fileID: 11400000, guid: 793d6fda926942a4a833a08ac5d9ed13, type: 2}
+  - {fileID: 11400000, guid: dc69327d8d63c154ebe6be5039c9a747, type: 2}
+  - {fileID: 11400000, guid: 114d50d7362a55549abfbbcdc044955b, type: 2}
+  - {fileID: 11400000, guid: e100cf14fc02c2e4d9bb999d16be76e3, type: 2}
+  - {fileID: 11400000, guid: f5b7df61ef3c10d4eb1e0b9975223204, type: 2}
+  - {fileID: 11400000, guid: d8a31e15180389947b8d3224f25538cc, type: 2}
+  - {fileID: 11400000, guid: c5f205077969c974693b5727f74011ad, type: 2}
+  - {fileID: 11400000, guid: 0a8da7b5c57f09242a033ef5a65cdd92, type: 2}
+  - {fileID: 11400000, guid: cbfb87e0645ba034283fe075d24209df, type: 2}
+  - {fileID: 11400000, guid: 3f98f51bd3481894998075644cdf1889, type: 2}
+  - {fileID: 11400000, guid: 6e321bb432ae20344ba82e18fe3d1b46, type: 2}
+  - {fileID: 11400000, guid: 99ed39275a0a88744aa337825f224392, type: 2}
+  - {fileID: 11400000, guid: 662e6132200c6994f815afc8db1517de, type: 2}
+  - {fileID: 11400000, guid: dfb17212f353ddb45817a89eae7816ca, type: 2}
+  - {fileID: 11400000, guid: 0cdad881260caf248b37271535c6c936, type: 2}
+  - {fileID: 11400000, guid: c43453bc40e304c46b323d34372ca3a9, type: 2}
+  - {fileID: 11400000, guid: 8dabc8300fc141344a5bb210096364c3, type: 2}
+  - {fileID: 11400000, guid: 2d43c304a9af65849bbc58da31b4e638, type: 2}
+  - {fileID: 11400000, guid: 87d797329248bd64a8929c934f37eeaa, type: 2}
+  - {fileID: 11400000, guid: 1fbdbf425798fd340b8e6a1c09cee144, type: 2}
+  - {fileID: 11400000, guid: 10877e78b224e70478a8d59b14639eec, type: 2}
+  - {fileID: 11400000, guid: 88bb3e6e5f7249d49b3cee7c1190edca, type: 2}
+  - {fileID: 11400000, guid: 4fbac0e4b63b7b14eab6b8aceee72675, type: 2}
+  - {fileID: 11400000, guid: c6cacf3ccf4432244a97f299dcefdd80, type: 2}
+  - {fileID: 11400000, guid: 779fb3a98310b814c9f23e3dbe159272, type: 2}
+  - {fileID: 11400000, guid: edbe85860df69b049b96ad87cea5327b, type: 2}
+  - {fileID: 11400000, guid: 21b9878bcb6ac2548bedc416c0ee35e6, type: 2}
+  - {fileID: 11400000, guid: ce0909d28212c7948bb8dd710de23639, type: 2}
+  - {fileID: 11400000, guid: f38e8f67b9c235a42b9ff24d83348175, type: 2}
+  - {fileID: 11400000, guid: 747f0f2852526ff48a7abbe8d6a6cf00, type: 2}
+  - {fileID: 11400000, guid: 11e6a92b22c338541adfb2b2fbc5def0, type: 2}
+  - {fileID: 11400000, guid: e8299847cd6649649b17208f9b0744bd, type: 2}
+  - {fileID: 11400000, guid: b9242204b33152a4a8a62eccf2c9e188, type: 2}
+  - {fileID: 11400000, guid: 57e70b42c7b9bdb40a422d749cddcba9, type: 2}
+  - {fileID: 11400000, guid: de3b574012b1399479129e8662998455, type: 2}
+  - {fileID: 11400000, guid: 1709860c30f2e7a48b9bbe507c616a05, type: 2}
+  - {fileID: 11400000, guid: f0eed0e4fc5754849ae29e17fd0ba695, type: 2}
+  - {fileID: 11400000, guid: 6582e7ee0f1c31a4ba93b3831016cec5, type: 2}
+  - {fileID: 11400000, guid: 3caa0ee7e49336c49b91de5dd8a3c938, type: 2}
+  - {fileID: 11400000, guid: 07afcd81654675742a817ba961bc7c44, type: 2}
+  - {fileID: 11400000, guid: fa49b0e686d10574095a526decd23b82, type: 2}
+  - {fileID: 11400000, guid: 3c3d4ef3731a7f54d8066706cc293bce, type: 2}
+  - {fileID: 11400000, guid: 01ed8ca18ad271549a25b4bf30226195, type: 2}
+  - {fileID: 11400000, guid: 7eff7d30a65f17145b043876689d064b, type: 2}
+  - {fileID: 11400000, guid: d197e4d8c5333804a81ceeb927665fd6, type: 2}
+  - {fileID: 11400000, guid: 77e044c38c0076243a216eeaaedb93c0, type: 2}
+  - {fileID: 11400000, guid: d1deb7da590f0a146beaf3ff2161e6dd, type: 2}
+  - {fileID: 11400000, guid: ce25bbf7cb81e784e86c3f3c6f859040, type: 2}
+  - {fileID: 11400000, guid: ba355b07d5e2f4344bbb50358f07688e, type: 2}
+  - {fileID: 11400000, guid: 415f9f757fe553d4480a9308a607e74b, type: 2}
+  - {fileID: 11400000, guid: 2d8dd303e7da9264895b8cef55fbe1e5, type: 2}
+  - {fileID: 11400000, guid: c19b4b1a77d2b744a9ea6634fd553215, type: 2}
+  - {fileID: 11400000, guid: 729634358c60da0429e8398753318253, type: 2}
+  - {fileID: 11400000, guid: 696879a392454074e850ade165ee3a0d, type: 2}
+  - {fileID: 11400000, guid: 3e5542c844ef0204fabb8844263644c0, type: 2}
+  - {fileID: 11400000, guid: cf3d353602b58b34abee5820f530ee4a, type: 2}
+  - {fileID: 11400000, guid: b0f69b8882cb6ab4c9be9fc80406b79b, type: 2}
+  - {fileID: 11400000, guid: 65030494c79e86a4bb6a3a04096ce927, type: 2}
+  - {fileID: 11400000, guid: 158b754bc6a4ee0498ec3575f779c066, type: 2}
+  - {fileID: 11400000, guid: 87eeaa809258eac498173434f698ce20, type: 2}
+  SetName: Complete Pack [White]
+  SetDescription: 'Home to the fewest cards, White is home to the most Lvl 7 Digimon!
+
+    Try
+    going for crazy boss Digimon, or for a whole deck with D-Reaper!
+
+'
+  SetCover: {fileID: 11400000, guid: 779fb3a98310b814c9f23e3dbe159272, type: 2}
+  SecretPack: 0
+  PromoPack: 0
+  hasBeenUnlocked: 1
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 340e5608e4e9b6c459444f01cc24e364, type: 2}
+  - {fileID: 11400000, guid: 248428da6fb82e547875ada12b8ee067, type: 2}
+  - {fileID: 11400000, guid: 747f0f2852526ff48a7abbe8d6a6cf00, type: 2}
+  - {fileID: 11400000, guid: de3b574012b1399479129e8662998455, type: 2}
+  - {fileID: 11400000, guid: dfb17212f353ddb45817a89eae7816ca, type: 2}

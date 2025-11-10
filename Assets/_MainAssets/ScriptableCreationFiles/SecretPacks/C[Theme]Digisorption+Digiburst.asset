@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Digisorption+Digiburst
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 27b13be401a41664086b7f503601488a, type: 2}
+  - {fileID: 11400000, guid: bb165b3bde63a66498e2da0cb15915ae, type: 2}
+  - {fileID: 11400000, guid: 14872951a4cd00641b0ca08864db2260, type: 2}
+  - {fileID: 11400000, guid: 21b803ef5c1cd114fba25fd0d6772bf4, type: 2}
+  - {fileID: 11400000, guid: 5cb7f3bd8b69979448ce61f0c5747853, type: 2}
+  - {fileID: 11400000, guid: b0b1ec446d1a1864094591bdfbc6bba1, type: 2}
+  - {fileID: 11400000, guid: a0e860be23932ba47aff0aa0fff85c6d, type: 2}
+  - {fileID: 11400000, guid: f8754c2105fa6a94f8e8c9b0b6be5d13, type: 2}
+  - {fileID: 11400000, guid: 6e131b98a6eaa084b96de8acab741564, type: 2}
+  - {fileID: 11400000, guid: 8d661573579dcb641adfa888cc5dff6d, type: 2}
+  - {fileID: 11400000, guid: 9b5eee17152f68141a8d42688e0d3d5c, type: 2}
+  - {fileID: 11400000, guid: f3b5926edbcbea5408540e007c11d338, type: 2}
+  - {fileID: 11400000, guid: ee1613ed074194a41a8a95e3bc401137, type: 2}
+  - {fileID: 11400000, guid: 57b0c6f3856a2d74b928bb7826e77dd7, type: 2}
+  - {fileID: 11400000, guid: bb97f7ba277774343b77eb79da16b8a0, type: 2}
+  - {fileID: 11400000, guid: 47d16a80d5b292243a14570ee496088f, type: 2}
+  - {fileID: 11400000, guid: 996c0c669e6dc0149a0edc2def2e3077, type: 2}
+  - {fileID: 11400000, guid: 2c2960c5a881157438394a37eaf56405, type: 2}
+  - {fileID: 11400000, guid: 0012a5f51c7c54c45b75c056f308be52, type: 2}
+  - {fileID: 11400000, guid: 6508691a0e3463a48a66e2c0a9fd1c2f, type: 2}
+  - {fileID: 11400000, guid: 2b17f6c0cdc339d45b1c5fc15bb6e5ba, type: 2}
+  - {fileID: 11400000, guid: 3f5e47fe8eab1a74cb46fb6d18a651c5, type: 2}
+  - {fileID: 11400000, guid: 26b2446eab4343b48909d4dad24f7f5c, type: 2}
+  - {fileID: 11400000, guid: 8a6343ad3e982e940b18fe396ba1eeaf, type: 2}
+  - {fileID: 11400000, guid: 8a217ff2cffe51142a42e9f43b28fca3, type: 2}
+  - {fileID: 11400000, guid: 731a2ac1c2e7b3f4e83a3420c25c525f, type: 2}
+  - {fileID: 11400000, guid: d9be36d83b639ce4caa049b312193120, type: 2}
+  - {fileID: 11400000, guid: 3c192558c85bd9d4f9433aef8d8c0b80, type: 2}
+  - {fileID: 11400000, guid: e7ffa795b1addea4cbc505f597dfa7d7, type: 2}
+  - {fileID: 11400000, guid: fce63fae6aebcef4881ac21406c8397f, type: 2}
+  - {fileID: 11400000, guid: 5c29bdee8222b83479c6ef222a98c34d, type: 2}
+  - {fileID: 11400000, guid: 90754c9004254014794a055e657ab875, type: 2}
+  - {fileID: 11400000, guid: fe031deaabe74d448bb283dab4c3dbc6, type: 2}
+  - {fileID: 11400000, guid: cb9a91945572a9f469f9af56f7a35760, type: 2}
+  - {fileID: 11400000, guid: c565b568b7bdc5a4491c6f1a9abc26b6, type: 2}
+  - {fileID: 11400000, guid: 1c24bd5386ed3a74bad12e9c65270317, type: 2}
+  SetName: Absorb and Release!
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 6e131b98a6eaa084b96de8acab741564, type: 2}
+  - {fileID: 11400000, guid: a0e860be23932ba47aff0aa0fff85c6d, type: 2}
+  - {fileID: 11400000, guid: bb165b3bde63a66498e2da0cb15915ae, type: 2}
+  - {fileID: 11400000, guid: 996c0c669e6dc0149a0edc2def2e3077, type: 2}
+  - {fileID: 11400000, guid: b0b1ec446d1a1864094591bdfbc6bba1, type: 2}

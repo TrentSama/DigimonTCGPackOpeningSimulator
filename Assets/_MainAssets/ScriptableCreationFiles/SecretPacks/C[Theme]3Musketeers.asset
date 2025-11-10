@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]3Musketeers
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: cca7bf08bff03bf4a9a3736748691cef, type: 2}
+  - {fileID: 11400000, guid: d2150ced0bd237b438d1ea1701857a4c, type: 2}
+  - {fileID: 11400000, guid: c22791beda60c6c4c906e8578f8efb89, type: 2}
+  - {fileID: 11400000, guid: dff3fd3d65e23ad4284c4d3fc2e55588, type: 2}
+  - {fileID: 11400000, guid: 29c7739c32048574da2d0bf9d0319229, type: 2}
+  - {fileID: 11400000, guid: 39ef73ecabc8501419f428fa5eb51d85, type: 2}
+  - {fileID: 11400000, guid: f1bdd4c91822a3f45b12163107f33d8a, type: 2}
+  - {fileID: 11400000, guid: 093e4b6e065a0c24d91fc431589801d8, type: 2}
+  - {fileID: 11400000, guid: e3652077d19371243a247f2675e3317a, type: 2}
+  - {fileID: 11400000, guid: 621f6913685263a4dbe819fe5917cee6, type: 2}
+  - {fileID: 11400000, guid: 8c9d4c09fbe7c5f4db3d7302c5fd9904, type: 2}
+  - {fileID: 11400000, guid: d11d372c8bc0ad347936de0896161243, type: 2}
+  - {fileID: 11400000, guid: 301e9462a99867e4f86fc7ca78b057ee, type: 2}
+  - {fileID: 11400000, guid: e7375a1059b73ce479de0ac0aca8f1fc, type: 2}
+  - {fileID: 11400000, guid: 6ef3077550530a646994c8669c54bdc9, type: 2}
+  - {fileID: 11400000, guid: 3d417e1566dd9154ba9c73639f43ea53, type: 2}
+  - {fileID: 11400000, guid: 872aac526ea55d143bc3916cd8688b3e, type: 2}
+  - {fileID: 11400000, guid: 2b0ad42d04dea35449af83e1399fcab1, type: 2}
+  - {fileID: 11400000, guid: 501c80e1b87a8bd4c8e8a474c202c934, type: 2}
+  - {fileID: 11400000, guid: af8d8c2512b759a4c98d7283b5e5b2c3, type: 2}
+  - {fileID: 11400000, guid: 83863e585923497499a1c2d2cdb777be, type: 2}
+  - {fileID: 11400000, guid: e18890f0c04d6794aa0d58d340ffec79, type: 2}
+  - {fileID: 11400000, guid: 2d5a445c574a590418f78e9b126e9079, type: 2}
+  - {fileID: 11400000, guid: 3373641950ca5794ea630ad8a0cbd019, type: 2}
+  - {fileID: 11400000, guid: f3132ec06fef0a04a919080493928e1f, type: 2}
+  - {fileID: 11400000, guid: bf125c4f6b92a404588c502256b798e9, type: 2}
+  - {fileID: 11400000, guid: e14cf915fcf58c54a93efb847f9c7aff, type: 2}
+  - {fileID: 11400000, guid: c22d10d7fac0b4d4392a71207528be26, type: 2}
+  - {fileID: 11400000, guid: 036291b500e7181469528e5f6e203193, type: 2}
+  - {fileID: 11400000, guid: 890320141091cb3449814069d694b1f7, type: 2}
+  - {fileID: 11400000, guid: b32fe7efabef68548b338ecf4881432a, type: 2}
+  - {fileID: 11400000, guid: 13f498b2ef07ffb4d801b12d5c1898e5, type: 2}
+  - {fileID: 11400000, guid: 1e1f34f3092f8464abfdc247cee4afd1, type: 2}
+  - {fileID: 11400000, guid: aa653c449b9ef6549b4ce009e540db99, type: 2}
+  - {fileID: 11400000, guid: 1442e877a2da9fd4cb0729cf37dbf646, type: 2}
+  - {fileID: 11400000, guid: 8df348a8137993941a0ddf7dfac22e74, type: 2}
+  - {fileID: 11400000, guid: c901ded7a21df2f449d5db6f98610c90, type: 2}
+  - {fileID: 11400000, guid: f7efd52e9f8c2cf40a920804b72c4cae, type: 2}
+  - {fileID: 11400000, guid: 9a8061f1dc81bd743b917b3ef8131312, type: 2}
+  - {fileID: 11400000, guid: 01670d68dbcdb6143bed483ed7f728f5, type: 2}
+  SetName: Bullet Hell
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: d2150ced0bd237b438d1ea1701857a4c, type: 2}
+  - {fileID: 11400000, guid: 872aac526ea55d143bc3916cd8688b3e, type: 2}
+  - {fileID: 11400000, guid: 29c7739c32048574da2d0bf9d0319229, type: 2}
+  - {fileID: 11400000, guid: cca7bf08bff03bf4a9a3736748691cef, type: 2}
+  - {fileID: 11400000, guid: c22791beda60c6c4c906e8578f8efb89, type: 2}

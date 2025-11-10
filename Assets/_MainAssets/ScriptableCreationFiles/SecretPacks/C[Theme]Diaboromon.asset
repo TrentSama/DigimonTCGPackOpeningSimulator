@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Diaboromon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: d197e4d8c5333804a81ceeb927665fd6, type: 2}
+  - {fileID: 11400000, guid: b464a0dedcddf6a4bbef0e291b4884a5, type: 2}
+  - {fileID: 11400000, guid: 77e044c38c0076243a216eeaaedb93c0, type: 2}
+  - {fileID: 11400000, guid: 07afcd81654675742a817ba961bc7c44, type: 2}
+  - {fileID: 11400000, guid: 02eb32672605243459e44eb313aebecb, type: 2}
+  - {fileID: 11400000, guid: 11e6a92b22c338541adfb2b2fbc5def0, type: 2}
+  - {fileID: 11400000, guid: 8b5aa14c424730049926718b843b9c9d, type: 2}
+  - {fileID: 11400000, guid: de3b574012b1399479129e8662998455, type: 2}
+  - {fileID: 11400000, guid: 94c2f8b875d76c24894bb03d32ca47d3, type: 2}
+  - {fileID: 11400000, guid: 7eff7d30a65f17145b043876689d064b, type: 2}
+  - {fileID: 11400000, guid: 3c3d4ef3731a7f54d8066706cc293bce, type: 2}
+  - {fileID: 11400000, guid: f0eed0e4fc5754849ae29e17fd0ba695, type: 2}
+  - {fileID: 11400000, guid: 8251fefbc81d3b14599f23e2326f49c2, type: 2}
+  - {fileID: 11400000, guid: 1d35292c67367ed4bbb1947f031f31b4, type: 2}
+  - {fileID: 11400000, guid: 367f696511b7e4141a357669a624faa8, type: 2}
+  - {fileID: 11400000, guid: 4b4e20d6a0bfa0f41819af8297e30b94, type: 2}
+  - {fileID: 11400000, guid: 8e67b7c38cdd65a4da2dcdee8af09330, type: 2}
+  - {fileID: 11400000, guid: 8686f661132958c4c8409e7b15e517ac, type: 2}
+  - {fileID: 11400000, guid: d0901ac2db2837241bcb6e0fac77ec2c, type: 2}
+  - {fileID: 11400000, guid: deb1ba454950f2247a240a6b36720481, type: 2}
+  - {fileID: 11400000, guid: 66be34cac6b0b8a4da5fcf8589365503, type: 2}
+  - {fileID: 11400000, guid: c5807756d620800408d3ae1ff73e9e5e, type: 2}
+  - {fileID: 11400000, guid: f14d44647d4c5e246b6b464d2468e033, type: 2}
+  - {fileID: 11400000, guid: 5169e08740f380646aad0e4759412d20, type: 2}
+  - {fileID: 11400000, guid: 01ed8ca18ad271549a25b4bf30226195, type: 2}
+  - {fileID: 11400000, guid: fa49b0e686d10574095a526decd23b82, type: 2}
+  - {fileID: 11400000, guid: 3caa0ee7e49336c49b91de5dd8a3c938, type: 2}
+  - {fileID: 11400000, guid: 6582e7ee0f1c31a4ba93b3831016cec5, type: 2}
+  - {fileID: 11400000, guid: b1f3d8fc570d8024090c59571208a9fd, type: 2}
+  - {fileID: 11400000, guid: 801abfaf2ea209b49abb98b38d2fcbb5, type: 2}
+  - {fileID: 11400000, guid: 5c7ca29003aec644998ff61c27ece97a, type: 2}
+  - {fileID: 11400000, guid: 72ef602f8ad0e8040a3421544db52860, type: 2}
+  - {fileID: 11400000, guid: 9295dae59dee22e46acd61532f46cf11, type: 2}
+  - {fileID: 11400000, guid: 9ad9f8aa5423cdb428f9310a09755436, type: 2}
+  - {fileID: 11400000, guid: f3529497d45544d4bbf2b6f6ef29b520, type: 2}
+  - {fileID: 11400000, guid: 44b657fd84552bf42a158d5e390a1f28, type: 2}
+  SetName: Emergent Catastrophe
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: b464a0dedcddf6a4bbef0e291b4884a5, type: 2}
+  - {fileID: 11400000, guid: de3b574012b1399479129e8662998455, type: 2}
+  - {fileID: 11400000, guid: 94c2f8b875d76c24894bb03d32ca47d3, type: 2}
+  - {fileID: 11400000, guid: d197e4d8c5333804a81ceeb927665fd6, type: 2}
+  - {fileID: 11400000, guid: f14d44647d4c5e246b6b464d2468e033, type: 2}

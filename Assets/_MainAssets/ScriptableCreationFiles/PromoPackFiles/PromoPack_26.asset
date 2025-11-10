@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_26
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 71315e5e65ac42f4e9bdf2741c2df17f, type: 2}
+  - {fileID: 11400000, guid: 6c81bc27f5cbb1a4a8095bb7b648bf67, type: 2}
+  - {fileID: 11400000, guid: 637db243a06a4fb438e845b19937ac4d, type: 2}
+  - {fileID: 11400000, guid: e49607f87ace6c8458fcf601f09784e8, type: 2}
+  - {fileID: 11400000, guid: c361ecbab7b33ab41a69db936ff00ec8, type: 2}
+  - {fileID: 11400000, guid: 89693eb4def0da64b98058134753334a, type: 2}
+  SetName: Official Tournament Pack Vol. 9
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 71315e5e65ac42f4e9bdf2741c2df17f, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 71315e5e65ac42f4e9bdf2741c2df17f, type: 2}
+  - {fileID: 11400000, guid: 6c81bc27f5cbb1a4a8095bb7b648bf67, type: 2}
+  - {fileID: 11400000, guid: 637db243a06a4fb438e845b19937ac4d, type: 2}
+  - {fileID: 11400000, guid: e49607f87ace6c8458fcf601f09784e8, type: 2}
+  - {fileID: 11400000, guid: c361ecbab7b33ab41a69db936ff00ec8, type: 2}

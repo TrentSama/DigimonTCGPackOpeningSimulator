@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST8
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 5d2b1a1836be17e4da70b8e6d51ff8d3, type: 2}
+  - {fileID: 11400000, guid: cb9753dc1212dfb4a96d46983d3d222a, type: 2}
+  - {fileID: 11400000, guid: d51c5b28b1182be429fc0bb4c78075c0, type: 2}
+  - {fileID: 11400000, guid: 5692883d497cda24aa9b027bd38b02ce, type: 2}
+  - {fileID: 11400000, guid: 2163460435948d14db36f938edf1025d, type: 2}
+  - {fileID: 11400000, guid: ebf19342afaf4154d9e1dcfbd447bd02, type: 2}
+  - {fileID: 11400000, guid: 0c504b5af9e1fe046b46f9012bd03d75, type: 2}
+  - {fileID: 11400000, guid: 0c504b5af9e1fe046b46f9012bd03d75, type: 2}
+  - {fileID: 11400000, guid: 0c504b5af9e1fe046b46f9012bd03d75, type: 2}
+  - {fileID: 11400000, guid: 0c504b5af9e1fe046b46f9012bd03d75, type: 2}
+  - {fileID: 11400000, guid: 72a545a1a3d1e54429d276e167ca00c6, type: 2}
+  - {fileID: 11400000, guid: 72a545a1a3d1e54429d276e167ca00c6, type: 2}
+  - {fileID: 11400000, guid: 72a545a1a3d1e54429d276e167ca00c6, type: 2}
+  - {fileID: 11400000, guid: 72a545a1a3d1e54429d276e167ca00c6, type: 2}
+  - {fileID: 11400000, guid: 6f8ad2e3524cb2e4c82f435809010c7c, type: 2}
+  - {fileID: 11400000, guid: 6f8ad2e3524cb2e4c82f435809010c7c, type: 2}
+  - {fileID: 11400000, guid: 6f8ad2e3524cb2e4c82f435809010c7c, type: 2}
+  - {fileID: 11400000, guid: 6f8ad2e3524cb2e4c82f435809010c7c, type: 2}
+  - {fileID: 11400000, guid: 203449cdc38b6ba4587e9d1bcf93f009, type: 2}
+  - {fileID: 11400000, guid: 203449cdc38b6ba4587e9d1bcf93f009, type: 2}
+  - {fileID: 11400000, guid: dc9c144f4ec7aac49ad6e59eee0512e8, type: 2}
+  - {fileID: 11400000, guid: dc9c144f4ec7aac49ad6e59eee0512e8, type: 2}
+  - {fileID: 11400000, guid: a2bc2528e835d7f4281297efd0fea656, type: 2}
+  - {fileID: 11400000, guid: a2bc2528e835d7f4281297efd0fea656, type: 2}
+  - {fileID: 11400000, guid: a2bc2528e835d7f4281297efd0fea656, type: 2}
+  - {fileID: 11400000, guid: a2bc2528e835d7f4281297efd0fea656, type: 2}
+  - {fileID: 11400000, guid: 05bc774b31f2e6e4cbc5f8e4cec049ba, type: 2}
+  - {fileID: 11400000, guid: 05bc774b31f2e6e4cbc5f8e4cec049ba, type: 2}
+  - {fileID: 11400000, guid: 05bc774b31f2e6e4cbc5f8e4cec049ba, type: 2}
+  - {fileID: 11400000, guid: 05bc774b31f2e6e4cbc5f8e4cec049ba, type: 2}
+  - {fileID: 11400000, guid: 3665029d02807834391093e7cd8ce96c, type: 2}
+  - {fileID: 11400000, guid: 3665029d02807834391093e7cd8ce96c, type: 2}
+  - {fileID: 11400000, guid: 3665029d02807834391093e7cd8ce96c, type: 2}
+  - {fileID: 11400000, guid: 3665029d02807834391093e7cd8ce96c, type: 2}
+  - {fileID: 11400000, guid: 8f0fe5ee63439124282888c81e61c1a7, type: 2}
+  - {fileID: 11400000, guid: 8f0fe5ee63439124282888c81e61c1a7, type: 2}
+  - {fileID: 11400000, guid: 8f0fe5ee63439124282888c81e61c1a7, type: 2}
+  - {fileID: 11400000, guid: 8f0fe5ee63439124282888c81e61c1a7, type: 2}
+  - {fileID: 11400000, guid: 12d5ffa8c5d642c4f9b5d97d72277d5a, type: 2}
+  - {fileID: 11400000, guid: 12d5ffa8c5d642c4f9b5d97d72277d5a, type: 2}
+  - {fileID: 11400000, guid: 16407fc7ba0c3d34e886255462d08b55, type: 2}
+  - {fileID: 11400000, guid: 16407fc7ba0c3d34e886255462d08b55, type: 2}
+  - {fileID: 11400000, guid: 16407fc7ba0c3d34e886255462d08b55, type: 2}
+  - {fileID: 11400000, guid: 16407fc7ba0c3d34e886255462d08b55, type: 2}
+  - {fileID: 11400000, guid: 640e2117c26cfc7478f49aa0c7e24851, type: 2}
+  - {fileID: 11400000, guid: 640e2117c26cfc7478f49aa0c7e24851, type: 2}
+  - {fileID: 11400000, guid: 640e2117c26cfc7478f49aa0c7e24851, type: 2}
+  - {fileID: 11400000, guid: 640e2117c26cfc7478f49aa0c7e24851, type: 2}
+  - {fileID: 11400000, guid: 53fb0178c8ba6424a936072076d9fd06, type: 2}
+  - {fileID: 11400000, guid: 53fb0178c8ba6424a936072076d9fd06, type: 2}
+  - {fileID: 11400000, guid: 53fb0178c8ba6424a936072076d9fd06, type: 2}
+  - {fileID: 11400000, guid: 53fb0178c8ba6424a936072076d9fd06, type: 2}
+  - {fileID: 11400000, guid: 47c7408762e2b1e46811a6c7e9f7949b, type: 2}
+  - {fileID: 11400000, guid: 47c7408762e2b1e46811a6c7e9f7949b, type: 2}
+  - {fileID: 11400000, guid: 47c7408762e2b1e46811a6c7e9f7949b, type: 2}
+  - {fileID: 11400000, guid: 47c7408762e2b1e46811a6c7e9f7949b, type: 2}
+  - {fileID: 11400000, guid: a1a35d88d44b61047a027fcb0afb1fb6, type: 2}
+  - {fileID: 11400000, guid: a1a35d88d44b61047a027fcb0afb1fb6, type: 2}
+  - {fileID: 11400000, guid: 1d1260ce7cdf5b941b905d887dadc90c, type: 2}
+  - {fileID: 11400000, guid: 1d1260ce7cdf5b941b905d887dadc90c, type: 2}
+  SetName: '[ST8] UlforceVeedramon'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 203449cdc38b6ba4587e9d1bcf93f009, type: 2}
+  SecretPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards: []

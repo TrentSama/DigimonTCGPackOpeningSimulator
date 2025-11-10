@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: SetRBCards
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 2f22e3e0b9265ad48b35783a885b9b5c, type: 2}
+  - {fileID: 11400000, guid: d089f67dcc74d824683e7126cd69a0be, type: 2}
+  - {fileID: 11400000, guid: e6269df75294d0f4fa3b9bc8b3ff7f6f, type: 2}
+  - {fileID: 11400000, guid: 49a5465918ab59d44ae0d13e67aea91a, type: 2}
+  - {fileID: 11400000, guid: 40cadd32d7904ef4587dbfb958f890ab, type: 2}
+  - {fileID: 11400000, guid: 26e27ba31f6bbc84580c11f423b8ccf0, type: 2}
+  - {fileID: 11400000, guid: 18403ce86cf616944bd61de36a4bd60c, type: 2}
+  - {fileID: 11400000, guid: 87c7c040c040a974da20a45e4b8c132c, type: 2}
+  - {fileID: 11400000, guid: 7a5e16a2e628c4746b1b061ef5a9079e, type: 2}
+  - {fileID: 11400000, guid: dee6679e95b53c048858b9b158d37794, type: 2}
+  - {fileID: 11400000, guid: c421558cf50dd1a4f9c31fd7bc2256d3, type: 2}
+  - {fileID: 11400000, guid: 5daf2cf3611ee5b4eaa07c64c2245839, type: 2}
+  - {fileID: 11400000, guid: 6373a046cead6da4dafca41e3ed3d624, type: 2}
+  - {fileID: 11400000, guid: 917d6b85de47b534aad281f6fd423761, type: 2}
+  - {fileID: 11400000, guid: a102203745412bc4d897f959ec0b564c, type: 2}
+  - {fileID: 11400000, guid: 44fb9656a808d334aa011342248b52a1, type: 2}
+  - {fileID: 11400000, guid: 45bd77e1165258841909a7ae9590b95a, type: 2}
+  - {fileID: 11400000, guid: 4b8d1d8b839eb7245a12897c17e67ad7, type: 2}
+  - {fileID: 11400000, guid: 686923e7464d7414d9b2c05e6758014c, type: 2}
+  - {fileID: 11400000, guid: da3a466332a2bb34d9c50fc87f770538, type: 2}
+  - {fileID: 11400000, guid: 06fee0eec1f2bc043a017aad432e2364, type: 2}
+  - {fileID: 11400000, guid: bd49304363a70994dab6bf5b3d8e6524, type: 2}
+  - {fileID: 11400000, guid: 8c65377391542d24bb25f4e75c41d973, type: 2}
+  - {fileID: 11400000, guid: 8f1d1a13254145d42b37c797a8219def, type: 2}
+  - {fileID: 11400000, guid: c958da9cc50e8594f8137b41e7a55957, type: 2}
+  - {fileID: 11400000, guid: 94ef7fabd851f6648ad568740b5c3149, type: 2}
+  - {fileID: 11400000, guid: 671431ead1bcaaa449f7356e2d7776bb, type: 2}
+  - {fileID: 11400000, guid: e04aa9d2beda1a54fa109be7b097f086, type: 2}
+  - {fileID: 11400000, guid: ebc371821829a9c48bf0edccc05a064b, type: 2}
+  - {fileID: 11400000, guid: 635e7e167de5744449d7d42c7ab42bf6, type: 2}
+  - {fileID: 11400000, guid: aaf8a9d7fb2ceee418fd988af0154da4, type: 2}
+  - {fileID: 11400000, guid: 7b8be0c1f0d229a4ea38b30e4e9bdbed, type: 2}
+  - {fileID: 11400000, guid: cf9be8d7172be624094e95a95605df72, type: 2}
+  - {fileID: 11400000, guid: 5f0c472117a1cc9469e514345573f4d6, type: 2}
+  - {fileID: 11400000, guid: 65030494c79e86a4bb6a3a04096ce927, type: 2}
+  - {fileID: 11400000, guid: 59a90219facaf304c96108bdbe5dffdd, type: 2}
+  SetName: '[RB-01]'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 59a90219facaf304c96108bdbe5dffdd, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: dee6679e95b53c048858b9b158d37794, type: 2}
+  - {fileID: 11400000, guid: 44fb9656a808d334aa011342248b52a1, type: 2}
+  - {fileID: 11400000, guid: c958da9cc50e8594f8137b41e7a55957, type: 2}
+  - {fileID: 11400000, guid: aaf8a9d7fb2ceee418fd988af0154da4, type: 2}
+  - {fileID: 11400000, guid: 671431ead1bcaaa449f7356e2d7776bb, type: 2}

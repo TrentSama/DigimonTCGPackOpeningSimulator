@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Gammamon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: dee6679e95b53c048858b9b158d37794, type: 2}
+  - {fileID: 11400000, guid: 59a90219facaf304c96108bdbe5dffdd, type: 2}
+  - {fileID: 11400000, guid: b01661d8fe260eb439fa525472d63b4c, type: 2}
+  - {fileID: 11400000, guid: aaf8a9d7fb2ceee418fd988af0154da4, type: 2}
+  - {fileID: 11400000, guid: d4e0a0e54051d854f9a49ceeaeb158b2, type: 2}
+  - {fileID: 11400000, guid: 87c7c040c040a974da20a45e4b8c132c, type: 2}
+  - {fileID: 11400000, guid: 7a5e16a2e628c4746b1b061ef5a9079e, type: 2}
+  - {fileID: 11400000, guid: 7b8be0c1f0d229a4ea38b30e4e9bdbed, type: 2}
+  - {fileID: 11400000, guid: 74f815ac6e9bd4f4e9c105d0e462fee2, type: 2}
+  - {fileID: 11400000, guid: 635e7e167de5744449d7d42c7ab42bf6, type: 2}
+  - {fileID: 11400000, guid: ebc371821829a9c48bf0edccc05a064b, type: 2}
+  - {fileID: 11400000, guid: 696879a392454074e850ade165ee3a0d, type: 2}
+  - {fileID: 11400000, guid: 37d18e621509e0a47bfe533300ba1b94, type: 2}
+  - {fileID: 11400000, guid: db23e6838d6bfbd42aa8d6e0b652d42d, type: 2}
+  - {fileID: 11400000, guid: 66afac32b096cb2499a6deb38d1bb195, type: 2}
+  - {fileID: 11400000, guid: 40cadd32d7904ef4587dbfb958f890ab, type: 2}
+  - {fileID: 11400000, guid: a102203745412bc4d897f959ec0b564c, type: 2}
+  - {fileID: 11400000, guid: 5a62d6b72a3a2ce40abe5e1cc3b92d89, type: 2}
+  - {fileID: 11400000, guid: 8c65377391542d24bb25f4e75c41d973, type: 2}
+  - {fileID: 11400000, guid: 06fee0eec1f2bc043a017aad432e2364, type: 2}
+  - {fileID: 11400000, guid: f99a536c2f90fb34787e7a49e3ad2e64, type: 2}
+  - {fileID: 11400000, guid: 18ddfd9aaddf6f4449bb0b7b21dd01d3, type: 2}
+  - {fileID: 11400000, guid: 40ef5f3e4bb3da34ea82ccc68e8e137d, type: 2}
+  - {fileID: 11400000, guid: a7bc56dbf15a6364d968e30e685c4e8d, type: 2}
+  - {fileID: 11400000, guid: 935c293e50d7c5842a22655731c10ff1, type: 2}
+  - {fileID: 11400000, guid: c41699d5ae5f6114b8eee792435bc0a5, type: 2}
+  - {fileID: 11400000, guid: 8958755f88be1a749a569378a807fd8c, type: 2}
+  - {fileID: 11400000, guid: bf424e4d1c8a2884a9b4c66544f4404a, type: 2}
+  - {fileID: 11400000, guid: 26e27ba31f6bbc84580c11f423b8ccf0, type: 2}
+  - {fileID: 11400000, guid: b74d22b3324417f49bc026f6a63c6750, type: 2}
+  - {fileID: 11400000, guid: 5daf2cf3611ee5b4eaa07c64c2245839, type: 2}
+  - {fileID: 11400000, guid: a3a06d2ffb8551f40abd46dc1fefbe17, type: 2}
+  - {fileID: 11400000, guid: 3e5542c844ef0204fabb8844263644c0, type: 2}
+  SetName: Bad Vibes!
+  SetDescription: 'This pack contains Gammamon and his various lvl 4''s from many
+    colors!
+
+    Delete your own digimon to start resource loops, or add many lvl
+    4 digimon to your own sources!'
+  SetCover: {fileID: 11400000, guid: dee6679e95b53c048858b9b158d37794, type: 2}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 59a90219facaf304c96108bdbe5dffdd, type: 2}
+  - {fileID: 11400000, guid: dee6679e95b53c048858b9b158d37794, type: 2}
+  - {fileID: 11400000, guid: aaf8a9d7fb2ceee418fd988af0154da4, type: 2}
+  - {fileID: 11400000, guid: 7b8be0c1f0d229a4ea38b30e4e9bdbed, type: 2}
+  - {fileID: 11400000, guid: f99a536c2f90fb34787e7a49e3ad2e64, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_38
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: e9fc1de966722be41847d3bc2c34079b, type: 2}
+  - {fileID: 11400000, guid: db68edbf6d4c7ff49aa5d233451945e6, type: 2}
+  - {fileID: 11400000, guid: 7d688f8d2b8d9eb45a9faab2d505c656, type: 2}
+  - {fileID: 11400000, guid: ee0f0dfcf79093148b9dc60caaec5cac, type: 2}
+  - {fileID: 11400000, guid: a3f682bfa08fd4141b32c23798d11d80, type: 2}
+  - {fileID: 11400000, guid: 409a298d78780634d8b4549e63b51a74, type: 2}
+  SetName: 3rd Anniversary Update Pack
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: e9fc1de966722be41847d3bc2c34079b, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: e9fc1de966722be41847d3bc2c34079b, type: 2}
+  - {fileID: 11400000, guid: db68edbf6d4c7ff49aa5d233451945e6, type: 2}
+  - {fileID: 11400000, guid: 7d688f8d2b8d9eb45a9faab2d505c656, type: 2}
+  - {fileID: 11400000, guid: ee0f0dfcf79093148b9dc60caaec5cac, type: 2}
+  - {fileID: 11400000, guid: a3f682bfa08fd4141b32c23798d11d80, type: 2}

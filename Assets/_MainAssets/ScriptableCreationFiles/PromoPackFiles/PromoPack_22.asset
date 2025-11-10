@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_22
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 5edee2ed889cc694e97edcecc9b1346c, type: 2}
+  - {fileID: 11400000, guid: dd91a6b2e3f35944f856fb2a78b84ec7, type: 2}
+  - {fileID: 11400000, guid: a1a35d88d44b61047a027fcb0afb1fb6, type: 2}
+  - {fileID: 11400000, guid: 8ace13d19fce2574090073af1222b969, type: 2}
+  - {fileID: 11400000, guid: dc9854de145d5e843baf97aec1805feb, type: 2}
+  - {fileID: 11400000, guid: 1eeba851f293b604eba5b9a81076cc84, type: 2}
+  - {fileID: 11400000, guid: 69035cbebabc70b4581516a82bb6bb94, type: 2}
+  - {fileID: 11400000, guid: 4a2ab1bcedfe17841a677e20e3794682, type: 2}
+  - {fileID: 11400000, guid: 267806aad0341054ba92d3133fe2e8d1, type: 2}
+  - {fileID: 11400000, guid: 82cb0bf8be5cab542933f25ebca633bc, type: 2}
+  - {fileID: 11400000, guid: 270f7ea652ca33949a6c28ec8d4ac74e, type: 2}
+  - {fileID: 11400000, guid: b8ea6fc5c3428a64f86c63dc13f28a50, type: 2}
+  SetName: 25th Special Memorial Pack
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 5edee2ed889cc694e97edcecc9b1346c, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 5edee2ed889cc694e97edcecc9b1346c, type: 2}
+  - {fileID: 11400000, guid: dd91a6b2e3f35944f856fb2a78b84ec7, type: 2}
+  - {fileID: 11400000, guid: a1a35d88d44b61047a027fcb0afb1fb6, type: 2}
+  - {fileID: 11400000, guid: 8ace13d19fce2574090073af1222b969, type: 2}
+  - {fileID: 11400000, guid: dc9854de145d5e843baf97aec1805feb, type: 2}

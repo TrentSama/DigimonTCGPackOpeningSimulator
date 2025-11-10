@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Gallantmon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: c0bb4bf67b814374a84fd57ddfc847c1, type: 2}
+  - {fileID: 11400000, guid: 2127a5b155c6264439cc8665cb1c5b2e, type: 2}
+  - {fileID: 11400000, guid: 14bf0d20c80a22a4490b840efde0107f, type: 2}
+  - {fileID: 11400000, guid: d8909386b51e55640a595c7dbb373179, type: 2}
+  - {fileID: 11400000, guid: 03464695044535f47909224122e92ef9, type: 2}
+  - {fileID: 11400000, guid: 31fdd00a6a2dd654abd68a1d930d5cae, type: 2}
+  - {fileID: 11400000, guid: 3c02112a91e323e48af70f51aaacab4f, type: 2}
+  - {fileID: 11400000, guid: da0bd6e83c2c5c7449fb66e00f61c0d1, type: 2}
+  - {fileID: 11400000, guid: 497cb398778dc2e40b8803092d23e8a3, type: 2}
+  - {fileID: 11400000, guid: 2662e3a2a4353b74eaa888eabb0d8736, type: 2}
+  - {fileID: 11400000, guid: be5be35c30d6e2b4bb33ef9efc8bd4e7, type: 2}
+  - {fileID: 11400000, guid: 804713eb2d70826428811f48d14766a8, type: 2}
+  - {fileID: 11400000, guid: ee156ea5346d18d4a8797e64df83c95f, type: 2}
+  - {fileID: 11400000, guid: 89d91326a625cdf43b67e8a3480ad17e, type: 2}
+  - {fileID: 11400000, guid: b0d1d7b9523936f4fa2ae845b6efa4c9, type: 2}
+  - {fileID: 11400000, guid: a905a31a85082bb4f84dcd409ae5374e, type: 2}
+  - {fileID: 11400000, guid: cf6e10273cb9acd4a833e858264cd315, type: 2}
+  - {fileID: 11400000, guid: e89084061c9ba3a4a9549cc3c2f50b1d, type: 2}
+  - {fileID: 11400000, guid: ddac8bea716679e43aa638099e8e388e, type: 2}
+  - {fileID: 11400000, guid: 03d2a22fe0cd0244faf3996494ddb7bb, type: 2}
+  - {fileID: 11400000, guid: a99d7b2560e27ed438989d02b597b345, type: 2}
+  - {fileID: 11400000, guid: 8fc916dd2cfb7d843b7d6141e1966287, type: 2}
+  - {fileID: 11400000, guid: a7788fc810091fc4cb34ad0ee956b511, type: 2}
+  - {fileID: 11400000, guid: f2e8126f028126246b06ec67bc4d35e8, type: 2}
+  - {fileID: 11400000, guid: 90c707278b5e7414fa06bd63c4850f8b, type: 2}
+  - {fileID: 11400000, guid: 2da2b544aa90beb4ab76233a7986f501, type: 2}
+  - {fileID: 11400000, guid: eb30a5a2348913442882170c53428a67, type: 2}
+  - {fileID: 11400000, guid: 9250c1fbdd7696f49941d45e2b75a5b2, type: 2}
+  - {fileID: 11400000, guid: 02ee5c4a3938474468ada7c7b814e09f, type: 2}
+  - {fileID: 11400000, guid: bc274978434381c42a9399fc791df670, type: 2}
+  - {fileID: 11400000, guid: 2f29904077eecca4591031faa921b7c7, type: 2}
+  - {fileID: 11400000, guid: 5531df9683e0e65448fd3ace287be26f, type: 2}
+  - {fileID: 11400000, guid: 64e50e86fd67bc1479c28fce5a8dd25c, type: 2}
+  - {fileID: 11400000, guid: 95fa64d71062e9148a2f9f6b8028ffcf, type: 2}
+  - {fileID: 11400000, guid: e3e2c6bdf18071e4281af3a12fed1cc3, type: 2}
+  - {fileID: 11400000, guid: d303fc07995dee549b911d5b06586d84, type: 2}
+  - {fileID: 11400000, guid: aefdbad2a87bec94895414b7addd9105, type: 2}
+  - {fileID: 11400000, guid: 82e450eb6a956fc49b57848ec3f53076, type: 2}
+  - {fileID: 11400000, guid: 22c0706b5718f6e45929b101f7b59af9, type: 2}
+  SetName: The Crimson Holy Knight
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 2127a5b155c6264439cc8665cb1c5b2e, type: 2}
+  - {fileID: 11400000, guid: 03d2a22fe0cd0244faf3996494ddb7bb, type: 2}
+  - {fileID: 11400000, guid: 03464695044535f47909224122e92ef9, type: 2}
+  - {fileID: 11400000, guid: da0bd6e83c2c5c7449fb66e00f61c0d1, type: 2}
+  - {fileID: 11400000, guid: 2127a5b155c6264439cc8665cb1c5b2e, type: 2}

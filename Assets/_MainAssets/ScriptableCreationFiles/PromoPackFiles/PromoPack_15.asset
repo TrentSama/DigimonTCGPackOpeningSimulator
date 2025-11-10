@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_15
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 5d2b1a1836be17e4da70b8e6d51ff8d3, type: 2}
+  - {fileID: 11400000, guid: cb9753dc1212dfb4a96d46983d3d222a, type: 2}
+  - {fileID: 11400000, guid: d51c5b28b1182be429fc0bb4c78075c0, type: 2}
+  - {fileID: 11400000, guid: 5692883d497cda24aa9b027bd38b02ce, type: 2}
+  - {fileID: 11400000, guid: 2163460435948d14db36f938edf1025d, type: 2}
+  - {fileID: 11400000, guid: ebf19342afaf4154d9e1dcfbd447bd02, type: 2}
+  SetName: Box Promotion Pack -Next Adventure-
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 5d2b1a1836be17e4da70b8e6d51ff8d3, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  isRebootBooster: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 5d2b1a1836be17e4da70b8e6d51ff8d3, type: 2}
+  - {fileID: 11400000, guid: cb9753dc1212dfb4a96d46983d3d222a, type: 2}
+  - {fileID: 11400000, guid: d51c5b28b1182be429fc0bb4c78075c0, type: 2}
+  - {fileID: 11400000, guid: 5692883d497cda24aa9b027bd38b02ce, type: 2}
+  - {fileID: 11400000, guid: 2163460435948d14db36f938edf1025d, type: 2}

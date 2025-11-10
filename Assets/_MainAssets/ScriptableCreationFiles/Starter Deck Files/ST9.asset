@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST9
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 64b03f30d913b4d468576800847ccc62, type: 2}
+  - {fileID: 11400000, guid: 64b03f30d913b4d468576800847ccc62, type: 2}
+  - {fileID: 11400000, guid: 64b03f30d913b4d468576800847ccc62, type: 2}
+  - {fileID: 11400000, guid: 64b03f30d913b4d468576800847ccc62, type: 2}
+  - {fileID: 11400000, guid: 85a6feb56c60c9b409b4c30e2fd110d8, type: 2}
+  - {fileID: 11400000, guid: 85a6feb56c60c9b409b4c30e2fd110d8, type: 2}
+  - {fileID: 11400000, guid: 0e73d452a72ce3e49bd6b79e596461da, type: 2}
+  - {fileID: 11400000, guid: 0e73d452a72ce3e49bd6b79e596461da, type: 2}
+  - {fileID: 11400000, guid: 0e73d452a72ce3e49bd6b79e596461da, type: 2}
+  - {fileID: 11400000, guid: 0e73d452a72ce3e49bd6b79e596461da, type: 2}
+  - {fileID: 11400000, guid: b3199c4775e9b99468a0788539ac3fb8, type: 2}
+  - {fileID: 11400000, guid: b3199c4775e9b99468a0788539ac3fb8, type: 2}
+  - {fileID: 11400000, guid: b3199c4775e9b99468a0788539ac3fb8, type: 2}
+  - {fileID: 11400000, guid: b3199c4775e9b99468a0788539ac3fb8, type: 2}
+  - {fileID: 11400000, guid: 00c542cf76887a44195c066fd8dda00d, type: 2}
+  - {fileID: 11400000, guid: 00c542cf76887a44195c066fd8dda00d, type: 2}
+  - {fileID: 11400000, guid: 6a802650735161d4ba4ae84dca0ff2a3, type: 2}
+  - {fileID: 11400000, guid: 6a802650735161d4ba4ae84dca0ff2a3, type: 2}
+  - {fileID: 11400000, guid: f9ad2ad94402b794b85482830480e234, type: 2}
+  - {fileID: 11400000, guid: f9ad2ad94402b794b85482830480e234, type: 2}
+  - {fileID: 11400000, guid: f9ad2ad94402b794b85482830480e234, type: 2}
+  - {fileID: 11400000, guid: f9ad2ad94402b794b85482830480e234, type: 2}
+  - {fileID: 11400000, guid: cbc3a1a11b035ae4ab6a663207f204d4, type: 2}
+  - {fileID: 11400000, guid: cbc3a1a11b035ae4ab6a663207f204d4, type: 2}
+  - {fileID: 11400000, guid: cbc3a1a11b035ae4ab6a663207f204d4, type: 2}
+  - {fileID: 11400000, guid: cbc3a1a11b035ae4ab6a663207f204d4, type: 2}
+  - {fileID: 11400000, guid: 85e1fa9afd33bde4fb1314b19f5aeb60, type: 2}
+  - {fileID: 11400000, guid: 85e1fa9afd33bde4fb1314b19f5aeb60, type: 2}
+  - {fileID: 11400000, guid: 85e1fa9afd33bde4fb1314b19f5aeb60, type: 2}
+  - {fileID: 11400000, guid: 85e1fa9afd33bde4fb1314b19f5aeb60, type: 2}
+  - {fileID: 11400000, guid: 1346c9e3d36657b40baec956943fb84a, type: 2}
+  - {fileID: 11400000, guid: 1346c9e3d36657b40baec956943fb84a, type: 2}
+  - {fileID: 11400000, guid: dbb19d840447d254bafd385b1e9fed61, type: 2}
+  - {fileID: 11400000, guid: dbb19d840447d254bafd385b1e9fed61, type: 2}
+  - {fileID: 11400000, guid: dbb19d840447d254bafd385b1e9fed61, type: 2}
+  - {fileID: 11400000, guid: dbb19d840447d254bafd385b1e9fed61, type: 2}
+  - {fileID: 11400000, guid: c0c73899bcdf5384aa9bd9a8fd729d72, type: 2}
+  - {fileID: 11400000, guid: c0c73899bcdf5384aa9bd9a8fd729d72, type: 2}
+  - {fileID: 11400000, guid: c0c73899bcdf5384aa9bd9a8fd729d72, type: 2}
+  - {fileID: 11400000, guid: c0c73899bcdf5384aa9bd9a8fd729d72, type: 2}
+  - {fileID: 11400000, guid: fb30c70efb6d6264d9c0635cfb4d33b4, type: 2}
+  - {fileID: 11400000, guid: fb30c70efb6d6264d9c0635cfb4d33b4, type: 2}
+  - {fileID: 11400000, guid: fb30c70efb6d6264d9c0635cfb4d33b4, type: 2}
+  - {fileID: 11400000, guid: fb30c70efb6d6264d9c0635cfb4d33b4, type: 2}
+  - {fileID: 11400000, guid: 5835b2c2cb1987a4690604667fcff36f, type: 2}
+  - {fileID: 11400000, guid: 5835b2c2cb1987a4690604667fcff36f, type: 2}
+  - {fileID: 11400000, guid: 82b4033146ec59e418a55b3dab2e7d87, type: 2}
+  - {fileID: 11400000, guid: 82b4033146ec59e418a55b3dab2e7d87, type: 2}
+  - {fileID: 11400000, guid: 82b4033146ec59e418a55b3dab2e7d87, type: 2}
+  - {fileID: 11400000, guid: 82b4033146ec59e418a55b3dab2e7d87, type: 2}
+  - {fileID: 11400000, guid: acca392ae569ef24bbf9578f4d08a67f, type: 2}
+  - {fileID: 11400000, guid: acca392ae569ef24bbf9578f4d08a67f, type: 2}
+  - {fileID: 11400000, guid: acca392ae569ef24bbf9578f4d08a67f, type: 2}
+  - {fileID: 11400000, guid: acca392ae569ef24bbf9578f4d08a67f, type: 2}
+  SetName: '[ST9] Ultimate Ancient Dragon'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 6a802650735161d4ba4ae84dca0ff2a3, type: 2}
+  SecretPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards: []

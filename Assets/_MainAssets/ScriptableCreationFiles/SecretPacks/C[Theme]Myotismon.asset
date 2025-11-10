@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Myotismon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 47085f6f96b5ff84fbe222c9fca424ab, type: 2}
+  - {fileID: 11400000, guid: de59d7f266f335542ae988303a0ef5c1, type: 2}
+  - {fileID: 11400000, guid: 9246b9a8550b0ce418ec881519aa6830, type: 2}
+  - {fileID: 11400000, guid: 821dda3344458c349bd397361e0fcaed, type: 2}
+  - {fileID: 11400000, guid: b0fe09af40fe85447865c5cf2880a958, type: 2}
+  - {fileID: 11400000, guid: 39ef73ecabc8501419f428fa5eb51d85, type: 2}
+  - {fileID: 11400000, guid: d2375d76dd258ea498e6d25057594f36, type: 2}
+  - {fileID: 11400000, guid: 55ee3b16df96b3f4c8569110cab1e571, type: 2}
+  - {fileID: 11400000, guid: 088432a8f93107846bc73256c83cebb4, type: 2}
+  - {fileID: 11400000, guid: fc4f4733d9a145c46930090961fa7956, type: 2}
+  - {fileID: 11400000, guid: 8c9d4c09fbe7c5f4db3d7302c5fd9904, type: 2}
+  - {fileID: 11400000, guid: 85e148f75234899498cd2b74a6c6a10e, type: 2}
+  - {fileID: 11400000, guid: 5eeba2404b6cf0a448ecaa625b9baa81, type: 2}
+  - {fileID: 11400000, guid: 9e3a84809dc1bc44fbb9eef7434202b8, type: 2}
+  - {fileID: 11400000, guid: 886b20dc53291944db4a4babb9284dfa, type: 2}
+  - {fileID: 11400000, guid: 3df104ad1fce4714e9d19ac2f4f03349, type: 2}
+  - {fileID: 11400000, guid: 83d5de2ca263a9f4bbb35288f190317f, type: 2}
+  - {fileID: 11400000, guid: 2c80f46346e5cf046be65e52152ba612, type: 2}
+  - {fileID: 11400000, guid: 46ea9c41ed9fda84c96ef2c08cdafd49, type: 2}
+  - {fileID: 11400000, guid: ecfeacba6beec1248a28f3f5acbd779f, type: 2}
+  - {fileID: 11400000, guid: e4c5f7824edd8bc40840fe3daf8d60e1, type: 2}
+  - {fileID: 11400000, guid: d6c27b142ae2ccf429ff5616214e8cf4, type: 2}
+  - {fileID: 11400000, guid: 453c5a341d95bf44596f12f0a32376ff, type: 2}
+  - {fileID: 11400000, guid: 1d2ca8f422bd8fa41967aeae12ebf9bd, type: 2}
+  - {fileID: 11400000, guid: 1288de06eab53994b91c2dafc018fa8c, type: 2}
+  - {fileID: 11400000, guid: 87669c9bc5cd93b428e0c1946a1ef512, type: 2}
+  - {fileID: 11400000, guid: e73268980a0841c4fb16764f7f8e0c49, type: 2}
+  - {fileID: 11400000, guid: ff6aa58a50d36b843ba646aa7b963e20, type: 2}
+  - {fileID: 11400000, guid: eb8ae4e2ff317fb489b58de7d4fa6f33, type: 2}
+  - {fileID: 11400000, guid: fdb62f496526f5b4095e253098c252c1, type: 2}
+  - {fileID: 11400000, guid: 74a230127bb1c6348b6508b5e7fda088, type: 2}
+  - {fileID: 11400000, guid: db638df35b57c864fa73e1cd168f807a, type: 2}
+  - {fileID: 11400000, guid: 1ba1c9e671db7f0408b63342574025c6, type: 2}
+  - {fileID: 11400000, guid: 3350720ab90fee449b6f218bc33864bc, type: 2}
+  - {fileID: 11400000, guid: abbdc0c98f4927d4283f3a64e0bf0688, type: 2}
+  - {fileID: 11400000, guid: 2a4d37b3e9ba9c341ae26f837fe1f420, type: 2}
+  - {fileID: 11400000, guid: 998680a4f4f6d6242b219c894091c2b9, type: 2}
+  - {fileID: 11400000, guid: 8d0f91d0bad23a0469fac01118e12031, type: 2}
+  SetName: Dark of the Night
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 9246b9a8550b0ce418ec881519aa6830, type: 2}
+  - {fileID: 11400000, guid: abbdc0c98f4927d4283f3a64e0bf0688, type: 2}
+  - {fileID: 11400000, guid: 821dda3344458c349bd397361e0fcaed, type: 2}
+  - {fileID: 11400000, guid: 088432a8f93107846bc73256c83cebb4, type: 2}
+  - {fileID: 11400000, guid: de59d7f266f335542ae988303a0ef5c1, type: 2}

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Imperialdramon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 00c542cf76887a44195c066fd8dda00d, type: 2}
+  - {fileID: 11400000, guid: c4e608fdd007a2145b726a03ec285fbc, type: 2}
+  - {fileID: 11400000, guid: 01b0e5cd52ce3014d9655b7f306e3020, type: 2}
+  - {fileID: 11400000, guid: 5835b2c2cb1987a4690604667fcff36f, type: 2}
+  - {fileID: 11400000, guid: 73e72abef255b2640b2695268c7531bf, type: 2}
+  - {fileID: 11400000, guid: 63f54e98eac860f41bb0bcd9dec57b47, type: 2}
+  - {fileID: 11400000, guid: 4cb843a9ca8a46c4ab452cfe0bac156c, type: 2}
+  - {fileID: 11400000, guid: 3409a1ea647553447b4fe05f03aa8bbb, type: 2}
+  - {fileID: 11400000, guid: 4f7a06b4b810754489e9d927759a86d3, type: 2}
+  - {fileID: 11400000, guid: 989fb775c29538940aa0cede296f934a, type: 2}
+  - {fileID: 11400000, guid: 6e321bb432ae20344ba82e18fe3d1b46, type: 2}
+  - {fileID: 11400000, guid: 2985790b5f73bbe46bfc4708fb7de983, type: 2}
+  - {fileID: 11400000, guid: 9494bde2c54acfb47869846767850d6f, type: 2}
+  - {fileID: 11400000, guid: 47bdd83f45fec604495bb62202e36a26, type: 2}
+  - {fileID: 11400000, guid: cae44c75940ac974981da3413b553f6e, type: 2}
+  - {fileID: 11400000, guid: 66019549b9553c049b540827cbc0e4d1, type: 2}
+  - {fileID: 11400000, guid: 9edb8109966229e40970edf6f4ecedbc, type: 2}
+  - {fileID: 11400000, guid: b3199c4775e9b99468a0788539ac3fb8, type: 2}
+  - {fileID: 11400000, guid: e891e6ec0e94c6a49b68f70fa0e6b302, type: 2}
+  - {fileID: 11400000, guid: 85e1fa9afd33bde4fb1314b19f5aeb60, type: 2}
+  - {fileID: 11400000, guid: 1ac6c63381eb2e54681f4e970e51ba38, type: 2}
+  - {fileID: 11400000, guid: 20a0d411ec580b4459c94db69dbe2475, type: 2}
+  - {fileID: 11400000, guid: c0d6b2ce9206710488a0af1134141c3f, type: 2}
+  - {fileID: 11400000, guid: dbb19d840447d254bafd385b1e9fed61, type: 2}
+  - {fileID: 11400000, guid: e0fd4630aa86f3e41995213045aefb97, type: 2}
+  - {fileID: 11400000, guid: faa9f4c61e4405f4483edaa1d1071e28, type: 2}
+  - {fileID: 11400000, guid: 89c61643a2e828d4296293052e209047, type: 2}
+  - {fileID: 11400000, guid: 2764db88c3fd8df4c8e0a5dbcb6bb6e4, type: 2}
+  - {fileID: 11400000, guid: 046fe594564980446a32ed87f4210799, type: 2}
+  - {fileID: 11400000, guid: 85a6feb56c60c9b409b4c30e2fd110d8, type: 2}
+  - {fileID: 11400000, guid: cbc3a1a11b035ae4ab6a663207f204d4, type: 2}
+  - {fileID: 11400000, guid: 01778a20133fe5d4abd80fcd8fa57ba8, type: 2}
+  - {fileID: 11400000, guid: 06b022c9003af774ab11a1dcb82d3f57, type: 2}
+  - {fileID: 11400000, guid: 309771e8546523741b8739216a92a221, type: 2}
+  - {fileID: 11400000, guid: b7a8777d90b8c404d977c1334eef934d, type: 2}
+  - {fileID: 11400000, guid: c9b427ddae1a15242ba81bd625ef3094, type: 2}
+  - {fileID: 11400000, guid: 201bc4e892186ed46aaad61428171440, type: 2}
+  - {fileID: 11400000, guid: 64b03f30d913b4d468576800847ccc62, type: 2}
+  - {fileID: 11400000, guid: c8d49869990f678459a41fa4607b0021, type: 2}
+  - {fileID: 11400000, guid: 1af86f0740c04714a8d1c226b9718bfb, type: 2}
+  SetName: The Ultimate Ancient Dragon
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 00c542cf76887a44195c066fd8dda00d, type: 2}
+  - {fileID: 11400000, guid: 73e72abef255b2640b2695268c7531bf, type: 2}
+  - {fileID: 11400000, guid: 3409a1ea647553447b4fe05f03aa8bbb, type: 2}
+  - {fileID: 11400000, guid: 5835b2c2cb1987a4690604667fcff36f, type: 2}
+  - {fileID: 11400000, guid: 6e321bb432ae20344ba82e18fe3d1b46, type: 2}

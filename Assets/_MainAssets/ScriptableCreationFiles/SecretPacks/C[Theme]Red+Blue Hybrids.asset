@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Red+Blue Hybrids
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: c5f205077969c974693b5727f74011ad, type: 2}
+  - {fileID: 11400000, guid: 6d6e32a5be1cdff409a5c44caf5cb81b, type: 2}
+  - {fileID: 11400000, guid: 1f0664ca36d0171409dde5a30db505ba, type: 2}
+  - {fileID: 11400000, guid: 2b536532eb26ad547bd11812f3ffc220, type: 2}
+  - {fileID: 11400000, guid: dfcf9b62be6a3044794b4ba2c7576cf0, type: 2}
+  - {fileID: 11400000, guid: 9d191e93ba31a544f8635cfccb6aa9d5, type: 2}
+  - {fileID: 11400000, guid: 8f0722430fab4ea4fa42e6d9ac247baf, type: 2}
+  - {fileID: 11400000, guid: 3d67a171a23c4dd44a31b85d69e30502, type: 2}
+  - {fileID: 11400000, guid: 251fa908c7ac23a4da58e673175f24b9, type: 2}
+  - {fileID: 11400000, guid: dc69327d8d63c154ebe6be5039c9a747, type: 2}
+  - {fileID: 11400000, guid: a0bd6e30ac0373042b518fc0ea208404, type: 2}
+  - {fileID: 11400000, guid: 3eddd75e529d50d458383c592e3d3f41, type: 2}
+  - {fileID: 11400000, guid: 55b4795fd72dc3a4f8f3f1f1547639c9, type: 2}
+  - {fileID: 11400000, guid: 9e6227c98f4d0234086a023458f0024b, type: 2}
+  - {fileID: 11400000, guid: 43e22ff5d414ccc4c86656ccc78b9ee3, type: 2}
+  - {fileID: 11400000, guid: e380c8c101ea35a40b9acd6f28836578, type: 2}
+  - {fileID: 11400000, guid: d40ebb3daf0aa3940b99c4c08866b7c1, type: 2}
+  - {fileID: 11400000, guid: f6d79c03c23c54f48becea23a3bc758b, type: 2}
+  - {fileID: 11400000, guid: 7cc650987d9f5a7438a89bb14a22bd9d, type: 2}
+  - {fileID: 11400000, guid: d225deeca3dbf4d45909e38e93670cf9, type: 2}
+  - {fileID: 11400000, guid: 6e3ad52376be00f4eb50deecb7ab4114, type: 2}
+  - {fileID: 11400000, guid: 6b610e9ad600aac40b4ec1d39c595ebf, type: 2}
+  - {fileID: 11400000, guid: f4acea75b547a604e9171bbb2a6e36a9, type: 2}
+  - {fileID: 11400000, guid: 6a1f975b4a91b3342b9d454a77869636, type: 2}
+  - {fileID: 11400000, guid: d8a31e15180389947b8d3224f25538cc, type: 2}
+  - {fileID: 11400000, guid: 366fd8f3795adb646a77f6ce1cb913c0, type: 2}
+  - {fileID: 11400000, guid: f87bf85a106363542bfd6bb65bbba06e, type: 2}
+  - {fileID: 11400000, guid: c76713f32aaf24740b15b498f44a6797, type: 2}
+  - {fileID: 11400000, guid: 2def0a5f3835d664d8f86298de4d6094, type: 2}
+  - {fileID: 11400000, guid: 93b350638d4919d40af337556312a2f3, type: 2}
+  - {fileID: 11400000, guid: 51f05cfd8ca0c2546b75987898d7b5b8, type: 2}
+  - {fileID: 11400000, guid: e6152a08967fdc74f909fe8ccd5b156d, type: 2}
+  - {fileID: 11400000, guid: 2bc4ac245f070054ab068d27ff3dba11, type: 2}
+  - {fileID: 11400000, guid: f1fb652b4a40b2945bdcb5693cddef26, type: 2}
+  SetName: Burning Hybrids of the Absolute Speed
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: c5f205077969c974693b5727f74011ad, type: 2}
+  - {fileID: 11400000, guid: 1f0664ca36d0171409dde5a30db505ba, type: 2}
+  - {fileID: 11400000, guid: 8f0722430fab4ea4fa42e6d9ac247baf, type: 2}
+  - {fileID: 11400000, guid: 3d67a171a23c4dd44a31b85d69e30502, type: 2}
+  - {fileID: 11400000, guid: 2b536532eb26ad547bd11812f3ffc220, type: 2}

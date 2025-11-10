@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_11
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 3a67eec7d59e0f9499dfee84750dbe6d, type: 2}
+  - {fileID: 11400000, guid: 0b092528f4c42cf4d9584abfb51ff452, type: 2}
+  - {fileID: 11400000, guid: 93506b8b520de94429ec3e54ed560941, type: 2}
+  - {fileID: 11400000, guid: 11b99b8dc96039f479219baacf97f750, type: 2}
+  - {fileID: 11400000, guid: 3abc3cd671bc42a4aab733a0aa3d21e6, type: 2}
+  - {fileID: 11400000, guid: 550dc87163e655b4b8c0c827575bedee, type: 2}
+  - {fileID: 11400000, guid: c4bce8e205fcaf342825d70dd6a3ef50, type: 2}
+  - {fileID: 11400000, guid: c288a85072c632a498835f120d77ca1c, type: 2}
+  - {fileID: 11400000, guid: 6fafcd35b52fbb1478c166ed942c315b, type: 2}
+  - {fileID: 11400000, guid: a6cbae81bc3cc864e9d9250c66cbffb3, type: 2}
+  - {fileID: 11400000, guid: a3eca3d6ee4d3184e9bda49e244ddcc4, type: 2}
+  - {fileID: 11400000, guid: f51cb84e20c519c4d98587da1e9a5e42, type: 2}
+  - {fileID: 11400000, guid: 341bb10eb195ac64099100602bf5aaac, type: 2}
+  - {fileID: 11400000, guid: 3373763e27ea0c248b233ca386b5d66d, type: 2}
+  - {fileID: 11400000, guid: cb833114f660d784ab57bc536b107466, type: 2}
+  - {fileID: 11400000, guid: 63d2290f03c98c9419d0f0639a8000f3, type: 2}
+  - {fileID: 11400000, guid: f3a30bc470c0e724890cc915e058c9b5, type: 2}
+  - {fileID: 11400000, guid: 83175224e8a7c9b4b8cba6784c60d9e9, type: 2}
+  - {fileID: 11400000, guid: f0c47165dc180934a8a0250c9944b32a, type: 2}
+  - {fileID: 11400000, guid: d964ead5e0946274d931bedfd78e30c3, type: 2}
+  - {fileID: 11400000, guid: e44a18cf6cefd6d4aa76d8a875c28d2c, type: 2}
+  - {fileID: 11400000, guid: ad7b4c574f89eee428d81aff86ca0882, type: 2}
+  - {fileID: 11400000, guid: de8a74c3e76af174993e02628a46f700, type: 2}
+  - {fileID: 11400000, guid: cd06c96a62a7a154198bcad7691999a1, type: 2}
+  - {fileID: 11400000, guid: c790d3fd991ee214285d330128bfdfd1, type: 2}
+  - {fileID: 11400000, guid: 477189f894f589e4d9b83520082acd40, type: 2}
+  - {fileID: 11400000, guid: 4260477ce0c53c347935f084af5a4688, type: 2}
+  - {fileID: 11400000, guid: ef7e3073d2ce57b47882900d918d2e3b, type: 2}
+  - {fileID: 11400000, guid: 86d9405bad31b484b9a69c3c113b4604, type: 2}
+  - {fileID: 11400000, guid: 1b5d9c68ac0bf004ab6c790d620cb4b5, type: 2}
+  - {fileID: 11400000, guid: 3b0c44cd61427884591498ae86c4030c, type: 2}
+  - {fileID: 11400000, guid: 9a8061f1dc81bd743b917b3ef8131312, type: 2}
+  SetName: Official Tournament Pack Vol. 3
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 3a67eec7d59e0f9499dfee84750dbe6d, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 3a67eec7d59e0f9499dfee84750dbe6d, type: 2}
+  - {fileID: 11400000, guid: 0b092528f4c42cf4d9584abfb51ff452, type: 2}
+  - {fileID: 11400000, guid: 93506b8b520de94429ec3e54ed560941, type: 2}
+  - {fileID: 11400000, guid: 11b99b8dc96039f479219baacf97f750, type: 2}
+  - {fileID: 11400000, guid: 3abc3cd671bc42a4aab733a0aa3d21e6, type: 2}

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST12
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: cf7979da2b560a843b45054ff43dd382, type: 2}
+  - {fileID: 11400000, guid: cf7979da2b560a843b45054ff43dd382, type: 2}
+  - {fileID: 11400000, guid: cf7979da2b560a843b45054ff43dd382, type: 2}
+  - {fileID: 11400000, guid: cf7979da2b560a843b45054ff43dd382, type: 2}
+  - {fileID: 11400000, guid: 698cee199a8843d4783f1a79d853c65b, type: 2}
+  - {fileID: 11400000, guid: 698cee199a8843d4783f1a79d853c65b, type: 2}
+  - {fileID: 11400000, guid: 698cee199a8843d4783f1a79d853c65b, type: 2}
+  - {fileID: 11400000, guid: 698cee199a8843d4783f1a79d853c65b, type: 2}
+  - {fileID: 11400000, guid: 8ce8653c8f569c9489f305eb04824aca, type: 2}
+  - {fileID: 11400000, guid: 8ce8653c8f569c9489f305eb04824aca, type: 2}
+  - {fileID: 11400000, guid: 8ce8653c8f569c9489f305eb04824aca, type: 2}
+  - {fileID: 11400000, guid: 8ce8653c8f569c9489f305eb04824aca, type: 2}
+  - {fileID: 11400000, guid: 687203258ba96bf4e9adc1c8259788a0, type: 2}
+  - {fileID: 11400000, guid: 687203258ba96bf4e9adc1c8259788a0, type: 2}
+  - {fileID: 11400000, guid: 687203258ba96bf4e9adc1c8259788a0, type: 2}
+  - {fileID: 11400000, guid: 687203258ba96bf4e9adc1c8259788a0, type: 2}
+  - {fileID: 11400000, guid: 9d2b02f243b08b9488a3e667eb529343, type: 2}
+  - {fileID: 11400000, guid: 9d2b02f243b08b9488a3e667eb529343, type: 2}
+  - {fileID: 11400000, guid: 9d2b02f243b08b9488a3e667eb529343, type: 2}
+  - {fileID: 11400000, guid: 9d2b02f243b08b9488a3e667eb529343, type: 2}
+  - {fileID: 11400000, guid: 148b28da0a6b15a449102e9475b5cb49, type: 2}
+  - {fileID: 11400000, guid: 148b28da0a6b15a449102e9475b5cb49, type: 2}
+  - {fileID: 11400000, guid: 148b28da0a6b15a449102e9475b5cb49, type: 2}
+  - {fileID: 11400000, guid: 148b28da0a6b15a449102e9475b5cb49, type: 2}
+  - {fileID: 11400000, guid: 8bf8eb0b19fbf4448bb7bc821dd92359, type: 2}
+  - {fileID: 11400000, guid: 8bf8eb0b19fbf4448bb7bc821dd92359, type: 2}
+  - {fileID: 11400000, guid: 8bf8eb0b19fbf4448bb7bc821dd92359, type: 2}
+  - {fileID: 11400000, guid: 8bf8eb0b19fbf4448bb7bc821dd92359, type: 2}
+  - {fileID: 11400000, guid: 93b698a7665ea9d448ac2b129ee99f1e, type: 2}
+  - {fileID: 11400000, guid: 93b698a7665ea9d448ac2b129ee99f1e, type: 2}
+  - {fileID: 11400000, guid: 93b698a7665ea9d448ac2b129ee99f1e, type: 2}
+  - {fileID: 11400000, guid: 93b698a7665ea9d448ac2b129ee99f1e, type: 2}
+  - {fileID: 11400000, guid: b4bd95cfec952fb46b8429936f9740d3, type: 2}
+  - {fileID: 11400000, guid: b4bd95cfec952fb46b8429936f9740d3, type: 2}
+  - {fileID: 11400000, guid: d6f5443dedc1aaa49991614ea9f1b1ad, type: 2}
+  - {fileID: 11400000, guid: d6f5443dedc1aaa49991614ea9f1b1ad, type: 2}
+  - {fileID: 11400000, guid: 54c86ed379ea75a49bed1a04f3f44b31, type: 2}
+  - {fileID: 11400000, guid: 54c86ed379ea75a49bed1a04f3f44b31, type: 2}
+  - {fileID: 11400000, guid: 158b754bc6a4ee0498ec3575f779c066, type: 2}
+  - {fileID: 11400000, guid: 158b754bc6a4ee0498ec3575f779c066, type: 2}
+  - {fileID: 11400000, guid: 158b754bc6a4ee0498ec3575f779c066, type: 2}
+  - {fileID: 11400000, guid: 158b754bc6a4ee0498ec3575f779c066, type: 2}
+  - {fileID: 11400000, guid: 87eeaa809258eac498173434f698ce20, type: 2}
+  - {fileID: 11400000, guid: 87eeaa809258eac498173434f698ce20, type: 2}
+  - {fileID: 11400000, guid: 87eeaa809258eac498173434f698ce20, type: 2}
+  - {fileID: 11400000, guid: 87eeaa809258eac498173434f698ce20, type: 2}
+  - {fileID: 11400000, guid: fb57a4ad1226cea4cba6b01c81feff66, type: 2}
+  - {fileID: 11400000, guid: fb57a4ad1226cea4cba6b01c81feff66, type: 2}
+  - {fileID: 11400000, guid: fb57a4ad1226cea4cba6b01c81feff66, type: 2}
+  - {fileID: 11400000, guid: fb57a4ad1226cea4cba6b01c81feff66, type: 2}
+  - {fileID: 11400000, guid: a96e48a44143ec040b129c6d97bed812, type: 2}
+  - {fileID: 11400000, guid: a96e48a44143ec040b129c6d97bed812, type: 2}
+  - {fileID: 11400000, guid: 70c0cbc3459f194449dde1d6b9a06d63, type: 2}
+  - {fileID: 11400000, guid: 70c0cbc3459f194449dde1d6b9a06d63, type: 2}
+  - {fileID: 11400000, guid: 629dfc9ab04f5bd48bfd2356d27dc5d8, type: 2}
+  - {fileID: 11400000, guid: 01b0e5cd52ce3014d9655b7f306e3020, type: 2}
+  - {fileID: 11400000, guid: 20b5834ab234af94da22dabb444bfa64, type: 2}
+  - {fileID: 11400000, guid: c8d49869990f678459a41fa4607b0021, type: 2}
+  - {fileID: 11400000, guid: 320b1956a32b5374bae8124da84b024f, type: 2}
+  - {fileID: 11400000, guid: 5949699ac6ed8cc43aa1933b2b2bdf99, type: 2}
+  SetName: '[ST12] Jesmon'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: d6f5443dedc1aaa49991614ea9f1b1ad, type: 2}
+  SecretPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards: []

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST1
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 573037d3dc2b8944595a8e30332a8bb4, type: 2}
+  - {fileID: 11400000, guid: 573037d3dc2b8944595a8e30332a8bb4, type: 2}
+  - {fileID: 11400000, guid: 573037d3dc2b8944595a8e30332a8bb4, type: 2}
+  - {fileID: 11400000, guid: 573037d3dc2b8944595a8e30332a8bb4, type: 2}
+  - {fileID: 11400000, guid: f51cb84e20c519c4d98587da1e9a5e42, type: 2}
+  - {fileID: 11400000, guid: f51cb84e20c519c4d98587da1e9a5e42, type: 2}
+  - {fileID: 11400000, guid: f51cb84e20c519c4d98587da1e9a5e42, type: 2}
+  - {fileID: 11400000, guid: f51cb84e20c519c4d98587da1e9a5e42, type: 2}
+  - {fileID: 11400000, guid: ba1e2a74e43cd304b895ab492f947760, type: 2}
+  - {fileID: 11400000, guid: ba1e2a74e43cd304b895ab492f947760, type: 2}
+  - {fileID: 11400000, guid: ba1e2a74e43cd304b895ab492f947760, type: 2}
+  - {fileID: 11400000, guid: ba1e2a74e43cd304b895ab492f947760, type: 2}
+  - {fileID: 11400000, guid: 5ce6e0a10a414df4b9f68d98ed79c04f, type: 2}
+  - {fileID: 11400000, guid: 5ce6e0a10a414df4b9f68d98ed79c04f, type: 2}
+  - {fileID: 11400000, guid: 5ce6e0a10a414df4b9f68d98ed79c04f, type: 2}
+  - {fileID: 11400000, guid: 5ce6e0a10a414df4b9f68d98ed79c04f, type: 2}
+  - {fileID: 11400000, guid: a392c7d41e053e740829310f28da53bc, type: 2}
+  - {fileID: 11400000, guid: a392c7d41e053e740829310f28da53bc, type: 2}
+  - {fileID: 11400000, guid: a392c7d41e053e740829310f28da53bc, type: 2}
+  - {fileID: 11400000, guid: a392c7d41e053e740829310f28da53bc, type: 2}
+  - {fileID: 11400000, guid: d0b1c2d2d4c4585469f6bac21b77bb39, type: 2}
+  - {fileID: 11400000, guid: d0b1c2d2d4c4585469f6bac21b77bb39, type: 2}
+  - {fileID: 11400000, guid: d0b1c2d2d4c4585469f6bac21b77bb39, type: 2}
+  - {fileID: 11400000, guid: d0b1c2d2d4c4585469f6bac21b77bb39, type: 2}
+  - {fileID: 11400000, guid: ccd0e19478397a14e925dc6ff5865998, type: 2}
+  - {fileID: 11400000, guid: ccd0e19478397a14e925dc6ff5865998, type: 2}
+  - {fileID: 11400000, guid: 40629377b05ef084fa0eda94d0cb837c, type: 2}
+  - {fileID: 11400000, guid: 40629377b05ef084fa0eda94d0cb837c, type: 2}
+  - {fileID: 11400000, guid: 40629377b05ef084fa0eda94d0cb837c, type: 2}
+  - {fileID: 11400000, guid: 40629377b05ef084fa0eda94d0cb837c, type: 2}
+  - {fileID: 11400000, guid: c323ce328135f5f4dbe5799660b398d2, type: 2}
+  - {fileID: 11400000, guid: c323ce328135f5f4dbe5799660b398d2, type: 2}
+  - {fileID: 11400000, guid: c323ce328135f5f4dbe5799660b398d2, type: 2}
+  - {fileID: 11400000, guid: c323ce328135f5f4dbe5799660b398d2, type: 2}
+  - {fileID: 11400000, guid: 40eb9ba012701904e97238a2c2b8bdaa, type: 2}
+  - {fileID: 11400000, guid: 40eb9ba012701904e97238a2c2b8bdaa, type: 2}
+  - {fileID: 11400000, guid: fe57668f61edf4e45ab71bded593bf69, type: 2}
+  - {fileID: 11400000, guid: fe57668f61edf4e45ab71bded593bf69, type: 2}
+  - {fileID: 11400000, guid: 4fe47be375648b041b922d3f5e6d782a, type: 2}
+  - {fileID: 11400000, guid: 4fe47be375648b041b922d3f5e6d782a, type: 2}
+  - {fileID: 11400000, guid: 4fe47be375648b041b922d3f5e6d782a, type: 2}
+  - {fileID: 11400000, guid: 4fe47be375648b041b922d3f5e6d782a, type: 2}
+  - {fileID: 11400000, guid: e6f43a93c114e3848a81a6b5e66098cf, type: 2}
+  - {fileID: 11400000, guid: e6f43a93c114e3848a81a6b5e66098cf, type: 2}
+  - {fileID: 11400000, guid: e6f43a93c114e3848a81a6b5e66098cf, type: 2}
+  - {fileID: 11400000, guid: e6f43a93c114e3848a81a6b5e66098cf, type: 2}
+  - {fileID: 11400000, guid: d1c2287a53133644bb67c45c350899ea, type: 2}
+  - {fileID: 11400000, guid: d1c2287a53133644bb67c45c350899ea, type: 2}
+  - {fileID: 11400000, guid: 16e6c4118de9ec542ac61592c7ebcedf, type: 2}
+  - {fileID: 11400000, guid: 16e6c4118de9ec542ac61592c7ebcedf, type: 2}
+  - {fileID: 11400000, guid: 629dfc9ab04f5bd48bfd2356d27dc5d8, type: 2}
+  - {fileID: 11400000, guid: 629dfc9ab04f5bd48bfd2356d27dc5d8, type: 2}
+  - {fileID: 11400000, guid: 629dfc9ab04f5bd48bfd2356d27dc5d8, type: 2}
+  - {fileID: 11400000, guid: 629dfc9ab04f5bd48bfd2356d27dc5d8, type: 2}
+  SetName: '[ST1] Gaia Red'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: fe57668f61edf4e45ab71bded593bf69, type: 2}
+  SecretPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards: []

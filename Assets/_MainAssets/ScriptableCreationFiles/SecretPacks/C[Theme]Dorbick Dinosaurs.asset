@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Dorbick Dinosaurs
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: fa278922dd7802f45b0f396b7f4d28f4, type: 2}
+  - {fileID: 11400000, guid: 718e34738bf2da446864cecaae7210a6, type: 2}
+  - {fileID: 11400000, guid: ade80d36129fdfa45b9153064bbbcc70, type: 2}
+  - {fileID: 11400000, guid: 5f914e07b59a0ec4380db2ab60982fcf, type: 2}
+  - {fileID: 11400000, guid: 205637ecc9d88d444a6e30be985df983, type: 2}
+  - {fileID: 11400000, guid: d027fb7c553506446864651be1398738, type: 2}
+  - {fileID: 11400000, guid: fac9ea1355f7b5841873f4720037cd73, type: 2}
+  - {fileID: 11400000, guid: 01b3f041cd2ee454aaf32e192dcb3ded, type: 2}
+  - {fileID: 11400000, guid: ddb8e48ebc1d77143ba5ce72d349919b, type: 2}
+  - {fileID: 11400000, guid: e345e71da4cca4a469fe2f77e24651a6, type: 2}
+  - {fileID: 11400000, guid: f038d071fca783a4fb1622ccd15e034c, type: 2}
+  - {fileID: 11400000, guid: 0d896c71da0dd244088f4ce4b4869b9a, type: 2}
+  - {fileID: 11400000, guid: 52c126e643d2d11478e25bcb4b2138b9, type: 2}
+  - {fileID: 11400000, guid: 2b7c025744112df4380bb04756f83404, type: 2}
+  - {fileID: 11400000, guid: 5f625b02d61aff642af79935137b1cc7, type: 2}
+  - {fileID: 11400000, guid: ed5635f8ab86b824883ac022fb4506e8, type: 2}
+  - {fileID: 11400000, guid: a0db1387a4a3e3340903066594eeb246, type: 2}
+  - {fileID: 11400000, guid: 947fa93459471d2449a0abd83abf3e64, type: 2}
+  - {fileID: 11400000, guid: 18ddfd9aaddf6f4449bb0b7b21dd01d3, type: 2}
+  - {fileID: 11400000, guid: 76235f3b2ca4cb24fb460b30738ef34c, type: 2}
+  - {fileID: 11400000, guid: 4b2a8a8508ca2854b9ad95ca7ef27c52, type: 2}
+  - {fileID: 11400000, guid: c6ad296eb03ff4044a3d7fb83ba47374, type: 2}
+  - {fileID: 11400000, guid: 54e1b632495174b4aa01bf652e612446, type: 2}
+  - {fileID: 11400000, guid: a78d2c31dabf783478f03925aa04442a, type: 2}
+  - {fileID: 11400000, guid: 733e4b33898461840b0487b83a44dbe5, type: 2}
+  - {fileID: 11400000, guid: 976f3af9c3b78ab41bf7bf542468616d, type: 2}
+  - {fileID: 11400000, guid: 639a62679d95a1641b35800e40be1199, type: 2}
+  - {fileID: 11400000, guid: 8e87d50385f7ed040847b78f4aed9d06, type: 2}
+  - {fileID: 11400000, guid: 2baee3bae66daa347b7b420fe546f311, type: 2}
+  - {fileID: 11400000, guid: 057e9d8a50f03fb44b9c005750ace0c9, type: 2}
+  - {fileID: 11400000, guid: a336dd54a869e2a448be99feb49c4605, type: 2}
+  - {fileID: 11400000, guid: cf7979da2b560a843b45054ff43dd382, type: 2}
+  - {fileID: 11400000, guid: 6a8619bbaf21e5c478dfd7f38c4dd575, type: 2}
+  - {fileID: 11400000, guid: 2f762f323a5996244ac18cdd40ac701c, type: 2}
+  - {fileID: 11400000, guid: 501fd2e331bbdad43b8c69e85fd1f83b, type: 2}
+  - {fileID: 11400000, guid: 86047ee9929ef944f94aa67d0e7b6f50, type: 2}
+  SetName: Dino-Mighty Warriors!
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 718e34738bf2da446864cecaae7210a6, type: 2}
+  - {fileID: 11400000, guid: 5f914e07b59a0ec4380db2ab60982fcf, type: 2}
+  - {fileID: 11400000, guid: 01b3f041cd2ee454aaf32e192dcb3ded, type: 2}
+  - {fileID: 11400000, guid: 52c126e643d2d11478e25bcb4b2138b9, type: 2}
+  - {fileID: 11400000, guid: ddb8e48ebc1d77143ba5ce72d349919b, type: 2}

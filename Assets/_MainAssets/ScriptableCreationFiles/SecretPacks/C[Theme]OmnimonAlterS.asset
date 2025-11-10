@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]OmnimonAlterS
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: b5769ffd981f2c642b4e4770fe155b96, type: 2}
+  - {fileID: 11400000, guid: b5c2eb0267db583488379956b24de3da, type: 2}
+  - {fileID: 11400000, guid: a8d7b85b5e00d754bbaee4851af87e42, type: 2}
+  - {fileID: 11400000, guid: ff80ba16fdc10654b99e6a4424061758, type: 2}
+  - {fileID: 11400000, guid: 0e6fdabf23e51174dbdd5385ade03e4b, type: 2}
+  - {fileID: 11400000, guid: 7e59444e7c7da3744969303d0c00add0, type: 2}
+  - {fileID: 11400000, guid: ba355b07d5e2f4344bbb50358f07688e, type: 2}
+  - {fileID: 11400000, guid: 4c06c370c3cebcb4e9a39a5191f3dbb3, type: 2}
+  - {fileID: 11400000, guid: 463f01f3dee6a2a4aa4b07f2bb765b3c, type: 2}
+  - {fileID: 11400000, guid: 3c534674ca8e20d4aa51cb5c509f6b55, type: 2}
+  - {fileID: 11400000, guid: ebcf9b122f83f1d458260a0a9bbe6288, type: 2}
+  - {fileID: 11400000, guid: e4c5f8091b4912a47b13dff95ebd44f7, type: 2}
+  - {fileID: 11400000, guid: be0df80967e3b12429d59f9d59470d78, type: 2}
+  - {fileID: 11400000, guid: 4ed07ffe70124de4485be9ac1833d812, type: 2}
+  - {fileID: 11400000, guid: b29f02c6f305dbb40bcbf3327998f1db, type: 2}
+  - {fileID: 11400000, guid: 69e4bbd344361fc47b81f7c5105193cc, type: 2}
+  - {fileID: 11400000, guid: 3de6ffc74f6b669479a771d68ceba737, type: 2}
+  - {fileID: 11400000, guid: f6320d14d78131f4eb196f5e9807ce93, type: 2}
+  - {fileID: 11400000, guid: 9d9657509d46c184a9ec82394bf555d7, type: 2}
+  - {fileID: 11400000, guid: 9d9657509d46c184a9ec82394bf555d7, type: 2}
+  - {fileID: 11400000, guid: 9ed0d0925e1a51a428651aad73f55daf, type: 2}
+  - {fileID: 11400000, guid: 2f92e20cccc9a4d459e35e48727cef0c, type: 2}
+  - {fileID: 11400000, guid: 680ea1ee852b1ef4094044b0c3eec942, type: 2}
+  - {fileID: 11400000, guid: 4a2ab1bcedfe17841a677e20e3794682, type: 2}
+  - {fileID: 11400000, guid: 1c581cf11e2f44449a2a0e437934ca72, type: 2}
+  - {fileID: 11400000, guid: b251f5d0131c8394cb49f12ef76a662e, type: 2}
+  - {fileID: 11400000, guid: 78115eb55cb4a3c409037f8dd6237153, type: 2}
+  - {fileID: 11400000, guid: 6d50cffca5f259240a870c92676efd5e, type: 2}
+  - {fileID: 11400000, guid: e0b04e3341b271a4c875b69467f50887, type: 2}
+  - {fileID: 11400000, guid: cfa57fee0b3956b40b8b5e34b927fb99, type: 2}
+  - {fileID: 11400000, guid: 95771bc189877e0429a0db99bf509235, type: 2}
+  - {fileID: 11400000, guid: fba1c6db341a41e4bbc4a0be1004462c, type: 2}
+  - {fileID: 11400000, guid: 5abd733598e375f409d7c7db66cef213, type: 2}
+  - {fileID: 11400000, guid: 1f80d248363b4f5479f40cfd78249cc7, type: 2}
+  - {fileID: 11400000, guid: d7879376a6737ff40bd755a4cb7f9fce, type: 2}
+  SetName: Knight of Omega
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: b5769ffd981f2c642b4e4770fe155b96, type: 2}
+  - {fileID: 11400000, guid: 0e6fdabf23e51174dbdd5385ade03e4b, type: 2}
+  - {fileID: 11400000, guid: 7e59444e7c7da3744969303d0c00add0, type: 2}
+  - {fileID: 11400000, guid: ff80ba16fdc10654b99e6a4424061758, type: 2}
+  - {fileID: 11400000, guid: 680ea1ee852b1ef4094044b0c3eec942, type: 2}

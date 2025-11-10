@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST3
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 4358fd4556766f24ab1c1159f7ad2ed6, type: 2}
+  - {fileID: 11400000, guid: 4358fd4556766f24ab1c1159f7ad2ed6, type: 2}
+  - {fileID: 11400000, guid: 4358fd4556766f24ab1c1159f7ad2ed6, type: 2}
+  - {fileID: 11400000, guid: 4358fd4556766f24ab1c1159f7ad2ed6, type: 2}
+  - {fileID: 11400000, guid: ff52ef898d6628746bfd5b796e4bc28c, type: 2}
+  - {fileID: 11400000, guid: ff52ef898d6628746bfd5b796e4bc28c, type: 2}
+  - {fileID: 11400000, guid: ff52ef898d6628746bfd5b796e4bc28c, type: 2}
+  - {fileID: 11400000, guid: ff52ef898d6628746bfd5b796e4bc28c, type: 2}
+  - {fileID: 11400000, guid: b2d5181109ab216459776219192662a6, type: 2}
+  - {fileID: 11400000, guid: b2d5181109ab216459776219192662a6, type: 2}
+  - {fileID: 11400000, guid: b2d5181109ab216459776219192662a6, type: 2}
+  - {fileID: 11400000, guid: b2d5181109ab216459776219192662a6, type: 2}
+  - {fileID: 11400000, guid: 637db243a06a4fb438e845b19937ac4d, type: 2}
+  - {fileID: 11400000, guid: 637db243a06a4fb438e845b19937ac4d, type: 2}
+  - {fileID: 11400000, guid: 637db243a06a4fb438e845b19937ac4d, type: 2}
+  - {fileID: 11400000, guid: 637db243a06a4fb438e845b19937ac4d, type: 2}
+  - {fileID: 11400000, guid: d964ead5e0946274d931bedfd78e30c3, type: 2}
+  - {fileID: 11400000, guid: d964ead5e0946274d931bedfd78e30c3, type: 2}
+  - {fileID: 11400000, guid: fe1ac644cb6898249a3bd6d0466271a8, type: 2}
+  - {fileID: 11400000, guid: fe1ac644cb6898249a3bd6d0466271a8, type: 2}
+  - {fileID: 11400000, guid: fe1ac644cb6898249a3bd6d0466271a8, type: 2}
+  - {fileID: 11400000, guid: fe1ac644cb6898249a3bd6d0466271a8, type: 2}
+  - {fileID: 11400000, guid: 5a3a18d513a7439479220cc3fffa8dae, type: 2}
+  - {fileID: 11400000, guid: 5a3a18d513a7439479220cc3fffa8dae, type: 2}
+  - {fileID: 11400000, guid: 5a3a18d513a7439479220cc3fffa8dae, type: 2}
+  - {fileID: 11400000, guid: 5a3a18d513a7439479220cc3fffa8dae, type: 2}
+  - {fileID: 11400000, guid: e44a18cf6cefd6d4aa76d8a875c28d2c, type: 2}
+  - {fileID: 11400000, guid: e44a18cf6cefd6d4aa76d8a875c28d2c, type: 2}
+  - {fileID: 11400000, guid: e44a18cf6cefd6d4aa76d8a875c28d2c, type: 2}
+  - {fileID: 11400000, guid: e44a18cf6cefd6d4aa76d8a875c28d2c, type: 2}
+  - {fileID: 11400000, guid: 7682687d8e6fd7045b29e9221d5392dc, type: 2}
+  - {fileID: 11400000, guid: 7682687d8e6fd7045b29e9221d5392dc, type: 2}
+  - {fileID: 11400000, guid: 7682687d8e6fd7045b29e9221d5392dc, type: 2}
+  - {fileID: 11400000, guid: 7682687d8e6fd7045b29e9221d5392dc, type: 2}
+  - {fileID: 11400000, guid: 95aefea31e992b147884c89b5a6ac2b8, type: 2}
+  - {fileID: 11400000, guid: 95aefea31e992b147884c89b5a6ac2b8, type: 2}
+  - {fileID: 11400000, guid: 8b4371559433a8d4d99e9b2cbaeaf1cb, type: 2}
+  - {fileID: 11400000, guid: 8b4371559433a8d4d99e9b2cbaeaf1cb, type: 2}
+  - {fileID: 11400000, guid: 20b5834ab234af94da22dabb444bfa64, type: 2}
+  - {fileID: 11400000, guid: 20b5834ab234af94da22dabb444bfa64, type: 2}
+  - {fileID: 11400000, guid: 20b5834ab234af94da22dabb444bfa64, type: 2}
+  - {fileID: 11400000, guid: 20b5834ab234af94da22dabb444bfa64, type: 2}
+  - {fileID: 11400000, guid: 9a0f82c3e630fb447acbb6ce6caaaa42, type: 2}
+  - {fileID: 11400000, guid: 9a0f82c3e630fb447acbb6ce6caaaa42, type: 2}
+  - {fileID: 11400000, guid: 9a0f82c3e630fb447acbb6ce6caaaa42, type: 2}
+  - {fileID: 11400000, guid: 9a0f82c3e630fb447acbb6ce6caaaa42, type: 2}
+  - {fileID: 11400000, guid: 922fd99e77eea7a4ab34f614ccb512b7, type: 2}
+  - {fileID: 11400000, guid: 922fd99e77eea7a4ab34f614ccb512b7, type: 2}
+  - {fileID: 11400000, guid: 922fd99e77eea7a4ab34f614ccb512b7, type: 2}
+  - {fileID: 11400000, guid: 922fd99e77eea7a4ab34f614ccb512b7, type: 2}
+  - {fileID: 11400000, guid: 6ed5c08cb82fdfd42917f5dde99f05cc, type: 2}
+  - {fileID: 11400000, guid: 6ed5c08cb82fdfd42917f5dde99f05cc, type: 2}
+  - {fileID: 11400000, guid: 07ccb5e4e13b1de41a91454ecdc87bb1, type: 2}
+  - {fileID: 11400000, guid: 07ccb5e4e13b1de41a91454ecdc87bb1, type: 2}
+  SetName: '[ST3] Heaven''s Yellow'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 8b4371559433a8d4d99e9b2cbaeaf1cb, type: 2}
+  SecretPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards: []

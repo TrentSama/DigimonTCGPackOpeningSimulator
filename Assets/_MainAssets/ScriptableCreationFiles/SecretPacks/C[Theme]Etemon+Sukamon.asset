@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Etemon+Sukamon
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 64545f3617707d741b310eb4165c15fa, type: 2}
+  - {fileID: 11400000, guid: b3590418fa2ed374c96ec18a85d70d6a, type: 2}
+  - {fileID: 11400000, guid: ed0277e3ac242ba4aa8e7f250330b957, type: 2}
+  - {fileID: 11400000, guid: a2ab58a8f5078304ea4aef3e0262891a, type: 2}
+  - {fileID: 11400000, guid: d3dceb244237c3f46a6400a6687f7eac, type: 2}
+  - {fileID: 11400000, guid: 48a60d76aa3ebbe4bbf4b42aa5b50cd4, type: 2}
+  - {fileID: 11400000, guid: 21b82dbeab98c2247b58948288d57aeb, type: 2}
+  - {fileID: 11400000, guid: c23966887c98678438346acbab7a511d, type: 2}
+  - {fileID: 11400000, guid: 72404ea5e2d1ffe498d4761da19326a6, type: 2}
+  - {fileID: 11400000, guid: a0ab6c48c5da2ec4380a8626eaf62ae4, type: 2}
+  - {fileID: 11400000, guid: d1f05adcdd7751f45ab67e0f6846cf27, type: 2}
+  - {fileID: 11400000, guid: b4bd95cfec952fb46b8429936f9740d3, type: 2}
+  - {fileID: 11400000, guid: f55388e338c5f0348a36b5acf87ec05a, type: 2}
+  - {fileID: 11400000, guid: fc61842519bea974da18fcbfe6c87725, type: 2}
+  - {fileID: 11400000, guid: 7f0b5d2670520e142a6daaee58453ceb, type: 2}
+  - {fileID: 11400000, guid: f29adb9fc18d5294bbf8d5a76896f89b, type: 2}
+  - {fileID: 11400000, guid: 3da91331c4ed8d04d9bbde082e6fa2fe, type: 2}
+  - {fileID: 11400000, guid: 61f30e4e3f34ab44ca447dbfef706f90, type: 2}
+  - {fileID: 11400000, guid: 02443bf4099341649b09905cf4db4c15, type: 2}
+  - {fileID: 11400000, guid: 9d9657509d46c184a9ec82394bf555d7, type: 2}
+  - {fileID: 11400000, guid: 66be34cac6b0b8a4da5fcf8589365503, type: 2}
+  - {fileID: 11400000, guid: c7afebbc06ff2c7448a4f678b8083df7, type: 2}
+  - {fileID: 11400000, guid: b2e4e0f05200d764d8abe535a5e9a299, type: 2}
+  - {fileID: 11400000, guid: 235d1cf13a76cb54b875192d5c025a55, type: 2}
+  - {fileID: 11400000, guid: 00d1957302bad4941a6bbfc84a49f442, type: 2}
+  - {fileID: 11400000, guid: 4fbfbe83e452df5429a0a119e9a4383d, type: 2}
+  - {fileID: 11400000, guid: 81fab55e65c961146bd5afdf676e124b, type: 2}
+  - {fileID: 11400000, guid: 1659b0e318ea80e43a5af2c4bb307a06, type: 2}
+  - {fileID: 11400000, guid: e84ad8562d5a1134d8ec0fb7c2af106f, type: 2}
+  - {fileID: 11400000, guid: e99cc75c759b9f24cb84e5708af70775, type: 2}
+  - {fileID: 11400000, guid: 3c43b87c10dbe184595f1f28350690b5, type: 2}
+  - {fileID: 11400000, guid: 61ff41654254bd0488d5c296aa4b845f, type: 2}
+  SetName: Monkey Business
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 48a60d76aa3ebbe4bbf4b42aa5b50cd4, type: 2}
+  - {fileID: 11400000, guid: 64545f3617707d741b310eb4165c15fa, type: 2}
+  - {fileID: 11400000, guid: b3590418fa2ed374c96ec18a85d70d6a, type: 2}
+  - {fileID: 11400000, guid: b4bd95cfec952fb46b8429936f9740d3, type: 2}
+  - {fileID: 11400000, guid: f55388e338c5f0348a36b5acf87ec05a, type: 2}

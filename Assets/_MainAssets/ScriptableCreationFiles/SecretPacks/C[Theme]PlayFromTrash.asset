@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]PlayFromTrash
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: eba7f07764e2e854a87b5b096e2710e0, type: 2}
+  - {fileID: 11400000, guid: ea9296a661e348a40a0cfa7a0b5ca2bc, type: 2}
+  - {fileID: 11400000, guid: 998cc15759d62d641af7a03aed592bab, type: 2}
+  - {fileID: 11400000, guid: 49f51899b0a83454bb4163ab15c01d51, type: 2}
+  - {fileID: 11400000, guid: 7cb3aff181d209c48a3ceb27db057e89, type: 2}
+  - {fileID: 11400000, guid: 0284f570ba08d384386afe57811d9eaf, type: 2}
+  - {fileID: 11400000, guid: a8781fc66a780904dac00b64aa9b6021, type: 2}
+  - {fileID: 11400000, guid: 9a492300d71d5044eba1ca84cd5c0fc9, type: 2}
+  - {fileID: 11400000, guid: 5184c67a189fd3347a0d54184b79d374, type: 2}
+  - {fileID: 11400000, guid: bf125c4f6b92a404588c502256b798e9, type: 2}
+  - {fileID: 11400000, guid: 9849df57f458dc24eb70d0db44fbc12e, type: 2}
+  - {fileID: 11400000, guid: 44ae37358c0bff94bb0888adeb0c2442, type: 2}
+  - {fileID: 11400000, guid: 7d614591f2115134f809fda0c5dcc428, type: 2}
+  - {fileID: 11400000, guid: fea1c6bfe7efcaf4eb5f1ae499c985ed, type: 2}
+  - {fileID: 11400000, guid: d6c27b142ae2ccf429ff5616214e8cf4, type: 2}
+  - {fileID: 11400000, guid: b32fe7efabef68548b338ecf4881432a, type: 2}
+  - {fileID: 11400000, guid: ab3632366eb540141916b810c3d34016, type: 2}
+  - {fileID: 11400000, guid: b316a13bdc407634180f3bb6acba8490, type: 2}
+  - {fileID: 11400000, guid: e7031c1e1c43c7f43a350897a1c77045, type: 2}
+  - {fileID: 11400000, guid: eebfe9061c633714a9a67ff986e6f423, type: 2}
+  - {fileID: 11400000, guid: 080c72a995772c843bb1d374047b4de0, type: 2}
+  - {fileID: 11400000, guid: 7f9438bc23605bc4eab529cda0b0ca3c, type: 2}
+  - {fileID: 11400000, guid: 1bc04f6fa48571544b590f0d027eb34f, type: 2}
+  - {fileID: 11400000, guid: 67866dd645bbd9e4ca1cfe28deb43639, type: 2}
+  - {fileID: 11400000, guid: c901ded7a21df2f449d5db6f98610c90, type: 2}
+  - {fileID: 11400000, guid: 062160650b00cc841a7838ecb86a5e83, type: 2}
+  - {fileID: 11400000, guid: 2d36cb7547e21c841aeebe4dab3b4896, type: 2}
+  - {fileID: 11400000, guid: 536754cd1e62f9a4f8a1c869c385f8a7, type: 2}
+  - {fileID: 11400000, guid: 80d6c779aa28c3f49904055019be6214, type: 2}
+  - {fileID: 11400000, guid: 574f82301180a504485ad5ee1c1a5231, type: 2}
+  - {fileID: 11400000, guid: e786bb3b8876445498e06f1143792350, type: 2}
+  - {fileID: 11400000, guid: 4662a40dee0abad4282beb1d02c7c612, type: 2}
+  SetName: Resurrection of the dead
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: ea9296a661e348a40a0cfa7a0b5ca2bc, type: 2}
+  - {fileID: 11400000, guid: eba7f07764e2e854a87b5b096e2710e0, type: 2}
+  - {fileID: 11400000, guid: fea1c6bfe7efcaf4eb5f1ae499c985ed, type: 2}
+  - {fileID: 11400000, guid: 0284f570ba08d384386afe57811d9eaf, type: 2}
+  - {fileID: 11400000, guid: 5184c67a189fd3347a0d54184b79d374, type: 2}

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]X_Chronicles
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: c0bb4bf67b814374a84fd57ddfc847c1, type: 2}
+  - {fileID: 11400000, guid: b72784e2144384a41992622dee31ae6a, type: 2}
+  - {fileID: 11400000, guid: 576aba6140603ed4bb2c3e12b3f9f73e, type: 2}
+  - {fileID: 11400000, guid: eed99ce76f5446946b04bcd0d4889100, type: 2}
+  - {fileID: 11400000, guid: 662e6132200c6994f815afc8db1517de, type: 2}
+  - {fileID: 11400000, guid: 3a1daa7bf5967724d8e99469451b865b, type: 2}
+  - {fileID: 11400000, guid: 4c58280a6c91fc540ab947d00d25eb58, type: 2}
+  - {fileID: 11400000, guid: 944bbcf4f222b694e95270f76062d375, type: 2}
+  - {fileID: 11400000, guid: fff92df04a36c6c4c96946f4d7aeda37, type: 2}
+  - {fileID: 11400000, guid: 5289c33197371b54f800a7e5f84702f4, type: 2}
+  - {fileID: 11400000, guid: 00ef5dff410e91c45b165afd5e692966, type: 2}
+  - {fileID: 11400000, guid: 77b347b161186d4478fc78809793037b, type: 2}
+  - {fileID: 11400000, guid: 558fe8f7211fcea4b9bd14bd1757cb2e, type: 2}
+  - {fileID: 11400000, guid: 4c06c370c3cebcb4e9a39a5191f3dbb3, type: 2}
+  - {fileID: 11400000, guid: dfb17212f353ddb45817a89eae7816ca, type: 2}
+  - {fileID: 11400000, guid: a905a31a85082bb4f84dcd409ae5374e, type: 2}
+  - {fileID: 11400000, guid: dac1a70c3a9f9c14b97ed6f665699c27, type: 2}
+  - {fileID: 11400000, guid: 5c18f1a9e75570240877b685b5c43e2c, type: 2}
+  - {fileID: 11400000, guid: 8fc916dd2cfb7d843b7d6141e1966287, type: 2}
+  - {fileID: 11400000, guid: 5e8d5df0eec13f94889b354f0a3c0a54, type: 2}
+  - {fileID: 11400000, guid: f47e675011d0cb240ab42f4eff030c1b, type: 2}
+  - {fileID: 11400000, guid: 8d8a6e0053fa85042b2872feb2bb0ec0, type: 2}
+  - {fileID: 11400000, guid: fdb9561153921774b9f22a32d3976ece, type: 2}
+  - {fileID: 11400000, guid: c1751de4e41c4f44f9f403c648072d8f, type: 2}
+  - {fileID: 11400000, guid: d9a57fc2db4c59245965585e80a49943, type: 2}
+  - {fileID: 11400000, guid: 2cb926c0e2df2d3418d0323da356215e, type: 2}
+  - {fileID: 11400000, guid: d76c6d11cc35bb7469ad9cc5c6f8fc7e, type: 2}
+  - {fileID: 11400000, guid: 64e50e86fd67bc1479c28fce5a8dd25c, type: 2}
+  - {fileID: 11400000, guid: a336dd54a869e2a448be99feb49c4605, type: 2}
+  - {fileID: 11400000, guid: d4be046db53b12242ad8e6e4c40b1acc, type: 2}
+  - {fileID: 11400000, guid: 4ae5d70c880649444b817fcfe80f7435, type: 2}
+  - {fileID: 11400000, guid: 3604acea6c125c94c81aafe55c125adb, type: 2}
+  - {fileID: 11400000, guid: 2e0aff9900668754482d049dfe778931, type: 2}
+  - {fileID: 11400000, guid: 8e43457dd1a5c85449fb853ee02ea095, type: 2}
+  - {fileID: 11400000, guid: 50beea4ea74058d48a2bcc2fd44a64bc, type: 2}
+  - {fileID: 11400000, guid: 49accee05af91264da08d88b89dfc1e8, type: 2}
+  - {fileID: 11400000, guid: 75302f842af3df84db455297161f6159, type: 2}
+  - {fileID: 11400000, guid: 8fe62835e2477324a9df1ff1bf522d80, type: 2}
+  - {fileID: 11400000, guid: 4849840abaa7bec45af64992a6afc72a, type: 2}
+  - {fileID: 11400000, guid: 3f93580550c3d3f4dbe04981e9c202e0, type: 2}
+  SetName: Chronicle of X
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 576aba6140603ed4bb2c3e12b3f9f73e, type: 2}
+  - {fileID: 11400000, guid: eed99ce76f5446946b04bcd0d4889100, type: 2}
+  - {fileID: 11400000, guid: fff92df04a36c6c4c96946f4d7aeda37, type: 2}
+  - {fileID: 11400000, guid: d9a57fc2db4c59245965585e80a49943, type: 2}
+  - {fileID: 11400000, guid: dfb17212f353ddb45817a89eae7816ca, type: 2}

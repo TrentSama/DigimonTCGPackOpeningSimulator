@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST4
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: d80b2b436f0a13c4f82363e09a63a875, type: 2}
+  - {fileID: 11400000, guid: d80b2b436f0a13c4f82363e09a63a875, type: 2}
+  - {fileID: 11400000, guid: d80b2b436f0a13c4f82363e09a63a875, type: 2}
+  - {fileID: 11400000, guid: d80b2b436f0a13c4f82363e09a63a875, type: 2}
+  - {fileID: 11400000, guid: c2d5d46c0c8a6af4c95bef1b6e55eb7f, type: 2}
+  - {fileID: 11400000, guid: c2d5d46c0c8a6af4c95bef1b6e55eb7f, type: 2}
+  - {fileID: 11400000, guid: c2d5d46c0c8a6af4c95bef1b6e55eb7f, type: 2}
+  - {fileID: 11400000, guid: c2d5d46c0c8a6af4c95bef1b6e55eb7f, type: 2}
+  - {fileID: 11400000, guid: c790d3fd991ee214285d330128bfdfd1, type: 2}
+  - {fileID: 11400000, guid: c790d3fd991ee214285d330128bfdfd1, type: 2}
+  - {fileID: 11400000, guid: c790d3fd991ee214285d330128bfdfd1, type: 2}
+  - {fileID: 11400000, guid: c790d3fd991ee214285d330128bfdfd1, type: 2}
+  - {fileID: 11400000, guid: c563b0924d7c9564a9a04d63baed4a73, type: 2}
+  - {fileID: 11400000, guid: c563b0924d7c9564a9a04d63baed4a73, type: 2}
+  - {fileID: 11400000, guid: c563b0924d7c9564a9a04d63baed4a73, type: 2}
+  - {fileID: 11400000, guid: c563b0924d7c9564a9a04d63baed4a73, type: 2}
+  - {fileID: 11400000, guid: 7ff41c69fee112541bda5fcd35d93410, type: 2}
+  - {fileID: 11400000, guid: 7ff41c69fee112541bda5fcd35d93410, type: 2}
+  - {fileID: 11400000, guid: 7ff41c69fee112541bda5fcd35d93410, type: 2}
+  - {fileID: 11400000, guid: 7ff41c69fee112541bda5fcd35d93410, type: 2}
+  - {fileID: 11400000, guid: fda3e84e1aa7b7b459b3569a318b3332, type: 2}
+  - {fileID: 11400000, guid: fda3e84e1aa7b7b459b3569a318b3332, type: 2}
+  - {fileID: 11400000, guid: fda3e84e1aa7b7b459b3569a318b3332, type: 2}
+  - {fileID: 11400000, guid: fda3e84e1aa7b7b459b3569a318b3332, type: 2}
+  - {fileID: 11400000, guid: 02211c21e068dd04594802964d92fc1e, type: 2}
+  - {fileID: 11400000, guid: 02211c21e068dd04594802964d92fc1e, type: 2}
+  - {fileID: 11400000, guid: 02211c21e068dd04594802964d92fc1e, type: 2}
+  - {fileID: 11400000, guid: 02211c21e068dd04594802964d92fc1e, type: 2}
+  - {fileID: 11400000, guid: 6b653138e45c83748944eef2a53523aa, type: 2}
+  - {fileID: 11400000, guid: 6b653138e45c83748944eef2a53523aa, type: 2}
+  - {fileID: 11400000, guid: 3cc05f987bf94294ca362f740cc7e7f4, type: 2}
+  - {fileID: 11400000, guid: 3cc05f987bf94294ca362f740cc7e7f4, type: 2}
+  - {fileID: 11400000, guid: 3cc05f987bf94294ca362f740cc7e7f4, type: 2}
+  - {fileID: 11400000, guid: 3cc05f987bf94294ca362f740cc7e7f4, type: 2}
+  - {fileID: 11400000, guid: 477189f894f589e4d9b83520082acd40, type: 2}
+  - {fileID: 11400000, guid: 477189f894f589e4d9b83520082acd40, type: 2}
+  - {fileID: 11400000, guid: 477189f894f589e4d9b83520082acd40, type: 2}
+  - {fileID: 11400000, guid: 477189f894f589e4d9b83520082acd40, type: 2}
+  - {fileID: 11400000, guid: d73bb0a847af4824283e90253f8b6bb6, type: 2}
+  - {fileID: 11400000, guid: d73bb0a847af4824283e90253f8b6bb6, type: 2}
+  - {fileID: 11400000, guid: 072841aa703902d439631ed840547d90, type: 2}
+  - {fileID: 11400000, guid: 072841aa703902d439631ed840547d90, type: 2}
+  - {fileID: 11400000, guid: e5052a7a7fdff7e45a129d333c1b45f7, type: 2}
+  - {fileID: 11400000, guid: e5052a7a7fdff7e45a129d333c1b45f7, type: 2}
+  - {fileID: 11400000, guid: 84be341d5a6431b4cbe865a12896f02c, type: 2}
+  - {fileID: 11400000, guid: 84be341d5a6431b4cbe865a12896f02c, type: 2}
+  - {fileID: 11400000, guid: 1c24bd5386ed3a74bad12e9c65270317, type: 2}
+  - {fileID: 11400000, guid: 1c24bd5386ed3a74bad12e9c65270317, type: 2}
+  - {fileID: 11400000, guid: 1c24bd5386ed3a74bad12e9c65270317, type: 2}
+  - {fileID: 11400000, guid: 1c24bd5386ed3a74bad12e9c65270317, type: 2}
+  - {fileID: 11400000, guid: 10b58d94290cc324da3c6168ffc6c1af, type: 2}
+  - {fileID: 11400000, guid: 10b58d94290cc324da3c6168ffc6c1af, type: 2}
+  - {fileID: 11400000, guid: 10b58d94290cc324da3c6168ffc6c1af, type: 2}
+  - {fileID: 11400000, guid: 10b58d94290cc324da3c6168ffc6c1af, type: 2}
+  SetName: '[ST4] Giga Green'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: e5052a7a7fdff7e45a129d333c1b45f7, type: 2}
+  SecretPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards: []

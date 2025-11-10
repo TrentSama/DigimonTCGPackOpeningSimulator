@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: ST15
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 88e07a54e8c6bce4990fcb694c36bb28, type: 2}
+  - {fileID: 11400000, guid: 88e07a54e8c6bce4990fcb694c36bb28, type: 2}
+  - {fileID: 11400000, guid: 88e07a54e8c6bce4990fcb694c36bb28, type: 2}
+  - {fileID: 11400000, guid: 88e07a54e8c6bce4990fcb694c36bb28, type: 2}
+  - {fileID: 11400000, guid: ffaabb6a091b3ee499fbd09f747b0b23, type: 2}
+  - {fileID: 11400000, guid: ffaabb6a091b3ee499fbd09f747b0b23, type: 2}
+  - {fileID: 11400000, guid: 29729709ade884f41ab9a46409dab606, type: 2}
+  - {fileID: 11400000, guid: 29729709ade884f41ab9a46409dab606, type: 2}
+  - {fileID: 11400000, guid: 29729709ade884f41ab9a46409dab606, type: 2}
+  - {fileID: 11400000, guid: 29729709ade884f41ab9a46409dab606, type: 2}
+  - {fileID: 11400000, guid: 8dac4e55294feae43b20d88f69db73ab, type: 2}
+  - {fileID: 11400000, guid: 8dac4e55294feae43b20d88f69db73ab, type: 2}
+  - {fileID: 11400000, guid: 8dac4e55294feae43b20d88f69db73ab, type: 2}
+  - {fileID: 11400000, guid: 8dac4e55294feae43b20d88f69db73ab, type: 2}
+  - {fileID: 11400000, guid: 1f7594cb43cd8da45b5527464d9812ff, type: 2}
+  - {fileID: 11400000, guid: 1f7594cb43cd8da45b5527464d9812ff, type: 2}
+  - {fileID: 11400000, guid: 1f7594cb43cd8da45b5527464d9812ff, type: 2}
+  - {fileID: 11400000, guid: 1f7594cb43cd8da45b5527464d9812ff, type: 2}
+  - {fileID: 11400000, guid: f5db94c75f50fbf47a0ddd608c2ab720, type: 2}
+  - {fileID: 11400000, guid: f5db94c75f50fbf47a0ddd608c2ab720, type: 2}
+  - {fileID: 11400000, guid: f5db94c75f50fbf47a0ddd608c2ab720, type: 2}
+  - {fileID: 11400000, guid: f5db94c75f50fbf47a0ddd608c2ab720, type: 2}
+  - {fileID: 11400000, guid: d68096d02744e1a428b6904808cc7a34, type: 2}
+  - {fileID: 11400000, guid: d68096d02744e1a428b6904808cc7a34, type: 2}
+  - {fileID: 11400000, guid: d68096d02744e1a428b6904808cc7a34, type: 2}
+  - {fileID: 11400000, guid: d68096d02744e1a428b6904808cc7a34, type: 2}
+  - {fileID: 11400000, guid: 8aed0470408261c4e94c991a82b6610f, type: 2}
+  - {fileID: 11400000, guid: 8aed0470408261c4e94c991a82b6610f, type: 2}
+  - {fileID: 11400000, guid: 9e1a7be677724974d89e8497ebe6c90a, type: 2}
+  - {fileID: 11400000, guid: 9e1a7be677724974d89e8497ebe6c90a, type: 2}
+  - {fileID: 11400000, guid: 9e1a7be677724974d89e8497ebe6c90a, type: 2}
+  - {fileID: 11400000, guid: 9e1a7be677724974d89e8497ebe6c90a, type: 2}
+  - {fileID: 11400000, guid: 5dc61d2a71d481647929aaedc8b1c48b, type: 2}
+  - {fileID: 11400000, guid: 5dc61d2a71d481647929aaedc8b1c48b, type: 2}
+  - {fileID: 11400000, guid: 5dc61d2a71d481647929aaedc8b1c48b, type: 2}
+  - {fileID: 11400000, guid: 5dc61d2a71d481647929aaedc8b1c48b, type: 2}
+  - {fileID: 11400000, guid: 1e61e7a553f66804bba17bc6a68c7402, type: 2}
+  - {fileID: 11400000, guid: 1e61e7a553f66804bba17bc6a68c7402, type: 2}
+  - {fileID: 11400000, guid: 6de67be3a39e81849b47a261a300682b, type: 2}
+  - {fileID: 11400000, guid: 6de67be3a39e81849b47a261a300682b, type: 2}
+  - {fileID: 11400000, guid: 8bdac92dcb2c620479cf97a3a32ee8b4, type: 2}
+  - {fileID: 11400000, guid: 8bdac92dcb2c620479cf97a3a32ee8b4, type: 2}
+  - {fileID: 11400000, guid: 8bdac92dcb2c620479cf97a3a32ee8b4, type: 2}
+  - {fileID: 11400000, guid: 8bdac92dcb2c620479cf97a3a32ee8b4, type: 2}
+  - {fileID: 11400000, guid: eae8e89328f047a4c859a2e1546f3ea3, type: 2}
+  - {fileID: 11400000, guid: eae8e89328f047a4c859a2e1546f3ea3, type: 2}
+  - {fileID: 11400000, guid: eae8e89328f047a4c859a2e1546f3ea3, type: 2}
+  - {fileID: 11400000, guid: eae8e89328f047a4c859a2e1546f3ea3, type: 2}
+  - {fileID: 11400000, guid: cabf8c487f7ebbd46947e937bd5f9946, type: 2}
+  - {fileID: 11400000, guid: cabf8c487f7ebbd46947e937bd5f9946, type: 2}
+  - {fileID: 11400000, guid: c1af7b47ad4185d4199e2c839ebe1a7b, type: 2}
+  - {fileID: 11400000, guid: c1af7b47ad4185d4199e2c839ebe1a7b, type: 2}
+  - {fileID: 11400000, guid: c1af7b47ad4185d4199e2c839ebe1a7b, type: 2}
+  - {fileID: 11400000, guid: c1af7b47ad4185d4199e2c839ebe1a7b, type: 2}
+  SetName: '[ST15] Dragon of Courage'
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 6de67be3a39e81849b47a261a300682b, type: 2}
+  SecretPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards: []

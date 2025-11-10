@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Amphi+Goma
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: b65eb540577dcd44bb20c55ef35972fe, type: 2}
+  - {fileID: 11400000, guid: 2ad59fa36d6d81b41b9bc61d20ac6053, type: 2}
+  - {fileID: 11400000, guid: 846314ae52446064aa34a1c0f865232c, type: 2}
+  - {fileID: 11400000, guid: 9a739a1e943506f4d814c8c5599c172e, type: 2}
+  - {fileID: 11400000, guid: b08a16d3ab9090548b3fdb50062d32e6, type: 2}
+  - {fileID: 11400000, guid: f9a264db42070ec46997d5d2160db87f, type: 2}
+  - {fileID: 11400000, guid: ea5479e47df3b474c993dfad102cd595, type: 2}
+  - {fileID: 11400000, guid: 44fb9656a808d334aa011342248b52a1, type: 2}
+  - {fileID: 11400000, guid: d0a3c53927735d44e9d61d74ad7f6b57, type: 2}
+  - {fileID: 11400000, guid: cf9be8d7172be624094e95a95605df72, type: 2}
+  - {fileID: 11400000, guid: 9180b34fb0f6a404dbf202cc0df2d963, type: 2}
+  - {fileID: 11400000, guid: c421558cf50dd1a4f9c31fd7bc2256d3, type: 2}
+  - {fileID: 11400000, guid: e5a91ea51189f3c418f1d43e05ba548f, type: 2}
+  - {fileID: 11400000, guid: b4bea76ba0d42c4489a9c8b5157f176d, type: 2}
+  - {fileID: 11400000, guid: b87b9776e1cc0ee4b8c1c877466ee124, type: 2}
+  - {fileID: 11400000, guid: 8cfe8dc991248a147ae421e9e41d5ff1, type: 2}
+  - {fileID: 11400000, guid: 917d6b85de47b534aad281f6fd423761, type: 2}
+  - {fileID: 11400000, guid: 242a27f6b8df9a947a28d72870d83eae, type: 2}
+  - {fileID: 11400000, guid: d089f67dcc74d824683e7126cd69a0be, type: 2}
+  - {fileID: 11400000, guid: b1664b61c8a370444b869d55d3515f6c, type: 2}
+  - {fileID: 11400000, guid: c4bce8e205fcaf342825d70dd6a3ef50, type: 2}
+  - {fileID: 11400000, guid: 709846bb088bf9e46b6155fc7b0051f0, type: 2}
+  - {fileID: 11400000, guid: 4ead4c90cb3e08045b532fa441cf0f2d, type: 2}
+  - {fileID: 11400000, guid: bc7a70293ec9a57499ba7245e380a654, type: 2}
+  - {fileID: 11400000, guid: 165167f00b70ce14bb17eae36c260a9e, type: 2}
+  - {fileID: 11400000, guid: eaf545e235b224541aa1227599c30c3e, type: 2}
+  - {fileID: 11400000, guid: 09611a250a2850846bbfd80b4cf04705, type: 2}
+  - {fileID: 11400000, guid: 6373a046cead6da4dafca41e3ed3d624, type: 2}
+  - {fileID: 11400000, guid: dbb2952046a68634d95654f69df0eb3d, type: 2}
+  - {fileID: 11400000, guid: 3f625e75560d4204f829372393dfbc3f, type: 2}
+  - {fileID: 11400000, guid: 341bb10eb195ac64099100602bf5aaac, type: 2}
+  - {fileID: 11400000, guid: 9319cabcc8bfb344696dd43decd42b20, type: 2}
+  - {fileID: 11400000, guid: a7202e824b70bfb4885ffca4a9797f4f, type: 2}
+  - {fileID: 11400000, guid: 5989d9206dcabdb4c9e6e564ba5b34bc, type: 2}
+  - {fileID: 11400000, guid: b5c8d0ffe1faf034c85272cee9397535, type: 2}
+  - {fileID: 11400000, guid: c75c961800108ca4c9f73bed4ca18c94, type: 2}
+  - {fileID: 11400000, guid: 3824227110e964c4482fd5e5666e7386, type: 2}
+  - {fileID: 11400000, guid: 623cd12d0fe37ca4a8818464b2516ebe, type: 2}
+  - {fileID: 11400000, guid: db71fb8e1a21aa947846834a85b61a3d, type: 2}
+  SetName: Friends from the Deep Source
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: c421558cf50dd1a4f9c31fd7bc2256d3, type: 2}
+  - {fileID: 11400000, guid: b08a16d3ab9090548b3fdb50062d32e6, type: 2}
+  - {fileID: 11400000, guid: cf9be8d7172be624094e95a95605df72, type: 2}
+  - {fileID: 11400000, guid: ea5479e47df3b474c993dfad102cd595, type: 2}
+  - {fileID: 11400000, guid: 846314ae52446064aa34a1c0f865232c, type: 2}

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Linkz+Dinos
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 718e34738bf2da446864cecaae7210a6, type: 2}
+  - {fileID: 11400000, guid: 2a0638e79f21fbc4fb819b6b76a82e8f, type: 2}
+  - {fileID: 11400000, guid: c0b69cdea93b6fb44bfca9692080325c, type: 2}
+  - {fileID: 11400000, guid: 37d18e621509e0a47bfe533300ba1b94, type: 2}
+  - {fileID: 11400000, guid: 3e27ccb9a2764db4b83fff26cc921152, type: 2}
+  - {fileID: 11400000, guid: ffaabb6a091b3ee499fbd09f747b0b23, type: 2}
+  - {fileID: 11400000, guid: ec13693b7493fef4b93023bd61db02ff, type: 2}
+  - {fileID: 11400000, guid: ce25bbf7cb81e784e86c3f3c6f859040, type: 2}
+  - {fileID: 11400000, guid: 5f625b02d61aff642af79935137b1cc7, type: 2}
+  - {fileID: 11400000, guid: 0528ff292aa016446a5653b0e97816e4, type: 2}
+  - {fileID: 11400000, guid: ddb8e48ebc1d77143ba5ce72d349919b, type: 2}
+  - {fileID: 11400000, guid: a58c8a594f6ea634cb96881edeba90c8, type: 2}
+  - {fileID: 11400000, guid: 715b883e9f497d24f9db5f6e65108904, type: 2}
+  - {fileID: 11400000, guid: 88b73913e513d7e4aab150c83f3abf28, type: 2}
+  - {fileID: 11400000, guid: dd3d8d485e4d2a444ae5668c3a8da072, type: 2}
+  - {fileID: 11400000, guid: 7495be826bc84694b91ac6eebc3a6c84, type: 2}
+  - {fileID: 11400000, guid: 2936de4a06f55a34c9061cafcecf39b3, type: 2}
+  - {fileID: 11400000, guid: 3d07602389968684b83ff9bdf87abf54, type: 2}
+  - {fileID: 11400000, guid: 7e137a3d57df57747adf509074d5e2f7, type: 2}
+  - {fileID: 11400000, guid: cf7979da2b560a843b45054ff43dd382, type: 2}
+  - {fileID: 11400000, guid: 6c4f996208a85214e84c815e8c900c23, type: 2}
+  - {fileID: 11400000, guid: c19f2e2f3c139cf4187e92694f0e598e, type: 2}
+  - {fileID: 11400000, guid: 40ef5f3e4bb3da34ea82ccc68e8e137d, type: 2}
+  - {fileID: 11400000, guid: 76235f3b2ca4cb24fb460b30738ef34c, type: 2}
+  - {fileID: 11400000, guid: 1a03040cd4299404f986e56e325fd416, type: 2}
+  - {fileID: 11400000, guid: 4b2a8a8508ca2854b9ad95ca7ef27c52, type: 2}
+  - {fileID: 11400000, guid: 2ff25375106ff234f9ab1fe6ca88c056, type: 2}
+  - {fileID: 11400000, guid: 733e4b33898461840b0487b83a44dbe5, type: 2}
+  - {fileID: 11400000, guid: 935c293e50d7c5842a22655731c10ff1, type: 2}
+  - {fileID: 11400000, guid: 60f46939b1c521243a1ca2a032c9aa23, type: 2}
+  - {fileID: 11400000, guid: 073d81fd79e7d6c40b45001d1c8785ea, type: 2}
+  - {fileID: 11400000, guid: adbca838ed6a46e4bb89f18bba3d4a08, type: 2}
+  - {fileID: 11400000, guid: 5fb1603d0af3d8345841e5495f6d4796, type: 2}
+  SetName: Linking Together all Dragons
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: ce25bbf7cb81e784e86c3f3c6f859040, type: 2}
+  - {fileID: 11400000, guid: 2a0638e79f21fbc4fb819b6b76a82e8f, type: 2}
+  - {fileID: 11400000, guid: c0b69cdea93b6fb44bfca9692080325c, type: 2}
+  - {fileID: 11400000, guid: 718e34738bf2da446864cecaae7210a6, type: 2}
+  - {fileID: 11400000, guid: 7e137a3d57df57747adf509074d5e2f7, type: 2}

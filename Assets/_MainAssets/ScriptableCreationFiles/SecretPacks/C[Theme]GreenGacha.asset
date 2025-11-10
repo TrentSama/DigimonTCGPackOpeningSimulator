@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]GreenGacha
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 5397ffb5ea1fa7044aad06ef34f79746, type: 2}
+  - {fileID: 11400000, guid: c91124087f606ad4e9bfbe1ee2133fb2, type: 2}
+  - {fileID: 11400000, guid: 507c67ee42255b0439de08456f060a05, type: 2}
+  - {fileID: 11400000, guid: c8580ef3c1ac98641b583025748882bc, type: 2}
+  - {fileID: 11400000, guid: a3703563fc828174b962a30d80d517ed, type: 2}
+  - {fileID: 11400000, guid: 82c8d25f63c932e4986be2b28d379059, type: 2}
+  - {fileID: 11400000, guid: 73e72abef255b2640b2695268c7531bf, type: 2}
+  - {fileID: 11400000, guid: bcc8b9781c2e33f44ba6ea5468ec95ff, type: 2}
+  - {fileID: 11400000, guid: 6c5d36014eafc4e45b318b3451c8f5ad, type: 2}
+  - {fileID: 11400000, guid: 93506b8b520de94429ec3e54ed560941, type: 2}
+  - {fileID: 11400000, guid: 6103c3fa56f0c58459545165d34f78e9, type: 2}
+  - {fileID: 11400000, guid: 8f209fa90f696ec4d8bcaeca0d394426, type: 2}
+  - {fileID: 11400000, guid: c51ae5e13579c63409c5b36f7add32cd, type: 2}
+  - {fileID: 11400000, guid: 2a49d8fc8a1c66143b17cab24fe8576b, type: 2}
+  - {fileID: 11400000, guid: c9d0c60f6429a294692963009bc31e1c, type: 2}
+  - {fileID: 11400000, guid: 5f331cbef67c9d744943c31cc429a505, type: 2}
+  - {fileID: 11400000, guid: 61f09da6de779f647b8b8a0a8c463ff9, type: 2}
+  - {fileID: 11400000, guid: 0cfd0ed3d1a04a54fb4e3a0dfccc150d, type: 2}
+  - {fileID: 11400000, guid: f283ca8d096adf941a506b24237120e1, type: 2}
+  - {fileID: 11400000, guid: ad565b155267fb3488360786df890733, type: 2}
+  - {fileID: 11400000, guid: cdb2104eb65e12346bbd2f018ecfe57f, type: 2}
+  - {fileID: 11400000, guid: 6fafcd35b52fbb1478c166ed942c315b, type: 2}
+  - {fileID: 11400000, guid: c790d3fd991ee214285d330128bfdfd1, type: 2}
+  - {fileID: 11400000, guid: be25fb5afa8de7843a606777f477a6e3, type: 2}
+  - {fileID: 11400000, guid: 78654be7fffc34e4aaf83b803d942623, type: 2}
+  - {fileID: 11400000, guid: 48407f9c08101374789a4f685879327f, type: 2}
+  - {fileID: 11400000, guid: adc50183818a12c4f989570516578913, type: 2}
+  - {fileID: 11400000, guid: 6b653138e45c83748944eef2a53523aa, type: 2}
+  - {fileID: 11400000, guid: e7ffa795b1addea4cbc505f597dfa7d7, type: 2}
+  - {fileID: 11400000, guid: 2cab80bf9b76c1f4aa015b31fa7012cb, type: 2}
+  - {fileID: 11400000, guid: ea4d20a17f235e14e9ea64a7aba99c45, type: 2}
+  - {fileID: 11400000, guid: 82cb0bf8be5cab542933f25ebca633bc, type: 2}
+  - {fileID: 11400000, guid: de8a74c3e76af174993e02628a46f700, type: 2}
+  - {fileID: 11400000, guid: c2639ad6aa17a7446886e874e5b3611a, type: 2}
+  - {fileID: 11400000, guid: e120f7bcf65f37e4487a2099eb627e07, type: 2}
+  - {fileID: 11400000, guid: 3523d1c16bb7c144aabe60ee1bcc157c, type: 2}
+  SetName: Put it all on Green
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 507c67ee42255b0439de08456f060a05, type: 2}
+  - {fileID: 11400000, guid: 0cfd0ed3d1a04a54fb4e3a0dfccc150d, type: 2}
+  - {fileID: 11400000, guid: 82c8d25f63c932e4986be2b28d379059, type: 2}
+  - {fileID: 11400000, guid: c91124087f606ad4e9bfbe1ee2133fb2, type: 2}
+  - {fileID: 11400000, guid: 73e72abef255b2640b2695268c7531bf, type: 2}

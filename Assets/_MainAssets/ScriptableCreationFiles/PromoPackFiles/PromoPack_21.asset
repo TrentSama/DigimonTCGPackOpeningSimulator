@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: PromoPack_21
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 82c8d25f63c932e4986be2b28d379059, type: 2}
+  - {fileID: 11400000, guid: 61f80d58c08306a44a6fcb27cbd30e51, type: 2}
+  - {fileID: 11400000, guid: 115d5d863b453c14a8cd2150c8cfe932, type: 2}
+  - {fileID: 11400000, guid: 769635ad4e3129541a5194f38bf17b7c, type: 2}
+  - {fileID: 11400000, guid: 2439e725b37cb1a4ea63173005fbb453, type: 2}
+  - {fileID: 11400000, guid: bb086024dafcaff4ab7000f32d7d8890, type: 2}
+  SetName: Official Tournament Pack Vol. 7
+  SetDescription: 
+  SetCover: {fileID: 11400000, guid: 82c8d25f63c932e4986be2b28d379059, type: 2}
+  SecretPack: 0
+  PromoPack: 1
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 82c8d25f63c932e4986be2b28d379059, type: 2}
+  - {fileID: 11400000, guid: 61f80d58c08306a44a6fcb27cbd30e51, type: 2}
+  - {fileID: 11400000, guid: 115d5d863b453c14a8cd2150c8cfe932, type: 2}
+  - {fileID: 11400000, guid: 769635ad4e3129541a5194f38bf17b7c, type: 2}
+  - {fileID: 11400000, guid: 2439e725b37cb1a4ea63173005fbb453, type: 2}

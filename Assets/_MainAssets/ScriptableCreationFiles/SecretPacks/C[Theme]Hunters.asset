@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Hunters
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: f381f219d7782694caaf2f6fdcd5d94b, type: 2}
+  - {fileID: 11400000, guid: 91f27e2ed0045c846b2f553c5b35341d, type: 2}
+  - {fileID: 11400000, guid: be3db5ced046a1b48b5d767d9f3bbfda, type: 2}
+  - {fileID: 11400000, guid: 88bb3e6e5f7249d49b3cee7c1190edca, type: 2}
+  - {fileID: 11400000, guid: 30f371e4d5958f6419ca6c8a8b3b921c, type: 2}
+  - {fileID: 11400000, guid: e444b570f6b76b745ac43bbd3d47cd4b, type: 2}
+  - {fileID: 11400000, guid: 4fbac0e4b63b7b14eab6b8aceee72675, type: 2}
+  - {fileID: 11400000, guid: 5f5dc0b33bae03742a55ec3cc0fd9723, type: 2}
+  - {fileID: 11400000, guid: 485fc77a303d7ad48a8663a5ec210b21, type: 2}
+  - {fileID: 11400000, guid: d9478fbe27a146a42af9ecb3e9124c1f, type: 2}
+  - {fileID: 11400000, guid: c2f7c2e9c265c4b48beb1226deccf461, type: 2}
+  - {fileID: 11400000, guid: a14a3fbbde76c7a47a84bd95ef5c7cf7, type: 2}
+  - {fileID: 11400000, guid: b0866b377ddebf94a8a7e987b03101e0, type: 2}
+  - {fileID: 11400000, guid: e7862fad6efbf8b428948fafc7ad17cb, type: 2}
+  - {fileID: 11400000, guid: d86cf184c4fa7554886c375841e5275a, type: 2}
+  - {fileID: 11400000, guid: 8e17f53f485271d46beea6e5a74cbd3a, type: 2}
+  - {fileID: 11400000, guid: 615f952d76e48cc459a34c4fdd5dd5b2, type: 2}
+  - {fileID: 11400000, guid: 88980ec775b799744ad7305aa373143e, type: 2}
+  - {fileID: 11400000, guid: 49cb8bb01cbb2d44a859385ffbed451f, type: 2}
+  - {fileID: 11400000, guid: 409a298d78780634d8b4549e63b51a74, type: 2}
+  - {fileID: 11400000, guid: 3bf4b955710b4fa41afd5171fb0c2062, type: 2}
+  - {fileID: 11400000, guid: 534eec48e3b9fa946a7cf5f8bf412456, type: 2}
+  - {fileID: 11400000, guid: 4c523ab98120cc14badb1fb5237da8cb, type: 2}
+  - {fileID: 11400000, guid: c70591bc4e26c374abd2d76398a04007, type: 2}
+  - {fileID: 11400000, guid: ed3896af185397a4388b10f7e56b059d, type: 2}
+  - {fileID: 11400000, guid: 28d91f8fa3ca8d5439c81344db31a397, type: 2}
+  - {fileID: 11400000, guid: 879f5273c5abb604485997a1a9a5d4b8, type: 2}
+  - {fileID: 11400000, guid: b6585ad54df43fa4a97f9f4b16b4e976, type: 2}
+  - {fileID: 11400000, guid: 72319b3bde7c5ca48adeb9d92d05de07, type: 2}
+  - {fileID: 11400000, guid: 7a8647e3fa33b6e4db59a81805643b54, type: 2}
+  - {fileID: 11400000, guid: 035859673b682364eab7b4c154670fa5, type: 2}
+  - {fileID: 11400000, guid: 324298979293ea548961bcb10389a4bc, type: 2}
+  - {fileID: 11400000, guid: 08cfbab3b5e6f514e9988f6621c589a9, type: 2}
+  - {fileID: 11400000, guid: 587d716d118debc48aeb0903329200d3, type: 2}
+  - {fileID: 11400000, guid: 869c4373c8e74624ca99197480a9373e, type: 2}
+  - {fileID: 11400000, guid: 91d04805eb61b8c448c72345e1ee8be2, type: 2}
+  - {fileID: 11400000, guid: cdd99839c02e2aa4b8bd4348f142b5db, type: 2}
+  - {fileID: 11400000, guid: ee5dd88d450b78f4d9d879131ff04da8, type: 2}
+  - {fileID: 11400000, guid: 1f5ba664a3d32d24c927d77e51be1a94, type: 2}
+  - {fileID: 11400000, guid: dcb696eecdf468c4fab7085b5cdaea10, type: 2}
+  SetName: The Young Hunters who Leapt Through Time
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: f381f219d7782694caaf2f6fdcd5d94b, type: 2}
+  - {fileID: 11400000, guid: 91f27e2ed0045c846b2f553c5b35341d, type: 2}
+  - {fileID: 11400000, guid: 30f371e4d5958f6419ca6c8a8b3b921c, type: 2}
+  - {fileID: 11400000, guid: e7862fad6efbf8b428948fafc7ad17cb, type: 2}
+  - {fileID: 11400000, guid: 615f952d76e48cc459a34c4fdd5dd5b2, type: 2}

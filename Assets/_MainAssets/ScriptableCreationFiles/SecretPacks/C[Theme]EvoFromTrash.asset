@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]EvoFromTrash
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 821dda3344458c349bd397361e0fcaed, type: 2}
+  - {fileID: 11400000, guid: 7ef2074aa85bd0747b4a90b052307a7d, type: 2}
+  - {fileID: 11400000, guid: b0fe09af40fe85447865c5cf2880a958, type: 2}
+  - {fileID: 11400000, guid: 11f9b5d343611f14fbd377923a7563bd, type: 2}
+  - {fileID: 11400000, guid: 093e4b6e065a0c24d91fc431589801d8, type: 2}
+  - {fileID: 11400000, guid: fea1c6bfe7efcaf4eb5f1ae499c985ed, type: 2}
+  - {fileID: 11400000, guid: 85e148f75234899498cd2b74a6c6a10e, type: 2}
+  - {fileID: 11400000, guid: fb977d3fdd9444740bb42b75b68200fa, type: 2}
+  - {fileID: 11400000, guid: e04aa9d2beda1a54fa109be7b097f086, type: 2}
+  - {fileID: 11400000, guid: 036291b500e7181469528e5f6e203193, type: 2}
+  - {fileID: 11400000, guid: f64ab809061fb98438f3fe3fff07b03d, type: 2}
+  - {fileID: 11400000, guid: e18890f0c04d6794aa0d58d340ffec79, type: 2}
+  - {fileID: 11400000, guid: 886b20dc53291944db4a4babb9284dfa, type: 2}
+  - {fileID: 11400000, guid: 9208d86f033ff354eb25a9868dd350cb, type: 2}
+  - {fileID: 11400000, guid: 2b1b8be2b67c90b4a887f1b509cafbfb, type: 2}
+  - {fileID: 11400000, guid: 43e14e2f8427212438a90c00d3447521, type: 2}
+  - {fileID: 11400000, guid: cfa724fa4aa248041bba69409964f6c4, type: 2}
+  - {fileID: 11400000, guid: 8c1aecb73116b844390c96f1399582fd, type: 2}
+  - {fileID: 11400000, guid: e301568e85f482a47abd58ab521f7139, type: 2}
+  - {fileID: 11400000, guid: 47f55e0dffe8fe546b828c121b03e8b2, type: 2}
+  - {fileID: 11400000, guid: 1288de06eab53994b91c2dafc018fa8c, type: 2}
+  - {fileID: 11400000, guid: c22d10d7fac0b4d4392a71207528be26, type: 2}
+  - {fileID: 11400000, guid: e73268980a0841c4fb16764f7f8e0c49, type: 2}
+  - {fileID: 11400000, guid: 1442e877a2da9fd4cb0729cf37dbf646, type: 2}
+  - {fileID: 11400000, guid: eb8ae4e2ff317fb489b58de7d4fa6f33, type: 2}
+  - {fileID: 11400000, guid: b746efd37a42ad945bbf4d5eec79b320, type: 2}
+  - {fileID: 11400000, guid: 67866dd645bbd9e4ca1cfe28deb43639, type: 2}
+  - {fileID: 11400000, guid: 2f41bc872a9ef0146bc2549844ad34b4, type: 2}
+  - {fileID: 11400000, guid: 7a8647e3fa33b6e4db59a81805643b54, type: 2}
+  - {fileID: 11400000, guid: 3dbe06acc5c9c4d43b05f1db464041a7, type: 2}
+  - {fileID: 11400000, guid: 890320141091cb3449814069d694b1f7, type: 2}
+  - {fileID: 11400000, guid: 4b633e8786782fe4bbd366901e4f47a4, type: 2}
+  - {fileID: 11400000, guid: 998680a4f4f6d6242b219c894091c2b9, type: 2}
+  SetName: Strength from Below
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 7ef2074aa85bd0747b4a90b052307a7d, type: 2}
+  - {fileID: 11400000, guid: 1288de06eab53994b91c2dafc018fa8c, type: 2}
+  - {fileID: 11400000, guid: eb8ae4e2ff317fb489b58de7d4fa6f33, type: 2}
+  - {fileID: 11400000, guid: 886b20dc53291944db4a4babb9284dfa, type: 2}
+  - {fileID: 11400000, guid: 2b1b8be2b67c90b4a887f1b509cafbfb, type: 2}

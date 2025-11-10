@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Eosmon+PurpleDNA
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: c4e608fdd007a2145b726a03ec285fbc, type: 2}
+  - {fileID: 11400000, guid: e4df7787c838bc2459143bbec7d314ac, type: 2}
+  - {fileID: 11400000, guid: a236dbb5a0ef8b64da5955bd29239d5e, type: 2}
+  - {fileID: 11400000, guid: 0b092528f4c42cf4d9584abfb51ff452, type: 2}
+  - {fileID: 11400000, guid: 64926598c4973204eb2f52ef97bf4802, type: 2}
+  - {fileID: 11400000, guid: 989fb775c29538940aa0cede296f934a, type: 2}
+  - {fileID: 11400000, guid: 248428da6fb82e547875ada12b8ee067, type: 2}
+  - {fileID: 11400000, guid: 8c9d4c09fbe7c5f4db3d7302c5fd9904, type: 2}
+  - {fileID: 11400000, guid: 8c9d4c09fbe7c5f4db3d7302c5fd9904, type: 2}
+  - {fileID: 11400000, guid: 9494bde2c54acfb47869846767850d6f, type: 2}
+  - {fileID: 11400000, guid: 380044dfb17bd1b4b810d4331d60fde1, type: 2}
+  - {fileID: 11400000, guid: fba184331e72fc64b88aa04142f25e45, type: 2}
+  - {fileID: 11400000, guid: ddaaa4b733c4afb44a3177397b263bd0, type: 2}
+  - {fileID: 11400000, guid: 9edb8109966229e40970edf6f4ecedbc, type: 2}
+  - {fileID: 11400000, guid: d88a058cc7e81674bb137d270e6e3e23, type: 2}
+  - {fileID: 11400000, guid: ab0f48717ad734142a367205d16f6f31, type: 2}
+  - {fileID: 11400000, guid: daef772ebc4fcb34aabda362495d7414, type: 2}
+  - {fileID: 11400000, guid: c3f0b2318db886342aabb985e2a8b074, type: 2}
+  - {fileID: 11400000, guid: 20a0d411ec580b4459c94db69dbe2475, type: 2}
+  - {fileID: 11400000, guid: faa9f4c61e4405f4483edaa1d1071e28, type: 2}
+  - {fileID: 11400000, guid: 6c2dc31420e124748ac0d7334f4d2a62, type: 2}
+  - {fileID: 11400000, guid: 8ad92a52aaec3a842adffe20a8065bcc, type: 2}
+  - {fileID: 11400000, guid: f5b7df61ef3c10d4eb1e0b9975223204, type: 2}
+  - {fileID: 11400000, guid: ba334401b14c2d943b44c23b46aaf64a, type: 2}
+  - {fileID: 11400000, guid: 2832f778f9e5e384ab7ef9d6a2b7de75, type: 2}
+  - {fileID: 11400000, guid: 3765680ca1b765741bb92036a939e41a, type: 2}
+  - {fileID: 11400000, guid: 28a473db3bbd55546819b86e05e908ff, type: 2}
+  - {fileID: 11400000, guid: 138128b2a85a6e844bd9cb7e55bd2625, type: 2}
+  - {fileID: 11400000, guid: 10b15f31c0071e34087bac08cd0c4ef0, type: 2}
+  - {fileID: 11400000, guid: ee9fa53e56fcb1d4cac88a7d9a7e8cd7, type: 2}
+  - {fileID: 11400000, guid: 4cad6cf14df3d184f99513b4f27853a7, type: 2}
+  - {fileID: 11400000, guid: 3bcc74a2cc6109a408391d2065ad6b32, type: 2}
+  - {fileID: 11400000, guid: ad0878e97b3bb0544b65b9cef0e37a42, type: 2}
+  - {fileID: 11400000, guid: c971fb82c20c85641b51067d74f0735d, type: 2}
+  - {fileID: 11400000, guid: 9a9b8e9f50947734ba656a60eb4649bd, type: 2}
+  - {fileID: 11400000, guid: f585f09b3f6195940a69e45c8b925669, type: 2}
+  SetName: Corrupted Dreams
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 248428da6fb82e547875ada12b8ee067, type: 2}
+  - {fileID: 11400000, guid: a236dbb5a0ef8b64da5955bd29239d5e, type: 2}
+  - {fileID: 11400000, guid: c4e608fdd007a2145b726a03ec285fbc, type: 2}
+  - {fileID: 11400000, guid: 64926598c4973204eb2f52ef97bf4802, type: 2}
+  - {fileID: 11400000, guid: 8ad92a52aaec3a842adffe20a8065bcc, type: 2}

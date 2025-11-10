@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36c1ad7f18a824d848046070f9642f, type: 3}
+  m_Name: C[Theme]Bonds
+  m_EditorClassIdentifier: 
+  ListOfCardsInSet:
+  - {fileID: 11400000, guid: 99524ca4cbcfa9840a858dabfe23aee7, type: 2}
+  - {fileID: 11400000, guid: b7083df0672b8dd458878cf9f131adc7, type: 2}
+  - {fileID: 11400000, guid: ff80ba16fdc10654b99e6a4424061758, type: 2}
+  - {fileID: 11400000, guid: 78c8051b49ec37e4da91c8893f8309f7, type: 2}
+  - {fileID: 11400000, guid: 18403ce86cf616944bd61de36a4bd60c, type: 2}
+  - {fileID: 11400000, guid: 49a5465918ab59d44ae0d13e67aea91a, type: 2}
+  - {fileID: 11400000, guid: 1213402bbd6a9d4448e1c18feedd423a, type: 2}
+  - {fileID: 11400000, guid: 55ee3b16df96b3f4c8569110cab1e571, type: 2}
+  - {fileID: 11400000, guid: bbecbdf1db3fc5f438cd6245316603b3, type: 2}
+  - {fileID: 11400000, guid: 20fc95d5d01025643918947d4257aa66, type: 2}
+  - {fileID: 11400000, guid: 4e8272c79753d074b9be11e87eccff58, type: 2}
+  - {fileID: 11400000, guid: 6c05cc0a6cd6bd940aa164b7ffa66796, type: 2}
+  - {fileID: 11400000, guid: 0d45667d33b842f4e82e4f94c6239bf1, type: 2}
+  - {fileID: 11400000, guid: 8c05b7f07680ecb469e559a3e18c150f, type: 2}
+  - {fileID: 11400000, guid: 6c81bc27f5cbb1a4a8095bb7b648bf67, type: 2}
+  - {fileID: 11400000, guid: ebcf9b122f83f1d458260a0a9bbe6288, type: 2}
+  - {fileID: 11400000, guid: f412e71498d5f684b94e1d6493114c73, type: 2}
+  - {fileID: 11400000, guid: 4ed07ffe70124de4485be9ac1833d812, type: 2}
+  - {fileID: 11400000, guid: 349ec2bcea53e8340ba649adf91f1fc4, type: 2}
+  - {fileID: 11400000, guid: 77fd4d5107642994cb1625e77e5fe08e, type: 2}
+  - {fileID: 11400000, guid: f6320d14d78131f4eb196f5e9807ce93, type: 2}
+  - {fileID: 11400000, guid: f08668c29a34c8e419f5d4c6d67f51d0, type: 2}
+  - {fileID: 11400000, guid: a0db1387a4a3e3340903066594eeb246, type: 2}
+  - {fileID: 11400000, guid: 4a2ab1bcedfe17841a677e20e3794682, type: 2}
+  - {fileID: 11400000, guid: 48f5de06fb2949040a1cb6dbe71b3570, type: 2}
+  - {fileID: 11400000, guid: 1856e999596784d44b6b7022af7836f0, type: 2}
+  - {fileID: 11400000, guid: 2f37e0cdbea89dc41993da78e1e32992, type: 2}
+  - {fileID: 11400000, guid: 82aa2af944376984080f831e3ce74ec1, type: 2}
+  - {fileID: 11400000, guid: 3aadfaa377416b842aa6a5d39944a041, type: 2}
+  - {fileID: 11400000, guid: 6cf7f7c6b78770f4c966de378b337bcf, type: 2}
+  - {fileID: 11400000, guid: 40d3a679b8025e9478d0caccc1ab9f53, type: 2}
+  - {fileID: 11400000, guid: bb4a3189de974264cbbae43af1053960, type: 2}
+  SetName: Bonds of Friendship & Courage
+  SetDescription: 
+  SetCover: {fileID: 0}
+  SecretPack: 1
+  PromoPack: 0
+  hasBeenUnlocked: 0
+  hasBeenCompleted: 0
+  KeyCards:
+  - {fileID: 11400000, guid: 8c05b7f07680ecb469e559a3e18c150f, type: 2}
+  - {fileID: 11400000, guid: b7083df0672b8dd458878cf9f131adc7, type: 2}
+  - {fileID: 11400000, guid: 99524ca4cbcfa9840a858dabfe23aee7, type: 2}
+  - {fileID: 11400000, guid: 4e8272c79753d074b9be11e87eccff58, type: 2}
+  - {fileID: 11400000, guid: f412e71498d5f684b94e1d6493114c73, type: 2}
